@@ -73,3 +73,39 @@ maturity.* The pool includes 2025–2026 papers that have little or no citation
 history, so their impact score rests on the fallback proxy or is near zero. A few
 may be ranked lower than their eventual importance warrants (or included on
 recency alone). Worth a second look at the newest entries during curation.
+
+---
+
+## Phase 2 additions / updates
+
+**F2 — RESOLVED.** Semantic Scholar recovered via the bulk endpoint; 152 quality-
+gated new papers merged (see DECISIONS D1–D2). No key was needed.
+
+**F5 — LARGELY RESOLVED.** Meta-analysis share cut from 72% to 45% via a per-theme
+soft cap; final tier mix is 45 meta / 47 RCT / 8 mechanistic. Residual note: only
+8 cross-sectional/mechanistic papers overall — reviewers wanting a more
+mechanism-heavy brain theme could raise the neuroimaging floor above 10.
+
+**F6 — RESOLVED via title-alignment gate (D5).** All broad exercise/
+non-pharmacological reviews where meditation was one arm were removed. Residual
+judgment: "mind-body exercise" reviews (tai chi/yoga) are kept as MoM-adjacent;
+a stricter reviewer might want only breath-and-attention practices.
+
+**F11 (new) — 27 outside-PubMed S2 papers scored on a different basis.** Papers
+not indexed in PubMed lack an iCite RCR, so they are scored on S2 citation count
+normalized by year rather than the field-normalized RCR used elsewhere. None
+reached the final 100, but they sit in the longlist/pool on a slightly different
+metric. Re-verify their metadata before promoting any into the 100.
+
+**F12 (new) — "null result" detection is abstract-keyword based.** The 7
+null/mixed papers in the final 100 were flagged from abstract-level language in
+the harvest, not from reading results tables. Titles rarely announce a null, so
+a reviewer should confirm each genuinely reports a null/mixed primary outcome
+before it is presented as the brief's required null-result representation.
+
+**F13 (new) — single critical review may be thin.** The final 100 contains one
+dedicated critical/safety review (meditative-movement therapy safety in
+fibromyalgia). The brief asks for "at least one major critical review of
+meditation-research quality"; this qualifies, but a stronger choice would be a
+general methodological critique (e.g. a risk-of-bias/repro review of the whole
+field). Worth swapping in during content production.

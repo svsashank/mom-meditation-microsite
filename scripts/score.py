@@ -75,10 +75,13 @@ for pmid,rec in col.items():
       "journal":m.get("journal",""),"themes":themes,"tier":TIER_LABEL[tier],"tier_key":tier,
       "pubtypes":"; ".join(pt),"citations":cc,"cpy":round(cpy,2),"rcr":(round(float(rcr),2) if rcr is not None else ""),
       "yogic":yogic,"priority_bidmc":is_priority,"is_null_or_critical":is_null,"score":round(score,2),
-      "last_author":m.get("lastauthor","")})
+      "last_author":m.get("lastauthor",""),
+      "neuro":bool(rec.get("neuro_supp")) or ("brain_mechanisms" in rec["themes"] and tier in ("cross_mech","cohort")),
+      "s2_added":bool(rec.get("s2_added")),"pmid_is_synth":pmid.startswith("S2_")})
 
 rows.sort(key=lambda r:-r["score"])
 print("after filters:",len(rows),"dropped:",dropped,file=sys.stderr)
+import json as _j; _j.dump(rows,open("/tmp/scored_rows.json","w"))
 
 # ---- Assemble the ~100-oriented longlist by theme distribution, longlist 250-300 ----
 # Assign each paper to its primary theme (first theme that still needs slots, else first theme)

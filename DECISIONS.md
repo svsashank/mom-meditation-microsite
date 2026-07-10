@@ -126,3 +126,57 @@ pool of 494 candidates at `data/scored_pool.csv`; harvest/scoring scripts under
 `scripts/` so the selection is reproducible. Traces to §9 logging + §10 review
 artifacts (PAPERS-100.csv is the later, curated deliverable; this is its
 longlist precursor).
+
+---
+
+## Phase 2 — Semantic Scholar merge, neuroimaging supplement, curation to 100
+
+**D1. Semantic Scholar recovered via the bulk endpoint (resolves F2).** The
+keyless `/paper/search` endpoint returns HTTP 429 (shared-pool rate limit), but
+`/paper/search/bulk` responds without a key. Ran 8 bulk queries (7 themes +
+a dedicated yogic/breath neuroimaging query), 6,169 unique S2 papers. Deduped
+against the existing pool by PMID, DOI, and normalized title.
+
+**D2. S2 merge is quality-gated, not bulk-dumped.** Of 6,081 genuinely new S2
+papers, I folded in only those that were (a) meditation-relevant by title,
+(b) ≥100 citations (landmark threshold — if PubMed's structured queries missed a
+100+ citation meditation paper, it is worth catching), (c) had a DOI, and
+(d) were not preprints. Result: 152 added (125 PubMed-indexed, enriched via iCite
+for scoring consistency; 27 outside PubMed, scored on S2 citation count
+normalized by year). Rationale: honor the brief's Semantic Scholar source
+without importing thousands of low-quality/preprint hits. Notable catches:
+Sudarshan Kriya Yogic Breathing (Brown & Gerbarg), meditation-induced
+white-matter change (Tang), voxel-based morphometry of meditators.
+
+**D3. Dedicated neuroimaging supplement (resolves F5/F6 for the brain theme).**
+Ran a PubMed search crossing yogic/breath-attention practices with imaging
+methods (fMRI, EEG, MEG, VBM, cortical thickness, functional connectivity, DMN,
+ERP, gamma/alpha). 101 hits, 77 new to the pool. The brain & mechanisms theme
+now has 139 primary-neuroimaging/mechanistic candidates to draw its 20 from.
+
+**D4. Final-100 curation rules (§5).** (a) Theme quotas filled exactly to the §5
+distribution (20/10/15/15/20/10/10). (b) Brain theme carries a floor of 10
+primary neuroimaging/mechanistic studies before meta-analyses top it up. (c) A
+per-theme soft cap of ~60% on meta-analyses so landmark primary RCTs and
+mechanistic studies are represented — this moved the tier mix from 72%
+meta-analysis (longlist) to 45 meta / 47 RCT / 8 mechanistic in the final 100.
+(d) Balance guarantee: ≥3 null/mixed-or-field-critical papers and ≥1 dedicated
+critical/safety review of meditation research (§5 balance requirement).
+(e) ≥4 Sadhguru Center @ BIDMC papers retained. Scarce themes are assigned first
+so multi-theme papers land where slots are tightest.
+
+**D5. Title-level alignment gate for the final 100 (directly resolves F6).** An
+early cut of the 100 contained ~40 broad "exercise / physical-activity /
+non-pharmacological intervention" reviews where meditation was only one arm
+(e.g. neck-disorder exercises, migraine prevention, physician burnout). I
+required the paper's TITLE to name a meditation/mind-body practice
+(meditation, mindfulness, yoga, pranayama, breath, tai chi/qigong, MBSR/MBCT,
+etc.), excluding exercise-only reviews, and exempting the pre-vetted Sadhguru
+Center papers. This removed all 40 off-topic titles and refilled with genuinely
+meditation-centered studies. The final 100 has zero non-core, non-BIDMC titles.
+
+**D6. `PAPERS-100.csv` schema.** rank, pmid/id, DOI, title, year, journal, theme,
+study type, alignment (yogic-weighted vs general), citation count, citations/yr,
+RCR, yogic flag, BIDMC flag, null/critical flag, selection score, inclusion
+reason, last author. `LONGLIST.csv` regenerated over the expanded 723-candidate
+pool (296 rows). Full pool retained at `data/scored_pool.csv`.
