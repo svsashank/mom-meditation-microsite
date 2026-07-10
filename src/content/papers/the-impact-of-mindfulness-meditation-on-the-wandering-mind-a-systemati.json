@@ -1,0 +1,48 @@
+{
+ "pmid": "34560133",
+ "doi": "10.1016/j.neubiorev.2021.09.032",
+ "title": "The Impact of Mindfulness Meditation on the Wandering Mind: a Systematic Review",
+ "year": 2021,
+ "journal": "Neuroscience and biobehavioral reviews",
+ "authors": [
+  "Feruglio S",
+  "Matiz A",
+  "Pagnoni G",
+  "Fabbro F",
+  "Crescentini C"
+ ],
+ "theme": "Brain & Mechanisms",
+ "allThemes": [
+  "Brain & Mechanisms"
+ ],
+ "studyType": "Meta-analysis / Systematic review",
+ "claimStrength": "Meta-analytic evidence",
+ "alignment": "general mindfulness/meditation",
+ "practiceStudied": "mindfulness / meditation",
+ "isMoM": "N",
+ "citationCount": 43,
+ "rcr": "4.32",
+ "headline": "The Impact of Mindfulness Meditation on the Wandering Mind: a Systematic Review",
+ "summary": "A meta-analysis / systematic review of mindfulness / meditation examined brain & mechanisms. Through the practice of Mindfulness Meditation (MM), meditators become familiar with the observation of ongoing spontaneous thoughts, while maintaining an attitude of openness and equanimity.",
+ "keyFindings": [
+  "Through the practice of Mindfulness Meditation (MM), meditators become familiar with the observation of ongoing spontaneous thoughts, while maintaining an attitude of openness and equanimity.",
+  "The aim of this systematic review is to present a synthesis of available findings of the short and long-term effects of MM on mind wandering (MW)."
+ ],
+ "methodology": {
+  "studyType": "Meta-analysis / Systematic review",
+  "sampleSize": "see paper",
+  "duration": "2 weeks",
+  "practice": "mindfulness / meditation",
+  "comparator": "see paper"
+ },
+ "limitations": [
+  "The aim of this systematic review is to present a synthesis of available findings of the short and long-term effects of MM on mind wandering (MW).",
+  "Reviewed studies revealed a high heterogeneity in designs, outcome measures and interventions.",
+  "Cross-sectional studies highlighted differences between expert meditators and na\u00efve individuals: meditators self-reported less MW and showed decreased Default Mode Network activity, during meditation and resting-state.",
+  "Pooled estimates combine heterogeneous studies; effect sizes vary by practice, population, and control condition."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "brain-mechanisms",
+ "editorialReview": true
+}

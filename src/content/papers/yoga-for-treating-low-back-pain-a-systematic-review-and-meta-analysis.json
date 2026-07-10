@@ -1,0 +1,49 @@
+{
+ "pmid": "34326296",
+ "doi": "10.1097/j.pain.0000000000002416",
+ "title": "Yoga for treating low back pain: a systematic review and meta-analysis",
+ "year": 2022,
+ "journal": "Pain",
+ "authors": [
+  "Anheyer D",
+  "Haller H",
+  "Lauche R",
+  "Dobos G",
+  "Cramer H"
+ ],
+ "theme": "Clinical Research",
+ "allThemes": [
+  "Clinical Research"
+ ],
+ "studyType": "Meta-analysis / Systematic review",
+ "claimStrength": "Meta-analytic evidence",
+ "alignment": "yogic/breath-attention (weighted up)",
+ "practiceStudied": "yoga",
+ "isMoM": "N",
+ "citationCount": 54,
+ "rcr": "7.57",
+ "headline": "Yoga for treating low back pain: a systematic review and meta-analysis",
+ "summary": "A meta-analysis / systematic review of yoga examined clinical research. Compared with passive control, yoga was associated with short-term improvements in pain intensity (15 RCTs; mean difference [MD] = -0.74 points on a numeric rating scale; 95% confidence interval [CI] = -1.04 to -0.44; standardized mean difference [SMD] = -0.37 95% CI = -0.52 to -0.22), pain-related disability (15 RCTs; MD = -2.28; 95% CI = -3.30 to -1.26; SMD = -0.38 95% CI = -0.55 to -0.21), mental health (7 RCTs; MD = 1.70; 95% CI = 0.20-3.20; SMD = 0.17 95% CI = 0.02-0.32), and physical functioning (9 RCTs; MD = 2.80; 95% CI = 1.00-4.70; SMD = 0.28 95% CI = 0.10-0.47). Compared with an active comparator, yoga was not associated with any significant differences in short-term or long-term outcomes.",
+ "keyFindings": [
+  "However, the evidence was judged to be of only low to moderate certainty.",
+  "Compared with passive control, yoga was associated with short-term improvements in pain intensity (15 RCTs; mean difference [MD] = -0.74 points on a numeric rating scale; 95% confidence interval [CI] = -1.04 to -0.44; standardized mean difference [SMD] = -0.37 95% CI = -0.52 to -0.22), pain-related disability (15 RCTs; MD = -2.28; 95% CI = -3.30 to -1.26; SMD = -0.38 95% CI = -0.55 to -0.21), mental health (7 RCTs; MD = 1.70; 95% CI = 0.20-3.20; SMD = 0.17 95% CI = 0.02-0.32), and physical functioning (9 RCTs; MD = 2.80; 95% CI = 1.00-4.70; SMD = 0.28 95% CI = 0.10-0.47).",
+  "Compared with an active comparator, yoga was not associated with any significant differences in short-term or long-term outcomes."
+ ],
+ "methodology": {
+  "studyType": "Meta-analysis / Systematic review",
+  "sampleSize": "2702 participants",
+  "duration": "see paper",
+  "practice": "yoga",
+  "comparator": "waitlist/usual care"
+ },
+ "limitations": [
+  "Two reviewers independently extracted data on study characteristics, outcome measures, and results at short-term and long-term follow-up.",
+  "Risk of bias was assessed using the Cochrane risk of bias tool.",
+  "Compared with passive control, yoga was associated with short-term improvements in pain intensity (15 RCTs; mean difference [MD] = -0.74 points on a numeric rating scale; 95% confidence interval [CI] = -1.04 to -0.44; standardized mean difference [SMD] = -0.37 95% CI = -0.52 to -0.22), pain-related disability (15 RCTs; MD = -2.28; 95% CI = -3.30 to -1.26; SMD = -0.38 95% CI = -0.55 to -0.21), mental health (7 RCTs; MD = 1.70; 95% CI = 0.20-3.20; SMD = 0.17 95% CI = 0.02-0.32), and physical functioning (9 RCTs; MD = 2.80; 95% CI = 1.00-4.70; SMD = 0.28 95% CI = 0.10-0.47).",
+  "Pooled estimates combine heterogeneous studies; effect sizes vary by practice, population, and control condition."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "clinical-research",
+ "editorialReview": true
+}

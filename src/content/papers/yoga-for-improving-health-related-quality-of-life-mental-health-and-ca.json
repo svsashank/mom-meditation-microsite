@@ -1,0 +1,50 @@
+{
+ "pmid": "28045199",
+ "doi": "10.1002/14651858.CD010802.pub2",
+ "title": "Yoga for improving health-related quality of life, mental health and cancer-related symptoms in women diagnosed with breast cancer",
+ "year": 2017,
+ "journal": "The Cochrane database of systematic reviews",
+ "authors": [
+  "Cramer H",
+  "Lauche R",
+  "Klose P",
+  "Lange S",
+  "Langhorst J",
+  "Dobos GJ"
+ ],
+ "theme": "Sleep",
+ "allThemes": [
+  "Sleep"
+ ],
+ "studyType": "Meta-analysis / Systematic review",
+ "claimStrength": "Meta-analytic evidence",
+ "alignment": "yogic/breath-attention (weighted up)",
+ "practiceStudied": "yoga",
+ "isMoM": "adjacent",
+ "citationCount": 288,
+ "rcr": "13.67",
+ "headline": "Yoga for improving health-related quality of life, mental health and cancer-related symptoms in women diagnose",
+ "summary": "A meta-analysis / systematic review of yoga examined sleep. Moderate-quality evidence supports the recommendation of yoga as a supportive intervention for improving health-related quality of life and reducing fatigue and sleep disturbances when compared with no therapy, as well as for reducing depression, anxiety and fatigue, when compared with psychosocial/educational interventions. Very low-quality evidence suggests that yoga might be as effective as other exercise interventions and might be used as an alternative to other exercise programmes.",
+ "keyFindings": [
+  "No trial adequately reported safety-related data.Three studies that compared yoga versus exercise presented very low-quality evidence showing no short-term effects on health-related quality of life (pooled SMD -0.04, 95% CI -0.30 to 0.23; three studies, 233 participants) or fatigue (pooled SMD -0.21, 95% CI -0.66 to 0.25; three studies, 233 participants); no trial provided safety-related data.",
+  "Moderate-quality evidence supports the recommendation of yoga as a supportive intervention for improving health-related quality of life and reducing fatigue and sleep disturbances when compared with no therapy, as well as for reducing depression, anxiety and fatigue, when compared with psychosocial/educational interventions.",
+  "Very low-quality evidence suggests that yoga might be as effective as other exercise interventions and might be used as an alternative to other exercise programmes."
+ ],
+ "methodology": {
+  "studyType": "Meta-analysis / Systematic review",
+  "sampleSize": "24 studies",
+  "duration": "see paper",
+  "practice": "yoga",
+  "comparator": "active/other control"
+ },
+ "limitations": [
+  "We assessed potential risk of publication bias through visual analysis of funnel plot symmetry and heterogeneity between studies by using the Chi We included 24 studies with a total of 2166 participants, 23 of which provided data for meta-analysis.",
+  "Thirteen studies had low risk of selection bias, five studies reported adequate blinding of outcome assessment and 15 studies had low risk of attrition bias.Seventeen studies that compared yoga versus no therapy provided moderate-quality evidence showing that yoga improved health-related quality of life (pooled SMD 0.22, 95% CI 0.04 to 0.40; 10 studies, 675 participants), reduced fatigue (pooled SMD -0.48, 95% CI -0.75 to -0.20; 11 studies, 883 participants) and reduced sleep disturbances in the short term (pooled SMD -0.25, 95% CI -0.40 to -0.09; six studies, 657 participants).",
+  "This hints at overall low risk of publication bias.",
+  "Pooled estimates combine heterogeneous studies; effect sizes vary by practice, population, and control condition."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "sleep",
+ "editorialReview": true
+}

@@ -1,0 +1,47 @@
+{
+ "pmid": "35064741",
+ "doi": "10.1111/aphw.12341",
+ "title": "Online Isha Upa Yoga for student mental health and well-being during COVID-19: A randomized control trial",
+ "year": 2022,
+ "journal": "Applied psychology. Health and well-being",
+ "authors": [
+  "Chang TFH",
+  "Ley BL",
+  "Ramburn TT",
+  "Srinivasan S",
+  "Hariri S",
+  "Purandare P"
+ ],
+ "theme": "Stress & Anxiety",
+ "allThemes": [
+  "Stress & Anxiety"
+ ],
+ "studyType": "RCT",
+ "claimStrength": "Randomized-trial evidence",
+ "alignment": "yogic/breath-attention (weighted up)",
+ "practiceStudied": "yoga",
+ "isMoM": "adjacent",
+ "citationCount": 21,
+ "rcr": "3.09",
+ "headline": "Online Isha Upa Yoga for student mental health and well-being during COVID-19: A randomized control trial",
+ "summary": "A randomized controlled trial of yoga examined stress & anxiety. College students experienced increased stress and anxiety during the COVID-19 pandemic.",
+ "keyFindings": [
+  "College students experienced increased stress and anxiety during the COVID-19 pandemic.",
+  "This study evaluated the effect of brief online Isha Upa Yoga modules on undergraduates' mental health and well-being."
+ ],
+ "methodology": {
+  "studyType": "RCT",
+  "sampleSize": "N = 679",
+  "duration": "12\u2009weeks",
+  "practice": "yoga",
+  "comparator": "waitlist/usual care"
+ },
+ "limitations": [
+  "Single-trial result; requires replication, and self-reported outcomes may inflate apparent effects.",
+  "The practice studied (yoga) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": true,
+ "quoteKey": "stress-anxiety",
+ "editorialReview": true
+}

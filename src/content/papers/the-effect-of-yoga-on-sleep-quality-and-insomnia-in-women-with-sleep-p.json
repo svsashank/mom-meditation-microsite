@@ -1,0 +1,48 @@
+{
+ "pmid": "32357858",
+ "doi": "10.1186/s12888-020-02566-4",
+ "title": "The effect of yoga on sleep quality and insomnia in women with sleep problems: a systematic review and meta-analysis",
+ "year": 2020,
+ "journal": "BMC psychiatry",
+ "authors": [
+  "Wang WL",
+  "Chen KH",
+  "Pan YC",
+  "Yang SN",
+  "Chan YY"
+ ],
+ "theme": "Sleep",
+ "allThemes": [
+  "Sleep"
+ ],
+ "studyType": "Meta-analysis / Systematic review",
+ "claimStrength": "Meta-analytic evidence",
+ "alignment": "yogic/breath-attention (weighted up)",
+ "practiceStudied": "yoga",
+ "isMoM": "N",
+ "citationCount": 89,
+ "rcr": "7.58",
+ "headline": "The effect of yoga on sleep quality and insomnia in women with sleep problems: a systematic review and meta-an",
+ "summary": "A meta-analysis / systematic review of yoga examined sleep. Yoga was not associated with any serious adverse events. The moderator analyses suggest that participants in the non-breast cancer subgroup and participants in the non-peri/postmenopausal subgroup were associated with greater benefits, with a direct correlation of total class time with quality of sleep among other related benefits.",
+ "keyFindings": [
+  "Four RCTs revealed no evidence for the effects of yoga compared with the control group in improving the sleep quality for peri/postmenopausal women using PSQI (SMD = - 0.31; 95% CI = - 0.95 to 0.33; P = 0.34).",
+  "Yoga was not associated with any serious adverse events.",
+  "The moderator analyses suggest that participants in the non-breast cancer subgroup and participants in the non-peri/postmenopausal subgroup were associated with greater benefits, with a direct correlation of total class time with quality of sleep among other related benefits."
+ ],
+ "methodology": {
+  "studyType": "Meta-analysis / Systematic review",
+  "sampleSize": "1832 participants",
+  "duration": "see paper",
+  "practice": "yoga",
+  "comparator": "active/other control"
+ },
+ "limitations": [
+  "Two reviewers independently evaluated risk of bias by using the risk of bias tool suggested by the Cochrane Collaboration for programming and conducting systematic reviews and meta-analyses.",
+  "Pooled estimates combine heterogeneous studies; effect sizes vary by practice, population, and control condition.",
+  "The practice studied (yoga) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "sleep",
+ "editorialReview": true
+}

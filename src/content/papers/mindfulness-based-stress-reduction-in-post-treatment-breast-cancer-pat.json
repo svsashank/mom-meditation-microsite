@@ -1,0 +1,47 @@
+{
+ "pmid": "27720794",
+ "doi": "10.1016/j.jpainsymman.2016.08.005",
+ "title": "Mindfulness-Based Stress Reduction in Post-treatment Breast Cancer Patients: Immediate and Sustained Effects Across Multiple Symptom Clusters",
+ "year": 2017,
+ "journal": "Journal of pain and symptom management",
+ "authors": [
+  "Reich RR",
+  "Lengacher CA",
+  "Alinat CB",
+  "Kip KE",
+  "Paterson C",
+  "Ramesar S"
+ ],
+ "theme": "Stress & Anxiety",
+ "allThemes": [
+  "Stress & Anxiety"
+ ],
+ "studyType": "RCT",
+ "claimStrength": "Randomized-trial evidence",
+ "alignment": "general mindfulness/meditation",
+ "practiceStudied": "Mindfulness-Based Stress Reduction (MBSR)",
+ "isMoM": "adjacent",
+ "citationCount": 130,
+ "rcr": "6.42",
+ "headline": "Mindfulness-Based Stress Reduction in Post-treatment Breast Cancer Patients: Immediate and Sustained Effects A",
+ "summary": "A randomized controlled trial of Mindfulness-Based Stress Reduction (MBSR) examined stress & anxiety. From baseline to six weeks, the model demonstrated evidence of MBSR(BC) effectiveness in both the psychological (anxiety, depression, perceived stress and QOL, emotional well-being) (P = 0.007) and fatigue (fatigue, sleep, and drowsiness) (P < 0.001) clusters. Our results provide clinical effectiveness evidence that MBSR(BC) works to improve symptom clusters, particularly for psychological and fatigue symptom clusters, with the greatest improvement occurring during the six-week program with sustained effects for several weeks after MBSR(BC) training.",
+ "keyFindings": [
+  "From baseline to six weeks, the model demonstrated evidence of MBSR(BC) effectiveness in both the psychological (anxiety, depression, perceived stress and QOL, emotional well-being) (P = 0.007) and fatigue (fatigue, sleep, and drowsiness) (P < 0.001) clusters.",
+  "Our results provide clinical effectiveness evidence that MBSR(BC) works to improve symptom clusters, particularly for psychological and fatigue symptom clusters, with the greatest improvement occurring during the six-week program with sustained effects for several weeks after MBSR(BC) training."
+ ],
+ "methodology": {
+  "studyType": "RCT",
+  "sampleSize": "see paper",
+  "duration": "12\u00a0weeks",
+  "practice": "Mindfulness-Based Stress Reduction (MBSR)",
+  "comparator": "waitlist/usual care"
+ },
+ "limitations": [
+  "Single-trial result; requires replication, and self-reported outcomes may inflate apparent effects.",
+  "The practice studied (Mindfulness-Based Stress Reduction (MBSR)) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "stress-anxiety",
+ "editorialReview": true
+}

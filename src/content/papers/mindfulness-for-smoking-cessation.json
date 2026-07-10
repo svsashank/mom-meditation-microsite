@@ -1,0 +1,48 @@
+{
+ "pmid": "35420700",
+ "doi": "10.1002/14651858.CD013696.pub2",
+ "title": "Mindfulness for smoking cessation",
+ "year": 2022,
+ "journal": "The Cochrane database of systematic reviews",
+ "authors": [
+  "Jackson S",
+  "Brown J",
+  "Norris E",
+  "Livingstone-Banks J",
+  "Hayes E",
+  "Lindson N"
+ ],
+ "theme": "Focus & Attention",
+ "allThemes": [
+  "Focus & Attention"
+ ],
+ "studyType": "Meta-analysis / Systematic review",
+ "claimStrength": "Meta-analytic evidence",
+ "alignment": "yogic/breath-attention (weighted up)",
+ "practiceStudied": "yoga",
+ "isMoM": "N",
+ "citationCount": 37,
+ "rcr": "4.58",
+ "headline": "Mindfulness for smoking cessation",
+ "summary": "A meta-analysis / systematic review of yoga examined focus & attention. However, the evidence was of low and very low certainty due to risk of bias, inconsistency, and imprecision, meaning future evidence may very likely change our interpretation of the results.",
+ "keyFindings": [
+  "However, the evidence was of low and very low certainty due to risk of bias, inconsistency, and imprecision, meaning future evidence may very likely change our interpretation of the results."
+ ],
+ "methodology": {
+  "studyType": "Meta-analysis / Systematic review",
+  "sampleSize": "21 studies",
+  "duration": "see paper",
+  "practice": "yoga",
+  "comparator": "waitlist/usual care"
+ },
+ "limitations": [
+  "We judged four of the studies to be at low risk of bias, nine at unclear risk, and eight at high risk.",
+  "However, the evidence was of low and very low certainty due to risk of bias, inconsistency, and imprecision, meaning future evidence may very likely change our interpretation of the results.",
+  "Pooled estimates combine heterogeneous studies; effect sizes vary by practice, population, and control condition.",
+  "The practice studied (yoga) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "focus-attention",
+ "editorialReview": true
+}

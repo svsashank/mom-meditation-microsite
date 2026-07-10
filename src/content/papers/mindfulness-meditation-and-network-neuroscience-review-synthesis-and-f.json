@@ -1,0 +1,47 @@
+{
+ "pmid": "39561891",
+ "doi": "10.1016/j.bpsc.2024.11.005",
+ "title": "Mindfulness Meditation and Network Neuroscience: Review, Synthesis, and Future Directions",
+ "year": 2025,
+ "journal": "Biological psychiatry. Cognitive neuroscience and neuroimaging",
+ "authors": [
+  "Prakash RS",
+  "Shankar A",
+  "Tripathi V",
+  "Yang WFZ",
+  "Fisher M",
+  "Bauer CCC"
+ ],
+ "theme": "Brain & Mechanisms",
+ "allThemes": [
+  "Brain & Mechanisms"
+ ],
+ "studyType": "RCT",
+ "claimStrength": "Randomized-trial evidence",
+ "alignment": "general mindfulness/meditation",
+ "practiceStudied": "mindfulness / meditation",
+ "isMoM": "N",
+ "citationCount": 14,
+ "rcr": "5.91",
+ "headline": "Mindfulness Meditation and Network Neuroscience: Review, Synthesis, and Future Directions",
+ "summary": "A randomized controlled trial of mindfulness / meditation examined brain & mechanisms. Although preliminary, results across studies suggest that mindfulness meditation results in a shift in connector hubs, such as the anterior cingulate cortex, the thalamus, and the mid-insula. Although there is mixed evidence regarding the impact of mindfulness training on global metrics of connectivity, the default mode network exhibits reduced intraconnectivity following mindfulness training.",
+ "keyFindings": [
+  "Although preliminary, results across studies suggest that mindfulness meditation results in a shift in connector hubs, such as the anterior cingulate cortex, the thalamus, and the mid-insula.",
+  "Although there is mixed evidence regarding the impact of mindfulness training on global metrics of connectivity, the default mode network exhibits reduced intraconnectivity following mindfulness training."
+ ],
+ "methodology": {
+  "studyType": "RCT",
+  "sampleSize": "see paper",
+  "duration": "see paper",
+  "practice": "mindfulness / meditation",
+  "comparator": "see paper"
+ },
+ "limitations": [
+  "Single-trial result; requires replication, and self-reported outcomes may inflate apparent effects.",
+  "The practice studied (mindfulness / meditation) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "brain-mechanisms",
+ "editorialReview": true
+}

@@ -1,0 +1,45 @@
+{
+ "pmid": "29662434",
+ "doi": "10.3389/fnins.2018.00178",
+ "title": "Review of the Neural Oscillations Underlying Meditation",
+ "year": 2018,
+ "journal": "Frontiers in neuroscience",
+ "authors": [
+  "Lee DJ",
+  "Kulubya E",
+  "Goldin P",
+  "Goodarzi A",
+  "Girgis F"
+ ],
+ "theme": "Brain & Mechanisms",
+ "allThemes": [
+  "Brain & Mechanisms"
+ ],
+ "studyType": "Meta-analysis / Systematic review",
+ "claimStrength": "Meta-analytic evidence",
+ "alignment": "general mindfulness/meditation",
+ "practiceStudied": "mindfulness / meditation",
+ "isMoM": "N",
+ "citationCount": 129,
+ "rcr": "7.74",
+ "headline": "Review of the Neural Oscillations Underlying Meditation",
+ "summary": "A meta-analysis / systematic review of mindfulness / meditation examined brain & mechanisms.",
+ "keyFindings": [
+  "See the linked paper for detailed results."
+ ],
+ "methodology": {
+  "studyType": "Meta-analysis / Systematic review",
+  "sampleSize": "see paper",
+  "duration": "see paper",
+  "practice": "mindfulness / meditation",
+  "comparator": "see paper"
+ },
+ "limitations": [
+  "Pooled estimates combine heterogeneous studies; effect sizes vary by practice, population, and control condition.",
+  "The practice studied (mindfulness / meditation) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "brain-mechanisms",
+ "editorialReview": true
+}

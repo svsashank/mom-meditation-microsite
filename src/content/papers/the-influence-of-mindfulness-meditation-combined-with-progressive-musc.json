@@ -1,0 +1,47 @@
+{
+ "pmid": "38760722",
+ "doi": "10.1186/s12906-024-04485-3",
+ "title": "The influence of mindfulness meditation combined with progressive muscle relaxation training on the clinical efficacy and quality of life of patients with sarcopenia receiving haemodialysis: a randomised controlled trial",
+ "year": 2024,
+ "journal": "BMC complementary medicine and therapies",
+ "authors": [
+  "Wu YY",
+  "Gao YY",
+  "Wang JQ",
+  "Zhang C",
+  "Xu PJ",
+  "Liu J"
+ ],
+ "theme": "Brain & Mechanisms",
+ "allThemes": [
+  "Brain & Mechanisms"
+ ],
+ "studyType": "RCT",
+ "claimStrength": "Randomized-trial evidence",
+ "alignment": "general mindfulness/meditation",
+ "practiceStudied": "mindfulness / meditation",
+ "isMoM": "N",
+ "citationCount": 12,
+ "rcr": "5.36",
+ "headline": "The influence of mindfulness meditation combined with progressive muscle relaxation training on the clinical e",
+ "summary": "A randomized controlled trial of mindfulness / meditation examined brain & mechanisms. There were no significant differences in the baseline values of various parameters between the two groups.",
+ "keyFindings": [
+  "There were no significant differences in the baseline values of various parameters between the two groups."
+ ],
+ "methodology": {
+  "studyType": "RCT",
+  "sampleSize": "N = 24",
+  "duration": "12 weeks",
+  "practice": "mindfulness / meditation",
+  "comparator": "active/other control"
+ },
+ "limitations": [
+  "In terms of the kidney disease quality of life (KDQOL Combined intervention training can improve the motor ability and quality of life of patients with sarcopenia within a short period of time.",
+  "Single-trial result; requires replication, and self-reported outcomes may inflate apparent effects.",
+  "The practice studied (mindfulness / meditation) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "brain-mechanisms",
+ "editorialReview": true
+}

@@ -1,0 +1,46 @@
+{
+ "pmid": "37150427",
+ "doi": "10.1016/j.apmr.2023.04.014",
+ "title": "Effects of Breathing Exercises in Patients With Chronic Obstructive Pulmonary Disease: A Network Meta-analysis",
+ "year": 2024,
+ "journal": "Archives of physical medicine and rehabilitation",
+ "authors": [
+  "Cai Y",
+  "Ren X",
+  "Wang J",
+  "Ma B",
+  "Chen O"
+ ],
+ "theme": "Clinical Research",
+ "allThemes": [
+  "Clinical Research"
+ ],
+ "studyType": "Meta-analysis / Systematic review",
+ "claimStrength": "Meta-analytic evidence",
+ "alignment": "yogic/breath-attention (weighted up)",
+ "practiceStudied": "yoga",
+ "isMoM": "adjacent",
+ "citationCount": 16,
+ "rcr": "5.92",
+ "headline": "Effects of Breathing Exercises in Patients With Chronic Obstructive Pulmonary Disease: A Network Meta-analysis",
+ "summary": "A meta-analysis / systematic review of yoga examined clinical research. A network meta-analysis of randomized controlled trials (RCTs) was conducted to compare and rank the effectiveness of various breathing exercises for patients with chronic obstructive pulmonary disease (COPD).",
+ "keyFindings": [
+  "A network meta-analysis of randomized controlled trials (RCTs) was conducted to compare and rank the effectiveness of various breathing exercises for patients with chronic obstructive pulmonary disease (COPD).",
+  "We searched PubMed, Web of Science, Embase, and the Cochrane Library databases to determine the articles."
+ ],
+ "methodology": {
+  "studyType": "Meta-analysis / Systematic review",
+  "sampleSize": "43 RCTs",
+  "duration": "see paper",
+  "practice": "yoga",
+  "comparator": "see paper"
+ },
+ "limitations": [
+  "Pooled estimates combine heterogeneous studies; effect sizes vary by practice, population, and control condition.",
+  "The practice studied (yoga) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "clinical-research",
+ "editorialReview": true
+}

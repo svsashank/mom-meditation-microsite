@@ -1,0 +1,50 @@
+{
+ "pmid": "30714811",
+ "doi": "10.1037/ocp0000146",
+ "title": "A systematic review and meta-analysis of workplace mindfulness training randomized controlled trials",
+ "year": 2019,
+ "journal": "Journal of occupational health psychology",
+ "authors": [
+  "Bartlett L",
+  "Martin A",
+  "Neil AL",
+  "Memish K",
+  "Otahal P",
+  "Kilpatrick M"
+ ],
+ "theme": "Sleep",
+ "allThemes": [
+  "Sleep"
+ ],
+ "studyType": "Meta-analysis / Systematic review",
+ "claimStrength": "Meta-analytic evidence",
+ "alignment": "general mindfulness/meditation",
+ "practiceStudied": "mindfulness / meditation",
+ "isMoM": "N",
+ "citationCount": 120,
+ "rcr": "10.55",
+ "headline": "A systematic review and meta-analysis of workplace mindfulness training randomized controlled trials",
+ "summary": "A meta-analysis / systematic review of mindfulness / meditation examined sleep. Results indicate beneficial effects following training for mindfulness (g = 0.45, p < .001) and stress (g = 0.56, p < .001), anxiety (g = 0.62, p < .001) and psychological distress (g = 0.69, p < .001), and for well-being (g = 0.46, p = .002) and sleep (g = 0.26, p = .003). No conclusions could be drawn from pooled data for burnout due to ambivalence in results, for depression due to publication bias, or for work performance due to insufficient data.",
+ "keyFindings": [
+  "It synthesizes randomized controlled trial evidence from workplace-delivered training for changes in mindfulness, stress, mental health, well-being, and work performance outcomes.",
+  "Results indicate beneficial effects following training for mindfulness (g = 0.45, p < .001) and stress (g = 0.56, p < .001), anxiety (g = 0.62, p < .001) and psychological distress (g = 0.69, p < .001), and for well-being (g = 0.46, p = .002) and sleep (g = 0.26, p = .003).",
+  "No conclusions could be drawn from pooled data for burnout due to ambivalence in results, for depression due to publication bias, or for work performance due to insufficient data."
+ ],
+ "methodology": {
+  "studyType": "Meta-analysis / Systematic review",
+  "sampleSize": "23 studies",
+  "duration": "see paper",
+  "practice": "mindfulness / meditation",
+  "comparator": "see paper"
+ },
+ "limitations": [
+  "No conclusions could be drawn from pooled data for burnout due to ambivalence in results, for depression due to publication bias, or for work performance due to insufficient data.",
+  "Limitations to study designs and reporting are addressed, and recommendations to advance research in this field are made.",
+  "Pooled estimates combine heterogeneous studies; effect sizes vary by practice, population, and control condition.",
+  "The practice studied (mindfulness / meditation) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "null/mixed (F12-verified)",
+ "bidmc": false,
+ "quoteKey": "sleep",
+ "editorialReview": true
+}

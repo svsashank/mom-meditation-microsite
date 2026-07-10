@@ -1,0 +1,50 @@
+{
+ "pmid": "38484438",
+ "doi": "10.1016/j.jaim.2023.100882",
+ "title": "Yoga Nidra for hypertension: A systematic review and meta-analysis",
+ "year": 2024,
+ "journal": "Journal of Ayurveda and integrative medicine",
+ "authors": [
+  "Ahuja N",
+  "Bhardwaj P",
+  "Pathania M",
+  "Sethi D",
+  "Kumar A",
+  "Parchani A"
+ ],
+ "theme": "Brain & Mechanisms",
+ "allThemes": [
+  "Brain & Mechanisms"
+ ],
+ "studyType": "Meta-analysis / Systematic review",
+ "claimStrength": "Meta-analytic evidence",
+ "alignment": "yogic/breath-attention (weighted up)",
+ "practiceStudied": "Yoga Nidra",
+ "isMoM": "N",
+ "citationCount": 12,
+ "rcr": "2.91",
+ "headline": "Yoga Nidra for hypertension: A systematic review and meta-analysis",
+ "summary": "A meta-analysis / systematic review of Yoga Nidra examined brain & mechanisms. This systematic review and meta-analysis provides evidence supporting the efficacy of YN as a complementary therapy for hypertension management. This meta-analysis suggests that YN is effective in reducing SBP and DBP, particularly in individuals with hypertension.",
+ "keyFindings": [
+  "The meta-analysis indicated that YN significantly reduced SBP (WMD = 12.03 mm Hg, 95% CI [7.12, 16.93], Z = 4.80, p < 0.00001) and DBP (WMD = 6.32 mm Hg, 95% CI [3.53, 9.12], Z = 4.43, p < 0.00001) compared to control groups.",
+  "This systematic review and meta-analysis provides evidence supporting the efficacy of YN as a complementary therapy for hypertension management.",
+  "This meta-analysis suggests that YN is effective in reducing SBP and DBP, particularly in individuals with hypertension."
+ ],
+ "methodology": {
+  "studyType": "Meta-analysis / Systematic review",
+  "sampleSize": "482 participants",
+  "duration": "see paper",
+  "practice": "Yoga Nidra",
+  "comparator": "active/other control"
+ },
+ "limitations": [
+  "The quality of the included studies was assessed using the Cochrane risk of bias tool.",
+  "Risk of bias was assessed for RCTs and non-RCTs using Cochrane's RoB-2 and ROBINS-I tools, respectively.",
+  "The overall risk of bias for the three RCTs was high, whereas for the five non-RCTs, one had an overall moderate risk while the other four had an overall serious risk of bias.",
+  "Pooled estimates combine heterogeneous studies; effect sizes vary by practice, population, and control condition."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "brain-mechanisms",
+ "editorialReview": true
+}

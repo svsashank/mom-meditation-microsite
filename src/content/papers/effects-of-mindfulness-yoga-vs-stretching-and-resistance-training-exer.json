@@ -1,0 +1,47 @@
+{
+ "pmid": "30958514",
+ "doi": "10.1001/jamaneurol.2019.0534",
+ "title": "Effects of Mindfulness Yoga vs Stretching and Resistance Training Exercises on Anxiety and Depression for People With Parkinson Disease: A Randomized Clinical Trial",
+ "year": 2019,
+ "journal": "JAMA neurology",
+ "authors": [
+  "Kwok JYY",
+  "Kwan JCY",
+  "Auyeung M",
+  "Mok VCT",
+  "Lau CKY",
+  "Choi KC"
+ ],
+ "theme": "Emotional Wellbeing",
+ "allThemes": [
+  "Emotional Wellbeing"
+ ],
+ "studyType": "RCT",
+ "claimStrength": "Randomized-trial evidence",
+ "alignment": "yogic/breath-attention (weighted up)",
+ "practiceStudied": "yoga",
+ "isMoM": "N",
+ "citationCount": 260,
+ "rcr": "16.97",
+ "headline": "Effects of Mindfulness Yoga vs Stretching and Resistance Training Exercises on Anxiety and Depression for Peop",
+ "summary": "A randomized controlled trial of yoga examined emotional wellbeing. Among patients with mild-to-moderate PD, the mindfulness yoga program was found to be as effective as SRTE in improving motor dysfunction and mobility, with the additional benefits of a reduction in anxiety and depressive symptoms and an increase in spiritual well-being and HRQOL.",
+ "keyFindings": [
+  "Among patients with mild-to-moderate PD, the mindfulness yoga program was found to be as effective as SRTE in improving motor dysfunction and mobility, with the additional benefits of a reduction in anxiety and depressive symptoms and an increase in spiritual well-being and HRQOL."
+ ],
+ "methodology": {
+  "studyType": "RCT",
+  "sampleSize": "187 adults",
+  "duration": "90-min",
+  "practice": "yoga",
+  "comparator": "active/other control"
+ },
+ "limitations": [
+  "Generalized estimating equation analyses revealed that the yoga group had significantly better improvement in outcomes than the SRTE group, particularly for anxiety (time-by-group interaction, T1: \u03b2, -1.79 [95% CI, -2.85 to -0.69; P = .001]; T2: \u03b2, -2.05 [95% CI, -3.02 to -1.08; P < .001]), depression (T1: \u03b2, -2.75 [95% CI, -3.17 to -1.35; P < .001]); T2: \u03b2, -2.75 [95% CI, -3.71 to -1.79; P < .001]), perceived hardship (T1: \u03b2, -0.92 [95% CI, -1.25 to -0.61; P < .001]; T2: \u03b2, -0.76 [95% CI, -1.12 to -0.40; P < .001]), perceived equanimity (T1: \u03b2, 1.11 [95% CI, 0.79-1.42; P < .001]; T2: \u03b2, 1.19 [95% CI, 0.82-1.56; P < .001]), and disease-specific HRQOL (T1: \u03b2, -7.77 [95% CI, -11.61 to -4.38; P < .001]; T2: \u03b2, -7.99 [95% CI, -11.61 to -4.38; P < .001]).",
+  "Single-trial result; requires replication, and self-reported outcomes may inflate apparent effects.",
+  "The practice studied (yoga) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "emotional-wellbeing",
+ "editorialReview": true
+}

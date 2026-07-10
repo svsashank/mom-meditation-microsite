@@ -1,0 +1,45 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+const papers = (await getCollection('papers')).sort((a,b)=> b.data.citationCount - a.data.citationCount);
+const b = import.meta.env.BASE_URL.replace(/\/$/, '');
+const themes=[...new Set(papers.map(p=>p.data.theme))];
+const types=[...new Set(papers.map(p=>p.data.studyType))];
+---
+<Base title="Research library" wide={true} description="Filterable library of significant meditation studies, summarized in plain language.">
+  <section>
+    <p class="eyebrow">Research library</p>
+    <h1>{papers.length} studies on meditation</h1>
+    <p class="lede">Filter by theme and study type. Every summary uses claim-strength language matched to the evidence, and every page states the study's limitations.</p>
+
+    <div class="filters" id="theme-f"><strong style="align-self:center;margin-right:4px">Theme:</strong>
+      <button class="active" data-t="all">All</button>
+      {themes.map(t=><button data-t={t}>{t}</button>)}
+    </div>
+    <div class="filters" id="type-f"><strong style="align-self:center;margin-right:4px">Type:</strong>
+      <button class="active" data-y="all">All</button>
+      {types.map(t=><button data-y={t}>{t}</button>)}
+    </div>
+
+    <div class="grid" id="lib">
+      {papers.map(p=>(
+        <a class="card" href={b + '/research/' + p.id + '/'} data-theme={p.data.theme} data-type={p.data.studyType}>
+          <p class="meta">{p.data.studyType} · {p.data.year}{p.data.bidmc ? ' · Sadhguru Center' : ''}</p>
+          <h3>{p.data.headline}</h3>
+          <p class="meta">{p.data.theme}{p.data.nullOrCritical ? ' · ' + p.data.nullOrCritical : ''}</p>
+        </a>
+      ))}
+    </div>
+  </section>
+  <script is:inline>
+    const state={t:'all',y:'all'};
+    function apply(){document.querySelectorAll('#lib .card').forEach(c=>{
+      const okT=state.t==='all'||c.dataset.theme===state.t;
+      const okY=state.y==='all'||c.dataset.type===state.y;
+      c.style.display=(okT&&okY)?'':'none';});}
+    document.querySelectorAll('#theme-f button').forEach(btn=>btn.onclick=()=>{
+      state.t=btn.dataset.t;document.querySelectorAll('#theme-f button').forEach(x=>x.classList.remove('active'));btn.classList.add('active');apply();});
+    document.querySelectorAll('#type-f button').forEach(btn=>btn.onclick=()=>{
+      state.y=btn.dataset.y;document.querySelectorAll('#type-f button').forEach(x=>x.classList.remove('active'));btn.classList.add('active');apply();});
+  </script>
+</Base>

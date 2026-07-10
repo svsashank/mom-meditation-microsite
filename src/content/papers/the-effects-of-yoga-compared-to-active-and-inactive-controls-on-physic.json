@@ -1,0 +1,48 @@
+{
+ "pmid": "30953508",
+ "doi": "10.1186/s12966-019-0789-2",
+ "title": "The effects of yoga compared to active and inactive controls on physical function and health related quality of life in older adults- systematic review and meta-analysis of randomised controlled trials",
+ "year": 2019,
+ "journal": "The international journal of behavioral nutrition and physical activity",
+ "authors": [
+  "Sivaramakrishnan D",
+  "Fitzsimons C",
+  "Kelly P",
+  "Ludwig K",
+  "Mutrie N",
+  "Saunders DH"
+ ],
+ "theme": "Sleep",
+ "allThemes": [
+  "Sleep"
+ ],
+ "studyType": "Meta-analysis / Systematic review",
+ "claimStrength": "Meta-analytic evidence",
+ "alignment": "yogic/breath-attention (weighted up)",
+ "practiceStudied": "yoga",
+ "isMoM": "N",
+ "citationCount": 121,
+ "rcr": "9.58",
+ "headline": "The effects of yoga compared to active and inactive controls on physical function and health related quality o",
+ "summary": "A meta-analysis / systematic review of yoga examined sleep. Results indicate that yoga interventions improve multiple physical function and HRQoL outcomes in this population compared to both control conditions. This study provides robust evidence for promoting yoga in physical activity guidelines for older adults as a multimodal activity that improves aspects of fitness like strength, balance and flexibility, as well as mental wellbeing.",
+ "keyFindings": [
+  "For HRQoL, significant effects favouring yoga were found compared to inactive controls for: depression (ES = 0.64), perceived mental health (ES = 0.6), perceived physical health (ES = 0.61), sleep quality (ES = 0.65), and vitality (ES = 0.31); compared to active controls: depression (ES = 0.54).",
+  "Results indicate that yoga interventions improve multiple physical function and HRQoL outcomes in this population compared to both control conditions.",
+  "This study provides robust evidence for promoting yoga in physical activity guidelines for older adults as a multimodal activity that improves aspects of fitness like strength, balance and flexibility, as well as mental wellbeing."
+ ],
+ "methodology": {
+  "studyType": "Meta-analysis / Systematic review",
+  "sampleSize": "22 RCTs",
+  "duration": "see paper",
+  "practice": "yoga",
+  "comparator": "active/other control"
+ },
+ "limitations": [
+  "Pooled estimates combine heterogeneous studies; effect sizes vary by practice, population, and control condition.",
+  "The practice studied (yoga) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "sleep",
+ "editorialReview": true
+}

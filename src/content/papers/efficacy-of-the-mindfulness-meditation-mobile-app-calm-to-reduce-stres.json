@@ -1,0 +1,48 @@
+{
+ "pmid": "31237569",
+ "doi": "10.2196/14273",
+ "title": "Efficacy of the Mindfulness Meditation Mobile App \"Calm\" to Reduce Stress Among College Students: Randomized Controlled Trial",
+ "year": 2019,
+ "journal": "JMIR mHealth and uHealth",
+ "authors": [
+  "Huberty J",
+  "Green J",
+  "Glissmann C",
+  "Larkey L",
+  "Puzia M",
+  "Lee C"
+ ],
+ "theme": "Sleep",
+ "allThemes": [
+  "Sleep"
+ ],
+ "studyType": "RCT",
+ "claimStrength": "Randomized-trial evidence",
+ "alignment": "general mindfulness/meditation",
+ "practiceStudied": "mindfulness / meditation",
+ "isMoM": "N",
+ "citationCount": 232,
+ "rcr": "18.66",
+ "headline": "Efficacy of the Mindfulness Meditation Mobile App \"Calm\" to Reduce Stress Among College Students: Randomized C",
+ "summary": "A randomized controlled trial of mindfulness / meditation examined sleep. Similar results were found for mindfulness and self-compassion. A significant group\u00d7time interaction in models of sleep disturbance was found, but no significant effects were found for other health behaviors.",
+ "keyFindings": [
+  "Bonferroni posthoc tests showed significant within-group mean differences for perceived stress in the intervention group (P<.001), while there were no significant within-group mean differences in the control group (all P>.19).",
+  "Similar results were found for mindfulness and self-compassion.",
+  "A significant group\u00d7time interaction in models of sleep disturbance was found, but no significant effects were found for other health behaviors."
+ ],
+ "methodology": {
+  "studyType": "RCT",
+  "sampleSize": "88 participants",
+  "duration": "8-week",
+  "practice": "mindfulness / meditation",
+  "comparator": "active/other control"
+ },
+ "limitations": [
+  "Single-trial result; requires replication, and self-reported outcomes may inflate apparent effects.",
+  "The practice studied (mindfulness / meditation) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "sleep",
+ "editorialReview": true
+}

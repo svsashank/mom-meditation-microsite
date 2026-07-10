@@ -1,0 +1,48 @@
+{
+ "pmid": "38707001",
+ "doi": "10.7759/cureus.57541",
+ "title": "Effectiveness of Yoga in Modulating Markers of Immunity and Inflammation: A Systematic Review and Meta-Analysis",
+ "year": 2024,
+ "journal": "Cureus",
+ "authors": [
+  "Mishra B",
+  "Agarwal A",
+  "George JA",
+  "Upadhyay AD",
+  "Nilima N",
+  "Mishra R"
+ ],
+ "theme": "Brain & Mechanisms",
+ "allThemes": [
+  "Brain & Mechanisms"
+ ],
+ "studyType": "Cross-sectional / Mechanistic",
+ "claimStrength": "Mechanistic / observational evidence",
+ "alignment": "yogic/breath-attention (weighted up)",
+ "practiceStudied": "yoga",
+ "isMoM": "adjacent",
+ "citationCount": 19,
+ "rcr": "6.09",
+ "headline": "Effectiveness of Yoga in Modulating Markers of Immunity and Inflammation: A Systematic Review and Meta-Analysi",
+ "summary": "A mechanistic/observational study of yoga examined brain & mechanisms. Chronic inflammation is central to the pathogenesis of many chronic inflammatory conditions.",
+ "keyFindings": [
+  "Chronic inflammation is central to the pathogenesis of many chronic inflammatory conditions.",
+  "This review aims to analyze whether the practice of yoga, or yogic meditation and breathing, has any effect on the levels of inflammatory cytokines and other inflammatory markers in patients with various chronic inflammatory diseases such as rheumatoid arthritis, neoplastic disorders, and asthma, as well as in healthy subjects, compared to usual care or sham interventions."
+ ],
+ "methodology": {
+  "studyType": "Cross-sectional / Mechanistic",
+  "sampleSize": "N = 24",
+  "duration": "see paper",
+  "practice": "yoga",
+  "comparator": "active/other control"
+ },
+ "limitations": [
+  "Only two studies had a low risk of bias (RoB); 24 other studies had a high RoB.",
+  "Observational/mechanistic design cannot establish that the practice caused the observed differences.",
+  "The practice studied (yoga) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "brain-mechanisms",
+ "editorialReview": true
+}

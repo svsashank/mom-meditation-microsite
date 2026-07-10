@@ -1,0 +1,47 @@
+{
+ "pmid": "36422517",
+ "doi": "10.14309/ajg.0000000000002052",
+ "title": "Meditation and Yoga for Irritable Bowel Syndrome: A Randomized Clinical Trial",
+ "year": 2023,
+ "journal": "The American journal of gastroenterology",
+ "authors": [
+  "D'Silva A",
+  "Marshall DA",
+  "Vallance JK",
+  "Nasser Y",
+  "Rajagopalan V",
+  "Szostakiwskyj JH"
+ ],
+ "theme": "Stress & Anxiety",
+ "allThemes": [
+  "Stress & Anxiety"
+ ],
+ "studyType": "RCT",
+ "claimStrength": "Randomized-trial evidence",
+ "alignment": "yogic/breath-attention (weighted up)",
+ "practiceStudied": "yoga",
+ "isMoM": "N",
+ "citationCount": 33,
+ "rcr": "5.82",
+ "headline": "Meditation and Yoga for Irritable Bowel Syndrome: A Randomized Clinical Trial",
+ "summary": "A randomized controlled trial of yoga examined stress & anxiety. The evidence for efficacy, feasibility, and safety of virtually delivered yoga for patients with IBS is unknown. No significant difference was found between groups in IBS-SSS score postintervention ( P = 0.149), but significant differences in favor of the treatment group for quality of life ( P = 0.030), fatigue ( P = 0.035), and perceived stress ( P = 0.040) were identified.",
+ "keyFindings": [
+  "The evidence for efficacy, feasibility, and safety of virtually delivered yoga for patients with IBS is unknown.",
+  "No significant difference was found between groups in IBS-SSS score postintervention ( P = 0.149), but significant differences in favor of the treatment group for quality of life ( P = 0.030), fatigue ( P = 0.035), and perceived stress ( P = 0.040) were identified."
+ ],
+ "methodology": {
+  "studyType": "RCT",
+  "sampleSize": "see paper",
+  "duration": "8 week",
+  "practice": "yoga",
+  "comparator": "see paper"
+ },
+ "limitations": [
+  "Single-trial result; requires replication, and self-reported outcomes may inflate apparent effects.",
+  "The practice studied (yoga) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "stress-anxiety",
+ "editorialReview": true
+}

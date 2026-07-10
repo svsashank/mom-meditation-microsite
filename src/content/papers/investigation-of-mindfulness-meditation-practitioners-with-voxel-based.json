@@ -1,0 +1,47 @@
+{
+ "pmid": "19015095",
+ "doi": "10.1093/scan/nsm038",
+ "title": "Investigation of mindfulness meditation practitioners with voxel-based morphometry",
+ "year": 2008,
+ "journal": "Social cognitive and affective neuroscience",
+ "authors": [
+  "H\u00f6lzel BK",
+  "Ott U",
+  "Gard T",
+  "Hempel H",
+  "Weygandt M",
+  "Morgen K"
+ ],
+ "theme": "Brain & Mechanisms",
+ "allThemes": [
+  "Brain & Mechanisms"
+ ],
+ "studyType": "Cross-sectional / Mechanistic",
+ "claimStrength": "Mechanistic / observational evidence",
+ "alignment": "general mindfulness/meditation",
+ "practiceStudied": "Vipassana",
+ "isMoM": "N",
+ "citationCount": 299,
+ "rcr": "9.36",
+ "headline": "Investigation of mindfulness meditation practitioners with voxel-based morphometry",
+ "summary": "A mechanistic/observational study of Vipassana examined brain & mechanisms. Both regions have previously been found to be involved in meditation. Results suggest that meditation practice is associated with structural differences in regions that are typically activated during meditation and in regions that are relevant for the task of meditation.",
+ "keyFindings": [
+  "Both regions have previously been found to be involved in meditation.",
+  "Results suggest that meditation practice is associated with structural differences in regions that are typically activated during meditation and in regions that are relevant for the task of meditation."
+ ],
+ "methodology": {
+  "studyType": "Cross-sectional / Mechanistic",
+  "sampleSize": "see paper",
+  "duration": "20 min",
+  "practice": "Vipassana",
+  "comparator": "see paper"
+ },
+ "limitations": [
+  "Observational/mechanistic design cannot establish that the practice caused the observed differences.",
+  "The practice studied (Vipassana) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "brain-mechanisms",
+ "editorialReview": true
+}

@@ -1,0 +1,46 @@
+{
+ "pmid": "30245619",
+ "doi": "10.3389/fnhum.2018.00353",
+ "title": "How Breath-Control Can Change Your Life: A Systematic Review on Psycho-Physiological Correlates of Slow Breathing",
+ "year": 2018,
+ "journal": "Frontiers in human neuroscience",
+ "authors": [
+  "Zaccaro A",
+  "Piarulli A",
+  "Laurino M",
+  "Garbella E",
+  "Menicucci D",
+  "Neri B"
+ ],
+ "theme": "Emotional Wellbeing",
+ "allThemes": [
+  "Emotional Wellbeing"
+ ],
+ "studyType": "Meta-analysis / Systematic review",
+ "claimStrength": "Meta-analytic evidence",
+ "alignment": "yogic/breath-attention (weighted up)",
+ "practiceStudied": "breath-and-attention meditation",
+ "isMoM": "adjacent",
+ "citationCount": 394,
+ "rcr": "25.16",
+ "headline": "How Breath-Control Can Change Your Life: A Systematic Review on Psycho-Physiological Correlates of Slow Breath",
+ "summary": "A meta-analysis / systematic review of breath-and-attention meditation examined emotional wellbeing.",
+ "keyFindings": [
+  "See the linked paper for detailed results."
+ ],
+ "methodology": {
+  "studyType": "Meta-analysis / Systematic review",
+  "sampleSize": "see paper",
+  "duration": "see paper",
+  "practice": "breath-and-attention meditation",
+  "comparator": "see paper"
+ },
+ "limitations": [
+  "Pooled estimates combine heterogeneous studies; effect sizes vary by practice, population, and control condition.",
+  "The practice studied (breath-and-attention meditation) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "emotional-wellbeing",
+ "editorialReview": true
+}

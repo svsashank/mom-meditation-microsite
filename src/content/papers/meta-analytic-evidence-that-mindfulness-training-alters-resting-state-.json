@@ -1,0 +1,47 @@
+{
+ "pmid": "35851275",
+ "doi": "10.1038/s41598-022-15195-6",
+ "title": "Meta-analytic evidence that mindfulness training alters resting state default mode network connectivity",
+ "year": 2022,
+ "journal": "Scientific reports",
+ "authors": [
+  "Rahrig H",
+  "Vago DR",
+  "Passarelli MA",
+  "Auten A",
+  "Lynn NA",
+  "Brown KW"
+ ],
+ "theme": "Brain & Mechanisms",
+ "allThemes": [
+  "Brain & Mechanisms"
+ ],
+ "studyType": "Meta-analysis / Systematic review",
+ "claimStrength": "Meta-analytic evidence",
+ "alignment": "general mindfulness/meditation",
+ "practiceStudied": "mindfulness / meditation",
+ "isMoM": "N",
+ "citationCount": 46,
+ "rcr": "5.32",
+ "headline": "Meta-analytic evidence that mindfulness training alters resting state default mode network connectivity",
+ "summary": "A meta-analysis / systematic review of mindfulness / meditation examined brain & mechanisms. This meta-analysis sought to expand upon neurobiological models of mindfulness through investigation of inherent brain network connectivity outcomes, indexed via resting state functional connectivity (rsFC).",
+ "keyFindings": [
+  "This meta-analysis sought to expand upon neurobiological models of mindfulness through investigation of inherent brain network connectivity outcomes, indexed via resting state functional connectivity (rsFC).",
+  "We conducted a systematic review and meta-analysis of rsFC as an outcome of mindfulness training (MT) relative to control, with the hypothesis that MT would increase cross-network connectivity between nodes of the Default Mode Network (DMN), Salience Network (SN), and Frontoparietal Control Network (FPCN) as a mechanism of internally-oriented attentional control."
+ ],
+ "methodology": {
+  "studyType": "Meta-analysis / Systematic review",
+  "sampleSize": "N = 226",
+  "duration": "see paper",
+  "practice": "mindfulness / meditation",
+  "comparator": "see paper"
+ },
+ "limitations": [
+  "Pooled estimates combine heterogeneous studies; effect sizes vary by practice, population, and control condition.",
+  "The practice studied (mindfulness / meditation) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "brain-mechanisms",
+ "editorialReview": true
+}

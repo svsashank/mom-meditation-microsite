@@ -1,0 +1,47 @@
+{
+ "pmid": "18484600",
+ "doi": "10.1002/jclp.20491",
+ "title": "Cultivating mindfulness: effects on well-being",
+ "year": 2008,
+ "journal": "Journal of clinical psychology",
+ "authors": [
+  "Shapiro SL",
+  "Oman D",
+  "Thoresen CE",
+  "Plante TG",
+  "Flinders T"
+ ],
+ "theme": "Stress & Anxiety",
+ "allThemes": [
+  "Stress & Anxiety"
+ ],
+ "studyType": "RCT",
+ "claimStrength": "Randomized-trial evidence",
+ "alignment": "general mindfulness/meditation",
+ "practiceStudied": "Mindfulness-Based Stress Reduction (MBSR)",
+ "isMoM": "N",
+ "citationCount": 230,
+ "rcr": "9.52",
+ "headline": "Cultivating mindfulness: effects on well-being",
+ "summary": "A randomized controlled trial of Mindfulness-Based Stress Reduction (MBSR) examined stress & anxiety. The current study offers preliminary evidence that at least one aspect of mindfulness, measured by the Mindful Attention and Awareness Scale (MAAS; K. These results suggest that distinct meditation-based practices can increase mindfulness as measured by the MAAS, which may partly mediate benefits.",
+ "keyFindings": [
+  "The current study offers preliminary evidence that at least one aspect of mindfulness, measured by the Mindful Attention and Awareness Scale (MAAS; K.",
+  "These results suggest that distinct meditation-based practices can increase mindfulness as measured by the MAAS, which may partly mediate benefits."
+ ],
+ "methodology": {
+  "studyType": "RCT",
+  "sampleSize": "N = 15",
+  "duration": "8-week",
+  "practice": "Mindfulness-Based Stress Reduction (MBSR)",
+  "comparator": "active/other control"
+ },
+ "limitations": [
+  "Pretest, posttest, and 8-week follow-up data were gathered on self-report outcome measures.",
+  "Single-trial result; requires replication, and self-reported outcomes may inflate apparent effects.",
+  "The practice studied (Mindfulness-Based Stress Reduction (MBSR)) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "stress-anxiety",
+ "editorialReview": true
+}

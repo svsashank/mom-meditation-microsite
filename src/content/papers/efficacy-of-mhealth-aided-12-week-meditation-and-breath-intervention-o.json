@@ -1,0 +1,46 @@
+{
+ "pmid": "38026380",
+ "doi": "10.3389/fpubh.2023.1258330",
+ "title": "Efficacy of mHealth aided 12-week meditation and breath intervention on change in burnout and professional quality of life among health care providers of a tertiary care hospital in north India: a randomized waitlist-controlled trial",
+ "year": 2023,
+ "journal": "Frontiers in public health",
+ "authors": [
+  "Bhardwaj P",
+  "Pathania M",
+  "Bahurupi Y",
+  "Kanchibhotla D",
+  "Harsora P",
+  "Rathaur VK"
+ ],
+ "theme": "Emotional Wellbeing",
+ "allThemes": [
+  "Emotional Wellbeing"
+ ],
+ "studyType": "RCT",
+ "claimStrength": "Randomized-trial evidence",
+ "alignment": "yogic/breath-attention (weighted up)",
+ "practiceStudied": "yoga",
+ "isMoM": "adjacent",
+ "citationCount": 21,
+ "rcr": "6.25",
+ "headline": "Efficacy of mHealth aided 12-week meditation and breath intervention on change in burnout and professional qua",
+ "summary": "A randomized controlled trial of yoga examined emotional wellbeing. The experimental group ( After 12 weeks, the MBI outcomes of emotional exhaustion, depersonalization, and personal accomplishment showed a highly significant difference between the two groups ( The current study contributes to the existing evidence on the effectiveness of Yoga in managing stress and developing resilience among doctors, nurses, and other medical professionals.",
+ "keyFindings": [
+  "The experimental group ( After 12 weeks, the MBI outcomes of emotional exhaustion, depersonalization, and personal accomplishment showed a highly significant difference between the two groups ( The current study contributes to the existing evidence on the effectiveness of Yoga in managing stress and developing resilience among doctors, nurses, and other medical professionals."
+ ],
+ "methodology": {
+  "studyType": "RCT",
+  "sampleSize": "see paper",
+  "duration": "12-week",
+  "practice": "yoga",
+  "comparator": "waitlist/usual care"
+ },
+ "limitations": [
+  "Single-trial result; requires replication, and self-reported outcomes may inflate apparent effects.",
+  "The practice studied (yoga) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "emotional-wellbeing",
+ "editorialReview": true
+}

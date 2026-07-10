@@ -212,3 +212,42 @@ sarcopenia RCT where "no significant differences" referred to *baseline*
 equivalence, not outcomes. Net balance section: 4 verified null/mixed + 2
 methodology critiques. Full-text verification of the 4 remains a content-
 production step.
+
+---
+
+## Phase 3 — Astro staging site and per-paper pages
+
+**D9. Framework and structure per §7.** Astro static site. Papers stored as
+structured JSON, one file per paper (`src/content/papers/*.json`), in a typed
+content collection — matching §7's "structured MDX/JSON, one file per paper."
+Site map follows §6: home, 7 theme hubs, filterable research library, 100 paper
+pages, "Sadhguru on Meditation" wisdom hub, "The Practice" single-CTA page, and
+an About/Methodology transparency page.
+
+**D10. Per-paper page prose is generated from the study abstract, not invented.**
+The 8-part template (research-summary skill) is populated by extracting the
+study's own conclusion sentences and parsing sample size / duration / comparator
+from the abstract. No effect sizes or findings are fabricated; where the abstract
+does not state a value, the field reads "see paper." Every page carries the
+claim-strength badge, a mandatory non-empty Limitations section (with the
+transfer-gap note when the practice studied is not MoM), the standing medical
+disclaimer, and a visible "draft — pending editorial and medical review" flag per
+§11. A banned-phrase scan across all 112 built pages found no generated
+cure/treat/heal claims (only benign matches: the methodology page's own
+description of the rule, the disclaimer, verbatim paper titles, and a genomics
+abstract's "detoxification").
+
+**D11. Sadhguru quotes: 4 verified verbatim, 3 pending (wisdom-pairing rule).**
+Four themes carry genuine verbatim quotes sourced and verified against
+isha.sadhguru.org on 2026-07-10 (Stress & Anxiety, Emotional Wellbeing, Focus &
+Attention, Brain & Mechanisms), each stored with its source URL and shown on both
+the theme hub and that theme's paper pages. The remaining three (Sleep, Clinical
+Research, Brief & App-Based Practice) are left as clearly-marked "pending verified
+quote" slots rather than paraphrased or force-fitted — exactly as the
+wisdom-pairing skill requires (leave empty and flag). See F14.
+
+**D12. Staging deploy via GitHub Pages workflow (§7).** Added
+`.github/workflows/deploy-staging.yml`. `astro.config.mjs` sets `site`/`base` for
+the project-pages path. No production or custom-domain deploy is configured —
+that awaits sign-off per §7/§11. `node_modules/` and `dist/` are git-ignored;
+the site is reproducible via `npm ci && npx astro build`.

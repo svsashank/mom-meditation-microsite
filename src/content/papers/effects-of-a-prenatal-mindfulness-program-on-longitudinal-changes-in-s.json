@@ -1,0 +1,47 @@
+{
+ "pmid": "37525110",
+ "doi": "10.1186/s12884-023-05873-2",
+ "title": "Effects of a prenatal mindfulness program on longitudinal changes in stress, anxiety, depression, and mother-infant bonding of women with a tendency to perinatal mood and anxiety disorder: a randomized controlled trial",
+ "year": 2023,
+ "journal": "BMC pregnancy and childbirth",
+ "authors": [
+  "Pan WL",
+  "Lin LC",
+  "Kuo LY",
+  "Chiu MJ",
+  "Ling PY"
+ ],
+ "theme": "Stress & Anxiety",
+ "allThemes": [
+  "Stress & Anxiety"
+ ],
+ "studyType": "RCT",
+ "claimStrength": "Randomized-trial evidence",
+ "alignment": "general mindfulness/meditation",
+ "practiceStudied": "mindfulness / meditation",
+ "isMoM": "N",
+ "citationCount": 24,
+ "rcr": "5.95",
+ "headline": "Effects of a prenatal mindfulness program on longitudinal changes in stress, anxiety, depression, and mother-i",
+ "summary": "A randomized controlled trial of mindfulness / meditation examined stress & anxiety. Despite this, there was no significant difference between the groups in terms of the quality of mother-infant bonding.",
+ "keyFindings": [
+  "Despite this, there was no significant difference between the groups in terms of the quality of mother-infant bonding."
+ ],
+ "methodology": {
+  "studyType": "RCT",
+  "sampleSize": "102 women",
+  "duration": "8-week",
+  "practice": "mindfulness / meditation",
+  "comparator": "active/other control"
+ },
+ "limitations": [
+  "The self-reported stress, pregnancy-related anxiety, and depression were assessed before and after the intervention and at 36 weeks of gestation.",
+  "At 2 and 4 months postpartum, all participants provided self-reported their levels of stress, depression, and quality of mother-infant bonding.",
+  "Single-trial result; requires replication, and self-reported outcomes may inflate apparent effects.",
+  "The practice studied (mindfulness / meditation) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "null/mixed (F12-verified)",
+ "bidmc": false,
+ "quoteKey": "stress-anxiety",
+ "editorialReview": true
+}

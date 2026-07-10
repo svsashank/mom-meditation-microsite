@@ -1,0 +1,46 @@
+{
+ "pmid": "28963884",
+ "doi": "10.1016/j.psyneuen.2017.08.008",
+ "title": "Yoga, mindfulness-based stress reduction and stress-related physiological measures: A meta-analysis",
+ "year": 2017,
+ "journal": "Psychoneuroendocrinology",
+ "authors": [
+  "Pascoe MC",
+  "Thompson DR",
+  "Ski CF"
+ ],
+ "theme": "Clinical Research",
+ "allThemes": [
+  "Clinical Research"
+ ],
+ "studyType": "Meta-analysis / Systematic review",
+ "claimStrength": "Meta-analytic evidence",
+ "alignment": "yogic/breath-attention (weighted up)",
+ "practiceStudied": "yoga",
+ "isMoM": "N",
+ "citationCount": 269,
+ "rcr": "15.02",
+ "headline": "Yoga, mindfulness-based stress reduction and stress-related physiological measures: A meta-analysis",
+ "summary": "A meta-analysis / systematic review of yoga examined clinical research. Interventions that included yoga asanas were associated with reduced evening cortisol, waking cortisol, ambulatory systolic blood pressure, resting heart rate, high frequency heart rate variability, fasting blood glucose, cholesterol and low density lipoprotein, compared to active control. Practices that include yoga asanas appear to be associated with improved regulation of the sympathetic nervous system and hypothalamic-pituitary-adrenal system in various populations.",
+ "keyFindings": [
+  "Interventions that included yoga asanas were associated with reduced evening cortisol, waking cortisol, ambulatory systolic blood pressure, resting heart rate, high frequency heart rate variability, fasting blood glucose, cholesterol and low density lipoprotein, compared to active control.",
+  "Practices that include yoga asanas appear to be associated with improved regulation of the sympathetic nervous system and hypothalamic-pituitary-adrenal system in various populations."
+ ],
+ "methodology": {
+  "studyType": "Meta-analysis / Systematic review",
+  "sampleSize": "see paper",
+  "duration": "see paper",
+  "practice": "yoga",
+  "comparator": "active/other control"
+ },
+ "limitations": [
+  "Risk of bias assessments included sequence generation, allocation concealment, blinding of assessors, incomplete outcome data, selective outcome reporting and other sources of bias.",
+  "However, the reported interventions were heterogeneous.",
+  "Pooled estimates combine heterogeneous studies; effect sizes vary by practice, population, and control condition.",
+  "The practice studied (yoga) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "clinical-research",
+ "editorialReview": true
+}

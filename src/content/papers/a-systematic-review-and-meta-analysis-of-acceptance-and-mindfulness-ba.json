@@ -1,0 +1,49 @@
+{
+ "pmid": "34650179",
+ "doi": "10.1038/s41598-021-99882-w",
+ "title": "A systematic review and meta-analysis of acceptance- and mindfulness-based interventions for DSM-5 anxiety disorders",
+ "year": 2021,
+ "journal": "Scientific reports",
+ "authors": [
+  "Haller H",
+  "Breilmann P",
+  "Schr\u00f6ter M",
+  "Dobos G",
+  "Cramer H"
+ ],
+ "theme": "Emotional Wellbeing",
+ "allThemes": [
+  "Emotional Wellbeing"
+ ],
+ "studyType": "Meta-analysis / Systematic review",
+ "claimStrength": "Meta-analytic evidence",
+ "alignment": "general mindfulness/meditation",
+ "practiceStudied": "Mindfulness-Based Stress Reduction (MBSR)",
+ "isMoM": "N",
+ "citationCount": 61,
+ "rcr": "6.39",
+ "headline": "A systematic review and meta-analysis of acceptance- and mindfulness-based interventions for DSM-5 anxiety dis",
+ "summary": "A meta-analysis / systematic review of Mindfulness-Based Stress Reduction (MBSR) examined emotional wellbeing. We found 23 studies, mostly of unclear risk of bias, including 1815 adults with different DSM-5 anxiety disorders. The evidence suggests short-term anxiolytic effects of acceptance- and mindfulness-based interventions.",
+ "keyFindings": [
+  "This meta-analysis systematically reviewed the evidence on standardized acceptance-/mindfulness-based interventions in DSM-5 anxiety disorders.",
+  "We found 23 studies, mostly of unclear risk of bias, including 1815 adults with different DSM-5 anxiety disorders.",
+  "The evidence suggests short-term anxiolytic effects of acceptance- and mindfulness-based interventions."
+ ],
+ "methodology": {
+  "studyType": "Meta-analysis / Systematic review",
+  "sampleSize": "23 studies",
+  "duration": "12\u00a0months",
+  "practice": "Mindfulness-Based Stress Reduction (MBSR)",
+  "comparator": "active/other control"
+ },
+ "limitations": [
+  "Risk of bias was assessed using the Cochrane tool.",
+  "We found 23 studies, mostly of unclear risk of bias, including 1815 adults with different DSM-5 anxiety disorders.",
+  "ACT, MBCT and MBSR led to short-term effects on clinician- and patient-rated anxiety in addition to treatment as usual (TAU) versus TAU alone.",
+  "Pooled estimates combine heterogeneous studies; effect sizes vary by practice, population, and control condition."
+ ],
+ "nullOrCritical": "null/mixed (F12-verified)",
+ "bidmc": false,
+ "quoteKey": "emotional-wellbeing",
+ "editorialReview": true
+}

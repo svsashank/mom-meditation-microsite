@@ -1,0 +1,47 @@
+{
+ "pmid": "36006668",
+ "doi": "10.2196/31744",
+ "title": "Health Care Workers' Need for Headspace: Findings From a Multisite Definitive Randomized Controlled Trial of an Unguided Digital Mindfulness-Based Self-help App to Reduce Healthcare Worker Stress",
+ "year": 2022,
+ "journal": "JMIR mHealth and uHealth",
+ "authors": [
+  "Taylor H",
+  "Cavanagh K",
+  "Field AP",
+  "Strauss C"
+ ],
+ "theme": "Brief & App-Based Practice",
+ "allThemes": [
+  "Brief & App-Based Practice"
+ ],
+ "studyType": "RCT",
+ "claimStrength": "Randomized-trial evidence",
+ "alignment": "general mindfulness/meditation",
+ "practiceStudied": "mindfulness / meditation",
+ "isMoM": "N",
+ "citationCount": 58,
+ "rcr": "8.95",
+ "headline": "Health Care Workers' Need for Headspace: Findings From a Multisite Definitive Randomized Controlled Trial of a",
+ "summary": "A randomized controlled trial of mindfulness / meditation examined brief & app-based practice. Small effects of Headspace versus Moodzone were found for depression (b=-0.24, 95% CI -0.40 to -0.08; P=.003), anxiety (b=-0.19, 95% CI -0.32 to -0.06; P=.004), well-being (b=0.14, 95% CI 0.05-0.23; P=.002), mindfulness (b=0.22, 95% CI 0.09-0.34; P=.001), self-compassion (b=0.48, 95% CI 0.33-0.64; P<.001), compassion for others (b=0.02, 95% CI 0.00-0.04; P=.04), and worry (b=-0.30, 95% CI -0.51 to -0.09; P=.005) but not for burnout (b=-0.19, -0.04, and 0.13, all 95% CIs >0; P=.65, .67, and .35), ruminative brooding (b=-0.06, 95% CI -0.12 to 0.00; P=.06), or sickness absence (\u03b3=0.09, 95% CI -0.18 to 0.34). Per-protocol effects of Headspace (454/1095, 41.46%) versus Moodzone (283/1087, 26.03%) over time were found for stress, self-compassion, and compassion for others but not for the other outcom",
+ "keyFindings": [
+  "Intention-to-treat analyses found that Headspace led to greater reductions in stress over time than Moodzone (b=-0.31, 95% CI -0.47 to -0.14; P<.001), with small effects.",
+  "Small effects of Headspace versus Moodzone were found for depression (b=-0.24, 95% CI -0.40 to -0.08; P=.003), anxiety (b=-0.19, 95% CI -0.32 to -0.06; P=.004), well-being (b=0.14, 95% CI 0.05-0.23; P=.002), mindfulness (b=0.22, 95% CI 0.09-0.34; P=.001), self-compassion (b=0.48, 95% CI 0.33-0.64; P<.001), compassion for others (b=0.02, 95% CI 0.00-0.04; P=.04), and worry (b=-0.30, 95% CI -0.51 to -0.09; P=.005) but not for burnout (b=-0.19, -0.04, and 0.13, all 95% CIs >0; P=.65, .67, and .35), ruminative brooding (b=-0.06, 95% CI -0.12 to 0.00; P=.06), or sickness absence (\u03b3=0.09, 95% CI -0.18 to 0.34).",
+  "Per-protocol effects of Headspace (454/1095, 41.46%) versus Moodzone (283/1087, 26.03%) over time were found for stress, self-compassion, and compassion for others but not for the other outcomes."
+ ],
+ "methodology": {
+  "studyType": "RCT",
+  "sampleSize": "N = 1095,",
+  "duration": "5 months",
+  "practice": "mindfulness / meditation",
+  "comparator": "active/other control"
+ },
+ "limitations": [
+  "Outcomes were subscales of the Depression, Anxiety, and Stress (primary outcome) Scale short form; Short Warwick Edinburgh Mental Well-being Scale; Maslach Burnout Inventory; 15-item Five-Facet Mindfulness Questionnaire minus Observe items; Self-Compassion Scale-Short Form; Compassionate Love Scale; Penn State Worry Questionnaire; Brooding subscale of the Ruminative Response Scale; and sickness absence.",
+  "Single-trial result; requires replication, and self-reported outcomes may inflate apparent effects.",
+  "The practice studied (mindfulness / meditation) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "brief-app-based-practice",
+ "editorialReview": true
+}

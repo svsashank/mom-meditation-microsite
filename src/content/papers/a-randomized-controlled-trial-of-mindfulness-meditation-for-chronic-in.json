@@ -1,0 +1,47 @@
+{
+ "pmid": "25142566",
+ "doi": "10.5665/sleep.4010",
+ "title": "A randomized controlled trial of mindfulness meditation for chronic insomnia",
+ "year": 2014,
+ "journal": "Sleep",
+ "authors": [
+  "Ong JC",
+  "Manber R",
+  "Segal Z",
+  "Xia Y",
+  "Shapiro S",
+  "Wyatt JK"
+ ],
+ "theme": "Sleep",
+ "allThemes": [
+  "Sleep"
+ ],
+ "studyType": "RCT",
+ "claimStrength": "Randomized-trial evidence",
+ "alignment": "general mindfulness/meditation",
+ "practiceStudied": "Mindfulness-Based Stress Reduction (MBSR)",
+ "isMoM": "N",
+ "citationCount": 198,
+ "rcr": "9.62",
+ "headline": "A randomized controlled trial of mindfulness meditation for chronic insomnia",
+ "summary": "A randomized controlled trial of Mindfulness-Based Stress Reduction (MBSR) examined sleep. Post hoc analyses revealed that each intervention was superior to SM on each of the patient-reported measures, but no significant differences were found when comparing MBSR to MBTI from baseline-to-post. Mindfulness meditation appears to be a viable treatment option for adults with chronic insomnia and could provide an alternative to traditional treatments for insomnia.",
+ "keyFindings": [
+  "Post hoc analyses revealed that each intervention was superior to SM on each of the patient-reported measures, but no significant differences were found when comparing MBSR to MBTI from baseline-to-post.",
+  "Mindfulness meditation appears to be a viable treatment option for adults with chronic insomnia and could provide an alternative to traditional treatments for insomnia."
+ ],
+ "methodology": {
+  "studyType": "RCT",
+  "sampleSize": "see paper",
+  "duration": "6-month",
+  "practice": "Mindfulness-Based Stress Reduction (MBSR)",
+  "comparator": "active/other control"
+ },
+ "limitations": [
+  "Single-trial result; requires replication, and self-reported outcomes may inflate apparent effects.",
+  "The practice studied (Mindfulness-Based Stress Reduction (MBSR)) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "sleep",
+ "editorialReview": true
+}

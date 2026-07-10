@@ -1,6 +1,6 @@
 # Meditation Research Microsite (Miracle of Mind) — working repo
 
-Executes `BRIEF.md`. This repo now covers **Phases 1–2**: the two skills (§8), the paper longlist
+Executes `BRIEF.md`. This repo now covers **Phases 1–3**: the two skills (§8), the paper longlist
 (§5), and the curated final **100** (PAPERS-100.csv). Site scaffold, per-paper pages, wisdom hub, and the final
 curated 100 (`PAPERS-100.csv` + `CLAIMS-REGISTER.md`) are downstream.
 
@@ -20,3 +20,21 @@ Citation Ratio. Evidence-tier scoring, citation normalization, yogic/breath-
 practice up-weighting (§4), Sadhguru Center @ BIDMC prioritization with a
 meditation-relevance gate (§4), built-in null/critical inclusion (§5 balance).
 See `DECISIONS.md` for the full rationale.
+
+
+## Running the site
+```
+npm ci
+npx astro build     # -> dist/  (112 pages)
+npx astro dev       # local preview
+```
+Astro static site (§7). Content: `src/content/papers/*.json` (one file per paper),
+`src/content/quotes/*.json` (Sadhguru quotes, verbatim + sourced). Pages: home,
+7 theme hubs, filterable research library, 100 paper pages, wisdom hub, practice
+CTA, methodology. Staging deploy: `.github/workflows/deploy-staging.yml`
+(GitHub Pages). No production/custom-domain deploy without sign-off (§7/§11).
+
+### Still open before production
+- CLAIMS-REGISTER.md (per-page claim ledger) — not yet generated
+- Per-paper prose is auto-drafted from abstracts; needs editorial + medical review (FLAGGED F15)
+- 3 of 7 theme wisdom slots pending verified quotes (FLAGGED F14)

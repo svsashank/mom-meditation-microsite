@@ -1,0 +1,48 @@
+{
+ "pmid": "21334442",
+ "doi": "10.1016/j.neuroimage.2011.02.034",
+ "title": "Impact of Mindfulness-Based Stress Reduction training on intrinsic brain connectivity",
+ "year": 2011,
+ "journal": "NeuroImage",
+ "authors": [
+  "Kilpatrick LA",
+  "Suyenobu BY",
+  "Smith SR",
+  "Bueller JA",
+  "Goodman T",
+  "Creswell JD"
+ ],
+ "theme": "Stress & Anxiety",
+ "allThemes": [
+  "Stress & Anxiety"
+ ],
+ "studyType": "RCT",
+ "claimStrength": "Randomized-trial evidence",
+ "alignment": "general mindfulness/meditation",
+ "practiceStudied": "Mindfulness-Based Stress Reduction (MBSR)",
+ "isMoM": "N",
+ "citationCount": 197,
+ "rcr": "6.98",
+ "headline": "Impact of Mindfulness-Based Stress Reduction training on intrinsic brain connectivity",
+ "summary": "A randomized controlled trial of Mindfulness-Based Stress Reduction (MBSR) examined stress & anxiety. Relative to findings in the control group, MBSR subjects showed (1) increased functional connectivity within auditory and visual networks, (2) increased functional connectivity between auditory cortex and areas associated with attentional and self-referential processes, (3) stronger anticorrelation between auditory and visual cortex, and (4) stronger anticorrelation between visual cortex and areas associated with attentional and self-referential processes. These findings suggest that 8 weeks of mindfulness meditation training alters intrinsic functional connectivity in ways that may reflect a more consistent attentional focus, enhanced sensory processing, and reflective awareness of sensory experience.",
+ "keyFindings": [
+  "Significant MBSR-related differences in functional connectivity were found mainly in auditory/salience and medial visual networks.",
+  "Relative to findings in the control group, MBSR subjects showed (1) increased functional connectivity within auditory and visual networks, (2) increased functional connectivity between auditory cortex and areas associated with attentional and self-referential processes, (3) stronger anticorrelation between auditory and visual cortex, and (4) stronger anticorrelation between visual cortex and areas associated with attentional and self-referential processes.",
+  "These findings suggest that 8 weeks of mindfulness meditation training alters intrinsic functional connectivity in ways that may reflect a more consistent attentional focus, enhanced sensory processing, and reflective awareness of sensory experience."
+ ],
+ "methodology": {
+  "studyType": "RCT",
+  "sampleSize": "see paper",
+  "duration": "8-week",
+  "practice": "Mindfulness-Based Stress Reduction (MBSR)",
+  "comparator": "see paper"
+ },
+ "limitations": [
+  "Single-trial result; requires replication, and self-reported outcomes may inflate apparent effects.",
+  "The practice studied (Mindfulness-Based Stress Reduction (MBSR)) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "stress-anxiety",
+ "editorialReview": true
+}

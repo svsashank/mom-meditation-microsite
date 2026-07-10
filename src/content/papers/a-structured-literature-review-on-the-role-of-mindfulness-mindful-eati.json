@@ -1,0 +1,45 @@
+{
+ "pmid": "28718396",
+ "doi": "10.1017/S0954422417000154",
+ "title": "A structured literature review on the role of mindfulness, mindful eating and intuitive eating in changing eating behaviours: effectiveness and associated potential mechanisms",
+ "year": 2017,
+ "journal": "Nutrition research reviews",
+ "authors": [
+  "Warren JM",
+  "Smith N",
+  "Ashwell M"
+ ],
+ "theme": "Stress & Anxiety",
+ "allThemes": [
+  "Stress & Anxiety"
+ ],
+ "studyType": "Cross-sectional / Mechanistic",
+ "claimStrength": "Mechanistic / observational evidence",
+ "alignment": "general mindfulness/meditation",
+ "practiceStudied": "mindfulness / meditation",
+ "isMoM": "N",
+ "citationCount": 223,
+ "rcr": "12.91",
+ "headline": "A structured literature review on the role of mindfulness, mindful eating and intuitive eating in changing eat",
+ "summary": "A mechanistic/observational study of mindfulness / meditation examined stress & anxiety. The evidence base for intuitive eating is limited to date and further research is needed to examine its potential in altering eating behaviours. Mindfulness appears to work by an increased awareness of internal, rather than external, cues to eat.",
+ "keyFindings": [
+  "There is a lack of compelling evidence for the effectiveness of mindfulness and mindful eating in weight management.",
+  "The evidence base for intuitive eating is limited to date and further research is needed to examine its potential in altering eating behaviours.",
+  "Mindfulness appears to work by an increased awareness of internal, rather than external, cues to eat."
+ ],
+ "methodology": {
+  "studyType": "Cross-sectional / Mechanistic",
+  "sampleSize": "see paper",
+  "duration": "see paper",
+  "practice": "mindfulness / meditation",
+  "comparator": "see paper"
+ },
+ "limitations": [
+  "Observational/mechanistic design cannot establish that the practice caused the observed differences.",
+  "The practice studied (mindfulness / meditation) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "stress-anxiety",
+ "editorialReview": true
+}

@@ -1,0 +1,45 @@
+{
+ "pmid": "23538911",
+ "doi": "10.1177/0956797612459659",
+ "title": "Mindfulness training improves working memory capacity and GRE performance while reducing mind wandering",
+ "year": 2013,
+ "journal": "Psychological science",
+ "authors": [
+  "Mrazek MD",
+  "Franklin MS",
+  "Phillips DT",
+  "Baird B",
+  "Schooler JW"
+ ],
+ "theme": "Focus & Attention",
+ "allThemes": [
+  "Focus & Attention"
+ ],
+ "studyType": "RCT",
+ "claimStrength": "Randomized-trial evidence",
+ "alignment": "general mindfulness/meditation",
+ "practiceStudied": "mindfulness / meditation",
+ "isMoM": "N",
+ "citationCount": 352,
+ "rcr": "15.38",
+ "headline": "Mindfulness training improves working memory capacity and GRE performance while reducing mind wandering",
+ "summary": "A randomized controlled trial of mindfulness / meditation examined focus & attention. Our results suggest that cultivating mindfulness is an effective and efficient technique for improving cognitive function, with wide-reaching consequences.",
+ "keyFindings": [
+  "Our results suggest that cultivating mindfulness is an effective and efficient technique for improving cognitive function, with wide-reaching consequences."
+ ],
+ "methodology": {
+  "studyType": "RCT",
+  "sampleSize": "see paper",
+  "duration": "2-week",
+  "practice": "mindfulness / meditation",
+  "comparator": "see paper"
+ },
+ "limitations": [
+  "Single-trial result; requires replication, and self-reported outcomes may inflate apparent effects.",
+  "The practice studied (mindfulness / meditation) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "focus-attention",
+ "editorialReview": true
+}

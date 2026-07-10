@@ -1,0 +1,47 @@
+{
+ "pmid": "31199319",
+ "doi": "10.2196/12556",
+ "title": "Guided Self-Help Works: Randomized Waitlist Controlled Trial of Pacifica, a Mobile App Integrating Cognitive Behavioral Therapy and Mindfulness for Stress, Anxiety, and Depression",
+ "year": 2019,
+ "journal": "Journal of medical Internet research",
+ "authors": [
+  "Moberg C",
+  "Niles A",
+  "Beermann D"
+ ],
+ "theme": "Brief & App-Based Practice",
+ "allThemes": [
+  "Brief & App-Based Practice"
+ ],
+ "studyType": "RCT",
+ "claimStrength": "Randomized-trial evidence",
+ "alignment": "general mindfulness/meditation",
+ "practiceStudied": "mindfulness / meditation",
+ "isMoM": "N",
+ "citationCount": 89,
+ "rcr": "6.66",
+ "headline": "Guided Self-Help Works: Randomized Waitlist Controlled Trial of Pacifica, a Mobile App Integrating Cognitive B",
+ "summary": "A randomized controlled trial of mindfulness / meditation examined brief & app-based practice. In addition, we found that participants who reported concomitantly taking psychiatric medications during the trial benefitted less from the app, as measured by the symptoms of anxiety and stress. This study provides evidence that Pacifica, a popular commercially available self-help app, is effective in reducing self-reported symptoms of depression, anxiety, and stress, particularly among individuals who utilize thought records and are not taking psychiatric medication.",
+ "keyFindings": [
+  "We found significant interactions between time and group.",
+  "In addition, we found that participants who reported concomitantly taking psychiatric medications during the trial benefitted less from the app, as measured by the symptoms of anxiety and stress.",
+  "This study provides evidence that Pacifica, a popular commercially available self-help app, is effective in reducing self-reported symptoms of depression, anxiety, and stress, particularly among individuals who utilize thought records and are not taking psychiatric medication."
+ ],
+ "methodology": {
+  "studyType": "RCT",
+  "sampleSize": "500 adults",
+  "duration": "1 month",
+  "practice": "mindfulness / meditation",
+  "comparator": "waitlist/usual care"
+ },
+ "limitations": [
+  "Measurements included self-reported symptoms of stress, anxiety, depression, and self-efficacy.",
+  "This study provides evidence that Pacifica, a popular commercially available self-help app, is effective in reducing self-reported symptoms of depression, anxiety, and stress, particularly among individuals who utilize thought records and are not taking psychiatric medication.",
+  "Single-trial result; requires replication, and self-reported outcomes may inflate apparent effects.",
+  "The practice studied (mindfulness / meditation) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "brief-app-based-practice",
+ "editorialReview": true
+}

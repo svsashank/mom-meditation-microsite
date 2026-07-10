@@ -1,0 +1,46 @@
+{
+ "pmid": "38903593",
+ "doi": "10.3389/fpubh.2024.1406937",
+ "title": "Yoga as a therapeutic approach to mental health in university students: a randomized controlled trial",
+ "year": 2024,
+ "journal": "Frontiers in public health",
+ "authors": [
+  "Castellote-Caballero Y",
+  "Carcel\u00e9n-Fraile MDC",
+  "Aibar-Almaz\u00e1n A",
+  "Rivas-Campo Y",
+  "Gonz\u00e1lez-Mart\u00edn AM"
+ ],
+ "theme": "Emotional Wellbeing",
+ "allThemes": [
+  "Emotional Wellbeing"
+ ],
+ "studyType": "RCT",
+ "claimStrength": "Randomized-trial evidence",
+ "alignment": "yogic/breath-attention (weighted up)",
+ "practiceStudied": "yoga",
+ "isMoM": "N",
+ "citationCount": 18,
+ "rcr": "7.35",
+ "headline": "Yoga as a therapeutic approach to mental health in university students: a randomized controlled trial",
+ "summary": "A randomized controlled trial of yoga examined emotional wellbeing. The purpose of this study has been to analyze the efficacy of a yoga-based intervention on stress, emotional wellbeing, state anxiety and trait anxiety in university students.",
+ "keyFindings": [
+  "The purpose of this study has been to analyze the efficacy of a yoga-based intervention on stress, emotional wellbeing, state anxiety and trait anxiety in university students.",
+  "This study was a randomized controlled trial."
+ ],
+ "methodology": {
+  "studyType": "RCT",
+  "sampleSize": "see paper",
+  "duration": "12\u2009weeks",
+  "practice": "yoga",
+  "comparator": "active/other control"
+ },
+ "limitations": [
+  "Single-trial result; requires replication, and self-reported outcomes may inflate apparent effects.",
+  "The practice studied (yoga) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "emotional-wellbeing",
+ "editorialReview": true
+}

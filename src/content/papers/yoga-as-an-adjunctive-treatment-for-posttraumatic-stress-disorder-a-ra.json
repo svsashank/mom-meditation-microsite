@@ -1,0 +1,46 @@
+{
+ "pmid": "25004196",
+ "doi": "10.4088/JCP.13m08561",
+ "title": "Yoga as an adjunctive treatment for posttraumatic stress disorder: a randomized controlled trial",
+ "year": 2014,
+ "journal": "The Journal of clinical psychiatry",
+ "authors": [
+  "van der Kolk BA",
+  "Stone L",
+  "West J",
+  "Rhodes A",
+  "Emerson D",
+  "Suvak M"
+ ],
+ "theme": "Clinical Research",
+ "allThemes": [
+  "Clinical Research"
+ ],
+ "studyType": "RCT",
+ "claimStrength": "Randomized-trial evidence",
+ "alignment": "yogic/breath-attention (weighted up)",
+ "practiceStudied": "yoga",
+ "isMoM": "N",
+ "citationCount": 180,
+ "rcr": "8.06",
+ "headline": "Yoga as an adjunctive treatment for posttraumatic stress disorder: a randomized controlled trial",
+ "summary": "A randomized controlled trial of yoga examined clinical research. Yoga may improve the functioning of traumatized individuals by helping them to tolerate physical and sensory experiences associated with fear and helplessness and to increase emotional awareness and affect tolerance.",
+ "keyFindings": [
+  "Yoga may improve the functioning of traumatized individuals by helping them to tolerate physical and sensory experiences associated with fear and helplessness and to increase emotional awareness and affect tolerance."
+ ],
+ "methodology": {
+  "studyType": "RCT",
+  "sampleSize": "N = 60,",
+  "duration": "10 weeks",
+  "practice": "yoga",
+  "comparator": "active/other control"
+ },
+ "limitations": [
+  "Single-trial result; requires replication, and self-reported outcomes may inflate apparent effects.",
+  "The practice studied (yoga) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "clinical-research",
+ "editorialReview": true
+}

@@ -1,0 +1,46 @@
+{
+ "pmid": "37822096",
+ "doi": "10.1002/smi.3324",
+ "title": "Effect of a single session of yoga and meditation on stress reactivity: A systematic review",
+ "year": 2024,
+ "journal": "Stress and health : journal of the International Society for the Investigation of Stress",
+ "authors": [
+  "Mandlik GV",
+  "Siopis G",
+  "Nguyen B",
+  "Ding D",
+  "Edwards KM"
+ ],
+ "theme": "Brief & App-Based Practice",
+ "allThemes": [
+  "Brief & App-Based Practice"
+ ],
+ "studyType": "Meta-analysis / Systematic review",
+ "claimStrength": "Meta-analytic evidence",
+ "alignment": "yogic/breath-attention (weighted up)",
+ "practiceStudied": "yoga",
+ "isMoM": "adjacent",
+ "citationCount": 8,
+ "rcr": "4.02",
+ "headline": "Effect of a single session of yoga and meditation on stress reactivity: A systematic review",
+ "summary": "A meta-analysis / systematic review of yoga examined brief & app-based practice. This systematic review synthesises the evidence for the effectiveness of a single session of yoga or its components including meditation and breathing techniques in reducing acute stress reactivity in healthy adults.",
+ "keyFindings": [
+  "This systematic review synthesises the evidence for the effectiveness of a single session of yoga or its components including meditation and breathing techniques in reducing acute stress reactivity in healthy adults."
+ ],
+ "methodology": {
+  "studyType": "Meta-analysis / Systematic review",
+  "sampleSize": "N = 2574",
+  "duration": "see paper",
+  "practice": "yoga",
+  "comparator": "see paper"
+ },
+ "limitations": [
+  "Risk of bias (ROB) was assessed using the Cochrane ROB 2 tool.",
+  "Pooled estimates combine heterogeneous studies; effect sizes vary by practice, population, and control condition.",
+  "The practice studied (yoga) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "brief-app-based-practice",
+ "editorialReview": true
+}

@@ -1,0 +1,48 @@
+{
+ "pmid": "26048176",
+ "doi": "10.1093/scan/nsv066",
+ "title": "Mindfulness meditation training alters stress-related amygdala resting state functional connectivity: a randomized controlled trial",
+ "year": 2015,
+ "journal": "Social cognitive and affective neuroscience",
+ "authors": [
+  "Taren AA",
+  "Gianaros PJ",
+  "Greco CM",
+  "Lindsay EK",
+  "Fairgrieve A",
+  "Brown KW"
+ ],
+ "theme": "Brief & App-Based Practice",
+ "allThemes": [
+  "Brief & App-Based Practice"
+ ],
+ "studyType": "RCT",
+ "claimStrength": "Randomized-trial evidence",
+ "alignment": "general mindfulness/meditation",
+ "practiceStudied": "mindfulness / meditation",
+ "isMoM": "N",
+ "citationCount": 123,
+ "rcr": "5.59",
+ "headline": "Mindfulness meditation training alters stress-related amygdala resting state functional connectivity: a random",
+ "summary": "A randomized controlled trial of mindfulness / meditation examined brief & app-based practice. We show in an initial discovery study that higher perceived stress over the past month is associated with greater bilateral amygdala-subgenual anterior cingulate cortex (sgACC) rsFC in a sample of community adults (n = 130). This work provides an initial indication that mindfulness meditation training promotes functional neuroplastic changes, suggesting an amygdala-sgACC pathway for stress reduction effects.",
+ "keyFindings": [
+  "Recent studies indicate that mindfulness meditation training interventions reduce stress and improve stress-related health outcomes, but the neural pathways for these effects are unknown.",
+  "We show in an initial discovery study that higher perceived stress over the past month is associated with greater bilateral amygdala-subgenual anterior cingulate cortex (sgACC) rsFC in a sample of community adults (n = 130).",
+  "This work provides an initial indication that mindfulness meditation training promotes functional neuroplastic changes, suggesting an amygdala-sgACC pathway for stress reduction effects."
+ ],
+ "methodology": {
+  "studyType": "RCT",
+  "sampleSize": "N = 130",
+  "duration": "3-day",
+  "practice": "mindfulness / meditation",
+  "comparator": "see paper"
+ },
+ "limitations": [
+  "Single-trial result; requires replication, and self-reported outcomes may inflate apparent effects.",
+  "The practice studied (mindfulness / meditation) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "brief-app-based-practice",
+ "editorialReview": true
+}

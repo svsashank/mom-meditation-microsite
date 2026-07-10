@@ -1,0 +1,55 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection, getEntry } from 'astro:content';
+const slug = (t)=>t.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
+export async function getStaticPaths(){
+  const s = (t)=>t.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
+  const papers = await getCollection('papers');
+  const themes=[...new Set(papers.map(p=>p.data.theme))];
+  return themes.map(t => ({ params:{ theme: s(t) }, props:{ theme:t } }));
+}
+const { theme } = Astro.props;
+const b = import.meta.env.BASE_URL.replace(/\/$/, '');
+const papers = (await getCollection('papers')).filter(p=>p.data.theme===theme).sort((a,b)=>b.data.citationCount-a.data.citationCount);
+const meta = { meta:papers.filter(p=>p.data.studyType.startsWith('Meta')).length,
+  rct:papers.filter(p=>p.data.studyType==='RCT').length };
+let quote=null; try{ quote = await getEntry('quotes', slug(theme)); }catch(e){}
+const overview={
+ 'Stress & Anxiety':'Stress and anxiety are the most-studied outcomes in meditation research. The evidence is strongest in pooled analyses of brief daily practice; effects on stress physiology (cortisol, blood pressure, heart-rate variability) are promising but heterogeneous.',
+ 'Sleep':'A smaller but growing body of trials examines meditation for sleep quality and insomnia, often against active controls. Effects are modest and measurement is frequently self-reported.',
+ 'Focus & Attention':'Attention research spans behavioural tasks and the wandering mind. Short practice shows measurable but small effects on attentional control; long-term practitioners show larger differences that are hard to attribute to practice alone.',
+ 'Emotional Wellbeing':'Studies here address mood, emotion regulation, depression and resilience. Meta-analytic effects are real but modest, and comparisons against active treatments narrow the advantage.',
+ 'Brain & Mechanisms':'Neuroimaging and physiology explore how practice might work — default-mode-network activity, connectivity, gray-matter measures, HRV and breath-attention interaction. This is mechanistic evidence, scored and read separately from outcome claims.',
+ 'Clinical Research':'Trials in clinical populations (pain, hypertension, cancer, PTSD) test meditation as a complement, never a replacement, for standard care.',
+ 'Brief & App-Based Practice':'The most MoM-relevant slice: short, self-guided and app-delivered practice. Adherence and active-control design are the recurring questions.',
+};
+---
+<Base title={theme} wide={true} description={overview[theme]}>
+  <section>
+    <p class="eyebrow"><a href={b + '/#themes'} style="text-decoration:none">Theme hub</a></p>
+    <h1>{theme}</h1>
+    <p class="lede">{overview[theme]}</p>
+    <p class="meta" style="font-family:var(--sans);font-size:13px;color:var(--ink-soft)">{papers.length} studies · {meta.meta} meta-analyses/reviews · {meta.rct} RCTs</p>
+
+    {quote && quote.data.verified && (
+      <div class="wisdom">
+        <p class="eyebrow" style="color:var(--wisdom)">Sadhguru's perspective</p>
+        <p class="q">“{quote.data.quoteText}”</p>
+        <p class="src">— Sadhguru{quote.data.origin ? ', ' + quote.data.origin : ' (Isha)'}</p>
+      </div>
+    )}
+    {(!quote || !quote.data.verified) && (
+      <div class="wisdom"><p class="pending">A verified anchor quote on {theme} will appear here, sourced verbatim from isha.sadhguru.org.</p></div>
+    )}
+
+    <div class="grid">
+      {papers.map(p=>(
+        <a class="card" href={b + '/research/' + p.id + '/'}>
+          <p class="meta">{p.data.studyType} · {p.data.year}</p>
+          <h3>{p.data.headline}</h3>
+          <p class="meta">{p.data.alignment}{p.data.nullOrCritical ? ' · ' + p.data.nullOrCritical : ''}</p>
+        </a>
+      ))}
+    </div>
+  </section>
+</Base>

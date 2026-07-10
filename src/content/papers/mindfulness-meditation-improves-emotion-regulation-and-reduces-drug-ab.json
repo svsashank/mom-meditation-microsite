@@ -1,0 +1,44 @@
+{
+ "pmid": "27306725",
+ "doi": "10.1016/j.drugalcdep.2015.11.041",
+ "title": "Mindfulness meditation improves emotion regulation and reduces drug abuse",
+ "year": 2016,
+ "journal": "Drug and alcohol dependence",
+ "authors": [
+  "Tang YY",
+  "Tang R",
+  "Posner MI"
+ ],
+ "theme": "Brain & Mechanisms",
+ "allThemes": [
+  "Brain & Mechanisms"
+ ],
+ "studyType": "RCT",
+ "claimStrength": "Randomized-trial evidence",
+ "alignment": "general mindfulness/meditation",
+ "practiceStudied": "mindfulness / meditation",
+ "isMoM": "N",
+ "citationCount": 137,
+ "rcr": "7.27",
+ "headline": "Mindfulness meditation improves emotion regulation and reduces drug abuse",
+ "summary": "A randomized controlled trial of mindfulness / meditation examined brain & mechanisms. In both smokers and nonsmokers, improved self-control abilities in emotion regulation and stress reduction were found after training and these changes were related to increased ACC/mPFC activity following training. These results indicate that promoting emotion regulation and improving ACC/mPFC brain activity can help for addiction prevention and treatment.",
+ "keyFindings": [
+  "In both smokers and nonsmokers, improved self-control abilities in emotion regulation and stress reduction were found after training and these changes were related to increased ACC/mPFC activity following training.",
+  "These results indicate that promoting emotion regulation and improving ACC/mPFC brain activity can help for addiction prevention and treatment."
+ ],
+ "methodology": {
+  "studyType": "RCT",
+  "sampleSize": "see paper",
+  "duration": "see paper",
+  "practice": "mindfulness / meditation",
+  "comparator": "active/other control"
+ },
+ "limitations": [
+  "Single-trial result; requires replication, and self-reported outcomes may inflate apparent effects.",
+  "The practice studied (mindfulness / meditation) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "brain-mechanisms",
+ "editorialReview": true
+}

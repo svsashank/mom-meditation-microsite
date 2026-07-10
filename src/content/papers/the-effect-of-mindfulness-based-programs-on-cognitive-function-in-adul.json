@@ -1,0 +1,48 @@
+{
+ "pmid": "34350544",
+ "doi": "10.1007/s11065-021-09519-y",
+ "title": "The Effect of Mindfulness-based Programs on Cognitive Function in Adults: A Systematic Review and Meta-analysis",
+ "year": 2022,
+ "journal": "Neuropsychology review",
+ "authors": [
+  "Whitfield T",
+  "Barnhofer T",
+  "Acabchuk R",
+  "Cohen A",
+  "Lee M",
+  "Schlosser M"
+ ],
+ "theme": "Focus & Attention",
+ "allThemes": [
+  "Focus & Attention"
+ ],
+ "studyType": "Meta-analysis / Systematic review",
+ "claimStrength": "Meta-analytic evidence",
+ "alignment": "general mindfulness/meditation",
+ "practiceStudied": "mindfulness / meditation",
+ "isMoM": "N",
+ "citationCount": 96,
+ "rcr": "12.73",
+ "headline": "The Effect of Mindfulness-based Programs on Cognitive Function in Adults: A Systematic Review and Meta-analysi",
+ "summary": "A meta-analysis / systematic review of mindfulness / meditation examined focus & attention. Mindfulness-based programs (MBPs) are increasingly utilized to improve mental health.",
+ "keyFindings": [
+  "Mindfulness-based programs (MBPs) are increasingly utilized to improve mental health.",
+  "Interest in the putative effects of MBPs on cognitive function is also growing."
+ ],
+ "methodology": {
+  "studyType": "Meta-analysis / Systematic review",
+  "sampleSize": "N = 2,931",
+  "duration": "see paper",
+  "practice": "mindfulness / meditation",
+  "comparator": "see paper"
+ },
+ "limitations": [
+  "Limitations include the primarily unclear within-study risk of bias (only a minority of studies were considered low risk), and that statistical constraints rendered some p-values unreliable.",
+  "Pooled estimates combine heterogeneous studies; effect sizes vary by practice, population, and control condition.",
+  "The practice studied (mindfulness / meditation) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "focus-attention",
+ "editorialReview": true
+}

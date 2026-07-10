@@ -1,0 +1,33 @@
+---
+const { title, description, wide } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const nav = [
+  ['Research', base + '/research/'],
+  ['Themes', base + '/#themes'],
+  ['Sadhguru on Meditation', base + '/wisdom/'],
+  ['The Practice', base + '/practice/'],
+  ['Methodology', base + '/methodology/'],
+];
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{title} — Miracle of Mind: Meditation Research</title>
+  <meta name="description" content={description ?? 'A research-led guide to meditation, from the Miracle of Mind.'} />
+  <link rel="stylesheet" href={base + '/styles.css'} />
+  <slot name="head" />
+</head>
+<body>
+  <header class="site"><div class="wrap wide">
+    <a class="brand" href={base + '/'}>Miracle of Mind<small>Meditation Research</small></a>
+    <nav class="site">{nav.map(([l,h]) => <a href={h}>{l}</a>)}</nav>
+  </div></header>
+  <main class={wide ? 'wrap wide' : 'wrap'}><slot /></main>
+  <footer class="site"><div class="wrap wide">
+    <p>Informational resource on meditation research from the Miracle of Mind. Not medical advice.</p>
+    <p>Science summaries are drawn from peer-reviewed literature; Sadhguru's words are presented as perspective, sourced separately. See the <a href={base + '/methodology/'}>methodology</a>.</p>
+  </div></footer>
+</body>
+</html>

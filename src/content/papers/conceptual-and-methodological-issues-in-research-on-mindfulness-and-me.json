@@ -1,0 +1,44 @@
+{
+ "pmid": "26436310",
+ "doi": "10.1037/a0039512",
+ "title": "Conceptual and methodological issues in research on mindfulness and meditation",
+ "year": 2015,
+ "journal": "The American psychologist",
+ "authors": [
+  "Davidson RJ",
+  "Kaszniak AW"
+ ],
+ "theme": "Emotional Wellbeing",
+ "allThemes": [
+  "Emotional Wellbeing"
+ ],
+ "studyType": "Meta-analysis / Systematic review",
+ "claimStrength": "Meta-analytic evidence",
+ "alignment": "general mindfulness/meditation",
+ "practiceStudied": "mindfulness / meditation",
+ "isMoM": "N",
+ "citationCount": 308,
+ "rcr": "15.45",
+ "headline": "Conceptual and methodological issues in research on mindfulness and meditation",
+ "summary": "A meta-analysis / systematic review of mindfulness / meditation examined emotional wellbeing. Both basic science and clinical research on mindfulness, meditation, and related constructs have dramatically increased in recent years.",
+ "keyFindings": [
+  "Both basic science and clinical research on mindfulness, meditation, and related constructs have dramatically increased in recent years.",
+  "However, interpretation of these research results has been challenging."
+ ],
+ "methodology": {
+  "studyType": "Meta-analysis / Systematic review",
+  "sampleSize": "see paper",
+  "duration": "see paper",
+  "practice": "mindfulness / meditation",
+  "comparator": "see paper"
+ },
+ "limitations": [
+  "Included among the key topics is the role of first-person experience and how it can be best studied, the challenges posed by intervention research designs in which true double-blinding is not possible, the nature of control and comparison conditions for research that includes mindfulness or other meditation-based interventions, issues in the adequate description of mindfulness and related trainings and interventions, the question of how mindfulness can be measured, questions regarding what can and cannot be inferred from self-report measures, and considerations regarding the structure of study design and data analyses.",
+  "Pooled estimates combine heterogeneous studies; effect sizes vary by practice, population, and control condition.",
+  "The practice studied (mindfulness / meditation) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "field-methodology critique",
+ "bidmc": false,
+ "quoteKey": "emotional-wellbeing",
+ "editorialReview": true
+}

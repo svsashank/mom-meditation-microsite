@@ -1,0 +1,46 @@
+{
+ "pmid": "33526085",
+ "doi": "10.1186/s40359-021-00520-x",
+ "title": "Brief mindfulness-based training and mindfulness trait attenuate psychological stress in university students: a randomized controlled trial",
+ "year": 2021,
+ "journal": "BMC psychology",
+ "authors": [
+  "Sousa GM",
+  "Lima-Ara\u00fajo GL",
+  "Ara\u00fajo DB",
+  "Sousa MBC"
+ ],
+ "theme": "Stress & Anxiety",
+ "allThemes": [
+  "Stress & Anxiety"
+ ],
+ "studyType": "RCT",
+ "claimStrength": "Randomized-trial evidence",
+ "alignment": "yogic/breath-attention (weighted up)",
+ "practiceStudied": "yoga",
+ "isMoM": "N",
+ "citationCount": 47,
+ "rcr": "5.25",
+ "headline": "Brief mindfulness-based training and mindfulness trait attenuate psychological stress in university students: ",
+ "summary": "A randomized controlled trial of yoga examined stress & anxiety. Both groups reduced negative affect and cortisol, and no change was found in positive affect. Together, these results suggest that higher trait mindfulness is associated with low levels of psychological distress and that a brief mindfulness-based intervention seems to be useful to reduce distress measures in university students.",
+ "keyFindings": [
+  "We found that High Trait individuals have lower anxiety trait, anxiety state and perceived stress levels.",
+  "Both groups reduced negative affect and cortisol, and no change was found in positive affect.",
+  "Together, these results suggest that higher trait mindfulness is associated with low levels of psychological distress and that a brief mindfulness-based intervention seems to be useful to reduce distress measures in university students."
+ ],
+ "methodology": {
+  "studyType": "RCT",
+  "sampleSize": "N = 27,",
+  "duration": "see paper",
+  "practice": "yoga",
+  "comparator": "active/other control"
+ },
+ "limitations": [
+  "Single-trial result; requires replication, and self-reported outcomes may inflate apparent effects.",
+  "The practice studied (yoga) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "stress-anxiety",
+ "editorialReview": true
+}

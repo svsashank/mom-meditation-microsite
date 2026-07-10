@@ -1,0 +1,46 @@
+{
+ "pmid": "22365651",
+ "doi": "10.1016/j.mehy.2012.01.021",
+ "title": "Effects of yoga on the autonomic nervous system, gamma-aminobutyric-acid, and allostasis in epilepsy, depression, and post-traumatic stress disorder",
+ "year": 2012,
+ "journal": "Medical hypotheses",
+ "authors": [
+  "Streeter CC",
+  "Gerbarg PL",
+  "Saper RB",
+  "Ciraulo DA",
+  "Brown RP"
+ ],
+ "theme": "Brain & Mechanisms",
+ "allThemes": [
+  "Brain & Mechanisms"
+ ],
+ "studyType": "Cross-sectional / Mechanistic",
+ "claimStrength": "Mechanistic / observational evidence",
+ "alignment": "yogic/breath-attention (weighted up)",
+ "practiceStudied": "yoga",
+ "isMoM": "N",
+ "citationCount": 302,
+ "rcr": "12.54",
+ "headline": "Effects of yoga on the autonomic nervous system, gamma-aminobutyric-acid, and allostasis in epilepsy, depressi",
+ "summary": "A mechanistic/observational study of yoga examined brain & mechanisms. A theory is proposed to explain the benefits of yoga practices in diverse, frequently comorbid medical conditions based on the concept that yoga practices reduce allostatic load in stress response systems such that optimal homeostasis is restored.",
+ "keyFindings": [
+  "A theory is proposed to explain the benefits of yoga practices in diverse, frequently comorbid medical conditions based on the concept that yoga practices reduce allostatic load in stress response systems such that optimal homeostasis is restored.",
+  "It is hypothesized that stress induces (1) imbalance of the autonomic nervous system (ANS) with decreased parasympathetic nervous system (PNS) and increased sympathetic nervous system (SNS) activity, (2) underactivity of the gamma amino-butyric acid (GABA) system, the primary inhibitory neurotransmitter system, and (3) increased allostatic load."
+ ],
+ "methodology": {
+  "studyType": "Cross-sectional / Mechanistic",
+  "sampleSize": "see paper",
+  "duration": "see paper",
+  "practice": "yoga",
+  "comparator": "see paper"
+ },
+ "limitations": [
+  "Observational/mechanistic design cannot establish that the practice caused the observed differences.",
+  "The practice studied (yoga) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "brain-mechanisms",
+ "editorialReview": true
+}

@@ -1,0 +1,48 @@
+{
+ "pmid": "31443810",
+ "doi": "10.1016/j.jpsychores.2019.109756",
+ "title": "Psychological and mind-body interventions for endometriosis: A systematic review",
+ "year": 2019,
+ "journal": "Journal of psychosomatic research",
+ "authors": [
+  "Evans S",
+  "Fernandez S",
+  "Olive L",
+  "Payne LA",
+  "Mikocka-Walus A"
+ ],
+ "theme": "Sleep",
+ "allThemes": [
+  "Sleep"
+ ],
+ "studyType": "Meta-analysis / Systematic review",
+ "claimStrength": "Meta-analytic evidence",
+ "alignment": "yogic/breath-attention (weighted up)",
+ "practiceStudied": "yoga",
+ "isMoM": "N",
+ "citationCount": 83,
+ "rcr": "6.53",
+ "headline": "Psychological and mind-body interventions for endometriosis: A systematic review",
+ "summary": "A meta-analysis / systematic review of yoga examined sleep. Results indicate that no studies have yet used gold-standard methodology and, thus, definitive conclusions cannot be offered about PMB efficacy. However, the results of these pilot studies suggest that PMB interventions show promise in alleviating pain, anxiety, depression, stress and fatigue in women with endometriosis, and future well-designed RCTs including active control groups are warranted.",
+ "keyFindings": [
+  "This review examines the evidence for psychological and mind-body (PMB) interventions to improve endometriosis pain, psychological distress, sleep and fatigue.",
+  "Results indicate that no studies have yet used gold-standard methodology and, thus, definitive conclusions cannot be offered about PMB efficacy.",
+  "However, the results of these pilot studies suggest that PMB interventions show promise in alleviating pain, anxiety, depression, stress and fatigue in women with endometriosis, and future well-designed RCTs including active control groups are warranted."
+ ],
+ "methodology": {
+  "studyType": "Meta-analysis / Systematic review",
+  "sampleSize": "see paper",
+  "duration": "see paper",
+  "practice": "yoga",
+  "comparator": "active/other control"
+ },
+ "limitations": [
+  "Studies were identified and coded using standard criteria, and risk of bias was assessed with established tools relevant to the study design.",
+  "Pooled estimates combine heterogeneous studies; effect sizes vary by practice, population, and control condition.",
+  "The practice studied (yoga) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "sleep",
+ "editorialReview": true
+}

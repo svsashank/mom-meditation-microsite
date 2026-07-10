@@ -1,0 +1,43 @@
+{
+ "pmid": "16460668",
+ "doi": "10.1016/j.brat.2005.12.007",
+ "title": "Mechanisms of mindfulness: emotion regulation following a focused breathing induction",
+ "year": 2006,
+ "journal": "Behaviour research and therapy",
+ "authors": [
+  "Arch JJ",
+  "Craske MG"
+ ],
+ "theme": "Emotional Wellbeing",
+ "allThemes": [
+  "Emotional Wellbeing"
+ ],
+ "studyType": "RCT",
+ "claimStrength": "Randomized-trial evidence",
+ "alignment": "yogic/breath-attention (weighted up)",
+ "practiceStudied": "breath-and-attention meditation",
+ "isMoM": "adjacent",
+ "citationCount": 372,
+ "rcr": "12.41",
+ "headline": "Mechanisms of mindfulness: emotion regulation following a focused breathing induction",
+ "summary": "A randomized controlled trial of breath-and-attention meditation examined emotional wellbeing. The current study investigated whether a 15 min recorded focused breathing induction in a normal, primarily undergraduate population would decrease the intensity and negativity of emotional responses to affectively valenced picture slides and increase willingness to remain in contact with aversive picture slides.",
+ "keyFindings": [
+  "The current study investigated whether a 15 min recorded focused breathing induction in a normal, primarily undergraduate population would decrease the intensity and negativity of emotional responses to affectively valenced picture slides and increase willingness to remain in contact with aversive picture slides.",
+  "The effects of the focused breathing induction were compared with the effects of 15 min recorded inductions of unfocused attention and worrying."
+ ],
+ "methodology": {
+  "studyType": "RCT",
+  "sampleSize": "see paper",
+  "duration": "15 min",
+  "practice": "breath-and-attention meditation",
+  "comparator": "see paper"
+ },
+ "limitations": [
+  "Single-trial result; requires replication, and self-reported outcomes may inflate apparent effects.",
+  "The practice studied (breath-and-attention meditation) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "emotional-wellbeing",
+ "editorialReview": true
+}

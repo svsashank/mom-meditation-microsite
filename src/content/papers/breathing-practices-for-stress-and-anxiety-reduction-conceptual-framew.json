@@ -1,0 +1,48 @@
+{
+ "pmid": "38137060",
+ "doi": "10.3390/brainsci13121612",
+ "title": "Breathing Practices for Stress and Anxiety Reduction: Conceptual Framework of Implementation Guidelines Based on a Systematic Review of the Published Literature",
+ "year": 2023,
+ "journal": "Brain sciences",
+ "authors": [
+  "Bentley TGK",
+  "D'Andrea-Penna G",
+  "Rakic M",
+  "Arce N",
+  "LaFaille M",
+  "Berman R"
+ ],
+ "theme": "Stress & Anxiety",
+ "allThemes": [
+  "Stress & Anxiety"
+ ],
+ "studyType": "Meta-analysis / Systematic review",
+ "claimStrength": "Meta-analytic evidence",
+ "alignment": "yogic/breath-attention (weighted up)",
+ "practiceStudied": "breath-and-attention meditation",
+ "isMoM": "adjacent",
+ "citationCount": 39,
+ "rcr": "9.54",
+ "headline": "Breathing Practices for Stress and Anxiety Reduction: Conceptual Framework of Implementation Guidelines Based ",
+ "summary": "A meta-analysis / systematic review of breath-and-attention meditation examined stress & anxiety. Population, other breath paces, session duration \u22655 min, and group versus individual or at-home practices were not associated with effectiveness. Following this evidence-based framework can help maximize the stress/anxiety reduction benefits of breathing practices.",
+ "keyFindings": [
+  "Components of effective and ineffective interventions were evaluated to develop a conceptual framework of factors associated with stress/anxiety reduction effectiveness.",
+  "Population, other breath paces, session duration \u22655 min, and group versus individual or at-home practices were not associated with effectiveness.",
+  "Following this evidence-based framework can help maximize the stress/anxiety reduction benefits of breathing practices."
+ ],
+ "methodology": {
+  "studyType": "Meta-analysis / Systematic review",
+  "sampleSize": "see paper",
+  "duration": "5 min",
+  "practice": "breath-and-attention meditation",
+  "comparator": "active/other control"
+ },
+ "limitations": [
+  "Pooled estimates combine heterogeneous studies; effect sizes vary by practice, population, and control condition.",
+  "The practice studied (breath-and-attention meditation) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "stress-anxiety",
+ "editorialReview": true
+}

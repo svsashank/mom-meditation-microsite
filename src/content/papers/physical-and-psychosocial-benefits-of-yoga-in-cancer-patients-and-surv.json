@@ -1,0 +1,48 @@
+{
+ "pmid": "23181734",
+ "doi": "10.1186/1471-2407-12-559",
+ "title": "Physical and psychosocial benefits of yoga in cancer patients and survivors, a systematic review and meta-analysis of randomized controlled trials",
+ "year": 2012,
+ "journal": "BMC cancer",
+ "authors": [
+  "Buffart LM",
+  "van Uffelen JG",
+  "Riphagen II",
+  "Brug J",
+  "van Mechelen W",
+  "Brown WJ"
+ ],
+ "theme": "Stress & Anxiety",
+ "allThemes": [
+  "Stress & Anxiety"
+ ],
+ "studyType": "Meta-analysis / Systematic review",
+ "claimStrength": "Meta-analytic evidence",
+ "alignment": "yogic/breath-attention (weighted up)",
+ "practiceStudied": "yoga",
+ "isMoM": "N",
+ "citationCount": 220,
+ "rcr": "8.47",
+ "headline": "Physical and psychosocial benefits of yoga in cancer patients and survivors, a systematic review and meta-anal",
+ "summary": "A meta-analysis / systematic review of yoga examined stress & anxiety. Of the outcomes studied in more than three studies among patients with breast cancer, we found large reductions in distress, anxiety, and depression (d = -0.69 to -0.75), moderate reductions in fatigue (d = -0.51), moderate increases in general quality of life, emotional function and social function (d = 0.33 to 0.49), and a small increase in functional well-being (d = 0.31). Yoga appeared to be a feasible intervention and beneficial effects on several physical and psychosocial symptoms were reported.",
+ "keyFindings": [
+  "This study aimed to systematically review the evidence from randomized controlled trials (RCTs) and to conduct a meta-analysis of the effects of yoga on physical and psychosocial outcomes in cancer patients and survivors.",
+  "Of the outcomes studied in more than three studies among patients with breast cancer, we found large reductions in distress, anxiety, and depression (d = -0.69 to -0.75), moderate reductions in fatigue (d = -0.51), moderate increases in general quality of life, emotional function and social function (d = 0.33 to 0.49), and a small increase in functional well-being (d = 0.31).",
+  "Yoga appeared to be a feasible intervention and beneficial effects on several physical and psychosocial symptoms were reported."
+ ],
+ "methodology": {
+  "studyType": "Meta-analysis / Systematic review",
+  "sampleSize": "13 RCTs",
+  "duration": "see paper",
+  "practice": "yoga",
+  "comparator": "waitlist/usual care"
+ },
+ "limitations": [
+  "Pooled estimates combine heterogeneous studies; effect sizes vary by practice, population, and control condition.",
+  "The practice studied (yoga) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "stress-anxiety",
+ "editorialReview": true
+}

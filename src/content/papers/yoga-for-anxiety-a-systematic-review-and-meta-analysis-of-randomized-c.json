@@ -1,0 +1,50 @@
+{
+ "pmid": "29697885",
+ "doi": "10.1002/da.22762",
+ "title": "Yoga for anxiety: A systematic review and meta-analysis of randomized controlled trials",
+ "year": 2018,
+ "journal": "Depression and anxiety",
+ "authors": [
+  "Cramer H",
+  "Lauche R",
+  "Anheyer D",
+  "Pilkington K",
+  "de Manincor M",
+  "Dobos G"
+ ],
+ "theme": "Clinical Research",
+ "allThemes": [
+  "Clinical Research"
+ ],
+ "studyType": "Meta-analysis / Systematic review",
+ "claimStrength": "Meta-analytic evidence",
+ "alignment": "yogic/breath-attention (weighted up)",
+ "practiceStudied": "yoga",
+ "isMoM": "N",
+ "citationCount": 175,
+ "rcr": "12.1",
+ "headline": "Yoga for anxiety: A systematic review and meta-analysis of randomized controlled trials",
+ "summary": "A meta-analysis / systematic review of yoga examined clinical research. In conclusion, yoga might be an effective and safe intervention for individuals with elevated levels of anxiety. There was inconclusive evidence for effects of yoga in anxiety disorders.",
+ "keyFindings": [
+  "Only three RCTs reported safety-related data but these indicated that yoga was not associated with increased injuries.",
+  "In conclusion, yoga might be an effective and safe intervention for individuals with elevated levels of anxiety.",
+  "There was inconclusive evidence for effects of yoga in anxiety disorders."
+ ],
+ "methodology": {
+  "studyType": "Meta-analysis / Systematic review",
+  "sampleSize": "319 participants",
+  "duration": "see paper",
+  "practice": "yoga",
+  "comparator": "active/other control"
+ },
+ "limitations": [
+  "Risk of bias was assessed using the Cochrane tool.",
+  "Risk of selection bias was unclear for most RCTs.",
+  "Meta-analyses revealed evidence for small short-term effects of yoga on anxiety compared to no treatment (standardized mean difference [SMD] = -0.43; 95% confidence interval [CI] = -0.74, -0.11; P = .008), and large effects compared to active comparators (SMD = -0.86; 95% CI = -1.56, -0.15; P = .02).",
+  "Pooled estimates combine heterogeneous studies; effect sizes vary by practice, population, and control condition."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "clinical-research",
+ "editorialReview": true
+}

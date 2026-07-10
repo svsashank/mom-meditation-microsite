@@ -1,0 +1,48 @@
+{
+ "pmid": "20722471",
+ "doi": "10.1089/acm.2010.0007",
+ "title": "Effects of yoga versus walking on mood, anxiety, and brain GABA levels: a randomized controlled MRS study",
+ "year": 2010,
+ "journal": "Journal of alternative and complementary medicine (New York, N.Y.)",
+ "authors": [
+  "Streeter CC",
+  "Whitfield TH",
+  "Owen L",
+  "Rein T",
+  "Karri SK",
+  "Yakhkind A"
+ ],
+ "theme": "Brain & Mechanisms",
+ "allThemes": [
+  "Brain & Mechanisms"
+ ],
+ "studyType": "RCT",
+ "claimStrength": "Randomized-trial evidence",
+ "alignment": "yogic/breath-attention (weighted up)",
+ "practiceStudied": "yoga",
+ "isMoM": "N",
+ "citationCount": 260,
+ "rcr": "9.65",
+ "headline": "Effects of yoga versus walking on mood, anxiety, and brain GABA levels: a randomized controlled MRS study",
+ "summary": "A randomized controlled trial of yoga examined brain & mechanisms. This is the first study to demonstrate that increased thalamic GABA levels are associated with improved mood and decreased anxiety. It is also the first time that a behavioral intervention (i.e., yoga postures) has been associated with a positive correlation between acute increases in thalamic GABA levels and improvements in mood and anxiety scales.",
+ "keyFindings": [
+  "The 12-week yoga intervention was associated with greater improvements in mood and anxiety than a metabolically matched walking exercise.",
+  "This is the first study to demonstrate that increased thalamic GABA levels are associated with improved mood and decreased anxiety.",
+  "It is also the first time that a behavioral intervention (i.e., yoga postures) has been associated with a positive correlation between acute increases in thalamic GABA levels and improvements in mood and anxiety scales."
+ ],
+ "methodology": {
+  "studyType": "RCT",
+  "sampleSize": "N = 19",
+  "duration": "60 min",
+  "practice": "yoga",
+  "comparator": "see paper"
+ },
+ "limitations": [
+  "Single-trial result; requires replication, and self-reported outcomes may inflate apparent effects.",
+  "The practice studied (yoga) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "brain-mechanisms",
+ "editorialReview": true
+}

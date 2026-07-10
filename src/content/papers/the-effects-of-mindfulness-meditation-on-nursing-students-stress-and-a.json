@@ -1,0 +1,44 @@
+{
+ "pmid": "37404039",
+ "doi": "10.1097/01.NEP.0000000000001159",
+ "title": "The Effects of Mindfulness Meditation on Nursing Students' Stress and Anxiety Levels",
+ "year": 2024,
+ "journal": "Nursing education perspectives",
+ "authors": [
+  "Heinrich DS",
+  "O'Connell KA"
+ ],
+ "theme": "Stress & Anxiety",
+ "allThemes": [
+  "Stress & Anxiety"
+ ],
+ "studyType": "RCT",
+ "claimStrength": "Randomized-trial evidence",
+ "alignment": "general mindfulness/meditation",
+ "practiceStudied": "mindfulness / meditation",
+ "isMoM": "N",
+ "citationCount": 18,
+ "rcr": "8.99",
+ "headline": "The Effects of Mindfulness Meditation on Nursing Students' Stress and Anxiety Levels",
+ "summary": "A randomized controlled trial of mindfulness / meditation examined stress & anxiety. The aim of this study was to evaluate the effects of a virtual mindfulness meditation intervention on stress and anxiety levels of 145 nursing students.",
+ "keyFindings": [
+  "The aim of this study was to evaluate the effects of a virtual mindfulness meditation intervention on stress and anxiety levels of 145 nursing students.",
+  "Because of the twin demands of classroom and clinical workloads, nursing students experience greater amounts of stress and anxiety than the average college student."
+ ],
+ "methodology": {
+  "studyType": "RCT",
+  "sampleSize": "see paper",
+  "duration": "see paper",
+  "practice": "mindfulness / meditation",
+  "comparator": "see paper"
+ },
+ "limitations": [
+  "Participants completed the Perceived Stress Scale and the Generalized Anxiety Disorder-7 Scale.",
+  "Single-trial result; requires replication, and self-reported outcomes may inflate apparent effects.",
+  "The practice studied (mindfulness / meditation) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "stress-anxiety",
+ "editorialReview": true
+}

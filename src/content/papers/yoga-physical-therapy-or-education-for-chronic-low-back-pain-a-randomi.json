@@ -1,0 +1,48 @@
+{
+ "pmid": "28631003",
+ "doi": "10.7326/M16-2579",
+ "title": "Yoga, Physical Therapy, or Education for Chronic Low Back Pain: A Randomized Noninferiority Trial",
+ "year": 2017,
+ "journal": "Annals of internal medicine",
+ "authors": [
+  "Saper RB",
+  "Lemaster C",
+  "Delitto A",
+  "Sherman KJ",
+  "Herman PM",
+  "Sadikova E"
+ ],
+ "theme": "Clinical Research",
+ "allThemes": [
+  "Clinical Research"
+ ],
+ "studyType": "RCT",
+ "claimStrength": "Randomized-trial evidence",
+ "alignment": "yogic/breath-attention (weighted up)",
+ "practiceStudied": "yoga",
+ "isMoM": "N",
+ "citationCount": 138,
+ "rcr": "8.9",
+ "headline": "Yoga, Physical Therapy, or Education for Chronic Low Back Pain: A Randomized Noninferiority Trial",
+ "summary": "A randomized controlled trial of yoga examined clinical research. Yoga is effective for mild to moderate chronic low back pain (cLBP), but its comparative effectiveness with physical therapy (PT) is unknown.",
+ "keyFindings": [
+  "Yoga is effective for mild to moderate chronic low back pain (cLBP), but its comparative effectiveness with physical therapy (PT) is unknown.",
+  "Moreover, little is known about yoga's effectiveness in underserved patients with more severe functional disability and pain."
+ ],
+ "methodology": {
+  "studyType": "RCT",
+  "sampleSize": "see paper",
+  "duration": "12-week",
+  "practice": "yoga",
+  "comparator": "active/other control"
+ },
+ "limitations": [
+  "Participants were not blinded to treatment assignment.",
+  "Single-trial result; requires replication, and self-reported outcomes may inflate apparent effects.",
+  "The practice studied (yoga) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "clinical-research",
+ "editorialReview": true
+}

@@ -1,0 +1,47 @@
+{
+ "pmid": "30345511",
+ "doi": "10.1111/jcpp.12980",
+ "title": "Research Review: The effects of mindfulness-based interventions on cognition and mental health in children and adolescents - a meta-analysis of randomized controlled trials",
+ "year": 2019,
+ "journal": "Journal of child psychology and psychiatry, and allied disciplines",
+ "authors": [
+  "Dunning DL",
+  "Griffiths K",
+  "Kuyken W",
+  "Crane C",
+  "Foulkes L",
+  "Parker J"
+ ],
+ "theme": "Focus & Attention",
+ "allThemes": [
+  "Focus & Attention"
+ ],
+ "studyType": "Meta-analysis / Systematic review",
+ "claimStrength": "Meta-analytic evidence",
+ "alignment": "general mindfulness/meditation",
+ "practiceStudied": "mindfulness / meditation",
+ "isMoM": "N",
+ "citationCount": 235,
+ "rcr": "17.92",
+ "headline": "Research Review: The effects of mindfulness-based interventions on cognition and mental health in children and",
+ "summary": "A meta-analysis / systematic review of mindfulness / meditation examined focus & attention. Mindfulness based interventions (MBIs) are an increasingly popular way of attempting to improve the behavioural, cognitive and mental health outcomes of children and adolescents, though there is a suggestion that enthusiasm has moved ahead of the evidence base. Across all RCTs we found significant positive effects of MBIs, relative to controls, for the outcome categories of Mindfulness, Executive Functioning, Attention, Depression, Anxiety/Stress and Negative Behaviours, with small effect sizes (Cohen's d), ranging from .16 to .30.",
+ "keyFindings": [
+  "Mindfulness based interventions (MBIs) are an increasingly popular way of attempting to improve the behavioural, cognitive and mental health outcomes of children and adolescents, though there is a suggestion that enthusiasm has moved ahead of the evidence base.",
+  "Across all RCTs we found significant positive effects of MBIs, relative to controls, for the outcome categories of Mindfulness, Executive Functioning, Attention, Depression, Anxiety/Stress and Negative Behaviours, with small effect sizes (Cohen's d), ranging from .16 to .30."
+ ],
+ "methodology": {
+  "studyType": "Meta-analysis / Systematic review",
+  "sampleSize": "N = 1,762",
+  "duration": "see paper",
+  "practice": "mindfulness / meditation",
+  "comparator": "active/other control"
+ },
+ "limitations": [
+  "Pooled estimates combine heterogeneous studies; effect sizes vary by practice, population, and control condition.",
+  "The practice studied (mindfulness / meditation) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "focus-attention",
+ "editorialReview": true
+}

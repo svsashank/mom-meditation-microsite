@@ -1,0 +1,46 @@
+{
+ "pmid": "23796855",
+ "doi": "10.1016/j.cpr.2013.05.005",
+ "title": "Mindfulness-based therapy: a comprehensive meta-analysis",
+ "year": 2013,
+ "journal": "Clinical psychology review",
+ "authors": [
+  "Khoury B",
+  "Lecomte T",
+  "Fortin G",
+  "Masse M",
+  "Therien P",
+  "Bouchard V"
+ ],
+ "theme": "Emotional Wellbeing",
+ "allThemes": [
+  "Emotional Wellbeing"
+ ],
+ "studyType": "Meta-analysis / Systematic review",
+ "claimStrength": "Meta-analytic evidence",
+ "alignment": "general mindfulness/meditation",
+ "practiceStudied": "mindfulness / meditation",
+ "isMoM": "N",
+ "citationCount": 886,
+ "rcr": "41.38",
+ "headline": "Mindfulness-based therapy: a comprehensive meta-analysis",
+ "summary": "A meta-analysis / systematic review of mindfulness / meditation examined emotional wellbeing. Effect-size estimates suggested that MBT is moderately effective in pre-post comparisons (n=72; Hedge's g=.55), in comparisons with waitlist controls (n=67; Hedge's g=.53), and when compared with other active treatments (n=68; Hedge's g=.33), including other psychological treatments (n=35; Hedge's g=.22).",
+ "keyFindings": [
+  "Effect-size estimates suggested that MBT is moderately effective in pre-post comparisons (n=72; Hedge's g=.55), in comparisons with waitlist controls (n=67; Hedge's g=.53), and when compared with other active treatments (n=68; Hedge's g=.33), including other psychological treatments (n=35; Hedge's g=.22)."
+ ],
+ "methodology": {
+  "studyType": "Meta-analysis / Systematic review",
+  "sampleSize": "N = 12,145",
+  "duration": "see paper",
+  "practice": "mindfulness / meditation",
+  "comparator": "waitlist/usual care"
+ },
+ "limitations": [
+  "Pooled estimates combine heterogeneous studies; effect sizes vary by practice, population, and control condition.",
+  "The practice studied (mindfulness / meditation) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "emotional-wellbeing",
+ "editorialReview": true
+}

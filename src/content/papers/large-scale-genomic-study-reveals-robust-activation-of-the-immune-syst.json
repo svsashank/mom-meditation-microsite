@@ -1,0 +1,48 @@
+{
+ "pmid": "34907015",
+ "doi": "10.1073/pnas.2110455118",
+ "title": "Large-scale genomic study reveals robust activation of the immune system following advanced Inner Engineering meditation retreat",
+ "year": 2021,
+ "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+ "authors": [
+  "Chandran V",
+  "Berm\u00fadez ML",
+  "Koka M",
+  "Chandran B",
+  "Pawale D",
+  "Vishnubhotla R"
+ ],
+ "theme": "Stress & Anxiety",
+ "allThemes": [
+  "Stress & Anxiety"
+ ],
+ "studyType": "Cross-sectional / Mechanistic",
+ "claimStrength": "Mechanistic / observational evidence",
+ "alignment": "yogic/breath-attention (weighted up)",
+ "practiceStudied": "Isha Inner Engineering",
+ "isMoM": "adjacent",
+ "citationCount": 32,
+ "rcr": "2.25",
+ "headline": "Large-scale genomic study reveals robust activation of the immune system following advanced Inner Engineering ",
+ "summary": "A mechanistic/observational study of Isha Inner Engineering examined stress & anxiety. Strikingly, 220 genes directly associated with immune response, including 68 genes related to interferon signaling, were up-regulated, with no significant expression changes in the inflammatory genes. The work provides a foundation for understanding the effect of meditation and suggests that meditation as a behavioral intervention can voluntarily and nonpharmacologically improve the immune response for treating various conditions associated with excessive or persistent inflammation with a dampened immune system profile.",
+ "keyFindings": [
+  "We found the response to oxidative stress, detoxification, and cell cycle regulation pathways were down-regulated after meditation.",
+  "Strikingly, 220 genes directly associated with immune response, including 68 genes related to interferon signaling, were up-regulated, with no significant expression changes in the inflammatory genes.",
+  "The work provides a foundation for understanding the effect of meditation and suggests that meditation as a behavioral intervention can voluntarily and nonpharmacologically improve the immune response for treating various conditions associated with excessive or persistent inflammation with a dampened immune system profile."
+ ],
+ "methodology": {
+  "studyType": "Cross-sectional / Mechanistic",
+  "sampleSize": "19 patients",
+  "duration": "see paper",
+  "practice": "Isha Inner Engineering",
+  "comparator": "see paper"
+ },
+ "limitations": [
+  "Observational/mechanistic design cannot establish that the practice caused the observed differences.",
+  "The practice studied (Isha Inner Engineering) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": true,
+ "quoteKey": "stress-anxiety",
+ "editorialReview": true
+}

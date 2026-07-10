@@ -1,0 +1,44 @@
+{
+ "pmid": "38463652",
+ "doi": "10.4103/ijoy.ijoy_218_23",
+ "title": "Reducing Stress with Yoga: A Systematic Review Based on Multimodal Biosignals",
+ "year": 2023,
+ "journal": "International journal of yoga",
+ "authors": [
+  "Khajuria A",
+  "Kumar A",
+  "Joshi D",
+  "Kumaran SS"
+ ],
+ "theme": "Focus & Attention",
+ "allThemes": [
+  "Focus & Attention"
+ ],
+ "studyType": "Meta-analysis / Systematic review",
+ "claimStrength": "Meta-analytic evidence",
+ "alignment": "yogic/breath-attention (weighted up)",
+ "practiceStudied": "yoga",
+ "isMoM": "N",
+ "citationCount": 20,
+ "rcr": "4.64",
+ "headline": "Reducing Stress with Yoga: A Systematic Review Based on Multimodal Biosignals",
+ "summary": "A meta-analysis / systematic review of yoga examined focus & attention. The multifaceted character of stress and the extensive research undertaken in this field indicate that the proposed approach would rely on multiple modalities.",
+ "keyFindings": [
+  "The multifaceted character of stress and the extensive research undertaken in this field indicate that the proposed approach would rely on multiple modalities."
+ ],
+ "methodology": {
+  "studyType": "Meta-analysis / Systematic review",
+  "sampleSize": "see paper",
+  "duration": "see paper",
+  "practice": "yoga",
+  "comparator": "see paper"
+ },
+ "limitations": [
+  "Pooled estimates combine heterogeneous studies; effect sizes vary by practice, population, and control condition.",
+  "The practice studied (yoga) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "focus-attention",
+ "editorialReview": true
+}

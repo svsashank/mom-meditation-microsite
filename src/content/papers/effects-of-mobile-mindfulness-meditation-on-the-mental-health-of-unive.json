@@ -1,0 +1,47 @@
+{
+ "pmid": "36596239",
+ "doi": "10.2196/39128",
+ "title": "Effects of Mobile Mindfulness Meditation on the Mental Health of University Students: Systematic Review and Meta-analysis",
+ "year": 2023,
+ "journal": "Journal of medical Internet research",
+ "authors": [
+  "Chen B",
+  "Yang T",
+  "Xiao L",
+  "Xu C",
+  "Zhu C"
+ ],
+ "theme": "Brief & App-Based Practice",
+ "allThemes": [
+  "Brief & App-Based Practice"
+ ],
+ "studyType": "Meta-analysis / Systematic review",
+ "claimStrength": "Meta-analytic evidence",
+ "alignment": "general mindfulness/meditation",
+ "practiceStudied": "mindfulness / meditation",
+ "isMoM": "N",
+ "citationCount": 32,
+ "rcr": "7.3",
+ "headline": "Effects of Mobile Mindfulness Meditation on the Mental Health of University Students: Systematic Review and Me",
+ "summary": "A meta-analysis / systematic review of mindfulness / meditation examined brief & app-based practice. The evidence level of the results from the 10 studies was determined to be moderate to low.",
+ "keyFindings": [
+  "The evidence level of the results from the 10 studies was determined to be moderate to low."
+ ],
+ "methodology": {
+  "studyType": "Meta-analysis / Systematic review",
+  "sampleSize": "10 studies",
+  "duration": "see paper",
+  "practice": "mindfulness / meditation",
+  "comparator": "waitlist/usual care"
+ },
+ "limitations": [
+  "The methodological quality of the selected studies was determined using the Cochrane criteria for risk-of-bias assessment.",
+  "Sensitivity analyses and subgroup analyses were performed for results with high heterogeneity.",
+  "The use of either waitlist control or traditional face-to-face intervention in the control group was identified as the source of heterogeneity.",
+  "Pooled estimates combine heterogeneous studies; effect sizes vary by practice, population, and control condition."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "brief-app-based-practice",
+ "editorialReview": true
+}

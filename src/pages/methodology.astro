@@ -1,0 +1,33 @@
+---
+import Base from '../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+const papers=await getCollection('papers');
+const b = import.meta.env.BASE_URL.replace(/\/$/, '');
+const n=papers.length;
+const bidmc=papers.filter(p=>p.data.bidmc).length;
+const yogic=papers.filter(p=>p.data.alignment.startsWith('yogic')).length;
+---
+<Base title="Methodology" description="How the studies on this site were selected — full transparency.">
+  <section>
+    <p class="eyebrow">Full transparency</p>
+    <h1>How these studies were chosen</h1>
+    <p class="lede">This site summarizes {n} peer-reviewed studies selected from a larger, scored candidate pool. Selection favours evidence quality, real-world impact, and relevance to brief, breath-and-attention practice.</p>
+
+    <h3>Sources</h3>
+    <p>Candidates were drawn from PubMed and Semantic Scholar, with a prioritized search of publications from the Sadhguru Center for a Conscious Planet at Beth Israel Deaconess Medical Center ({bidmc} of the studies here). Citation impact and field-normalization use the NIH iCite Relative Citation Ratio.</p>
+
+    <h3>How papers were ranked</h3>
+    <p>We used the standard evidence hierarchy — meta-analyses and systematic reviews above randomized trials, above cohort studies, above cross-sectional and mechanistic work (the latter read separately for the Brain &amp; Mechanisms theme). Impact was measured by citations normalized for a paper's age, so landmark older work is not penalized. Research on yogic and breath-attention practices is deliberately weighted up, reflecting this site's focus.</p>
+
+    <h3>Balance</h3>
+    <p>The set deliberately includes studies reporting null or mixed results, and major critical evaluations of meditation-research quality — because an honest reference cannot show only the positive findings. {yogic} of the studies concern yogic or breath-attention practices; the remainder concern general mindfulness or meditation.</p>
+
+    <h3>How we write about findings</h3>
+    <p>Every health-related statement is tied to a specific study and phrased to match the strength of its design — "a meta-analysis found," "an RCT found," "preliminary evidence indicates." We never say meditation cures, treats, or heals a condition, and we never present it as a substitute for medical care. Where a study examined a practice other than Miracle of Mind, we say so plainly. Sadhguru's words appear as perspective, kept visually and editorially separate from the science.</p>
+
+    <h3>Independence note on Sadhguru Center research</h3>
+    <p>The Sadhguru Center for a Conscious Planet discloses that Sadhguru and Isha Foundation play no role in its funding. Pages citing its work state this and imply no institutional endorsement beyond what is factual.</p>
+
+    <p class="disclaimer">This is a staging build. Study summaries are drafted from abstracts and are pending editorial and medical/scientific review before any production launch.</p>
+  </section>
+</Base>

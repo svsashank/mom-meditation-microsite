@@ -1,0 +1,46 @@
+{
+ "pmid": "25818837",
+ "doi": "10.1016/j.jpsychores.2015.03.009",
+ "title": "Mindfulness-based stress reduction for healthy individuals: A meta-analysis",
+ "year": 2015,
+ "journal": "Journal of psychosomatic research",
+ "authors": [
+  "Khoury B",
+  "Sharma M",
+  "Rush SE",
+  "Fournier C"
+ ],
+ "theme": "Emotional Wellbeing",
+ "allThemes": [
+  "Emotional Wellbeing"
+ ],
+ "studyType": "Meta-analysis / Systematic review",
+ "claimStrength": "Meta-analytic evidence",
+ "alignment": "general mindfulness/meditation",
+ "practiceStudied": "Mindfulness-Based Stress Reduction (MBSR)",
+ "isMoM": "N",
+ "citationCount": 745,
+ "rcr": "39.63",
+ "headline": "Mindfulness-based stress reduction for healthy individuals: A meta-analysis",
+ "summary": "A meta-analysis / systematic review of Mindfulness-Based Stress Reduction (MBSR) examined emotional wellbeing. Effect-size estimates suggested that MBSR is moderately effective in pre-post analyses (n=26; Hedge's g=.55; 95% CI [.44, .66], p<.00001) and in between group analyses (n=18; Hedge's g=.53; 95% CI [.41, .64], p<.00001). Results suggested large effects on stress, moderate effects on anxiety, depression, distress, and quality of life, and small effects on burnout.",
+ "keyFindings": [
+  "Effect-size estimates suggested that MBSR is moderately effective in pre-post analyses (n=26; Hedge's g=.55; 95% CI [.44, .66], p<.00001) and in between group analyses (n=18; Hedge's g=.53; 95% CI [.41, .64], p<.00001).",
+  "Results suggested large effects on stress, moderate effects on anxiety, depression, distress, and quality of life, and small effects on burnout."
+ ],
+ "methodology": {
+  "studyType": "Meta-analysis / Systematic review",
+  "sampleSize": "N = 2668",
+  "duration": "19 weeks",
+  "practice": "Mindfulness-Based Stress Reduction (MBSR)",
+  "comparator": "see paper"
+ },
+ "limitations": [
+  "However, heterogeneity was high, probably due to differences in the study design, the implemented protocol, and the assessed outcomes.",
+  "Pooled estimates combine heterogeneous studies; effect sizes vary by practice, population, and control condition.",
+  "The practice studied (Mindfulness-Based Stress Reduction (MBSR)) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "emotional-wellbeing",
+ "editorialReview": true
+}

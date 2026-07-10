@@ -1,0 +1,48 @@
+{
+ "pmid": "36213913",
+ "doi": "10.3389/fpsyt.2022.944973",
+ "title": "Online guided meditation training (Isha Kriya) improves self-reported symptoms of anxiety and depression within 2 weeks of practice-An observational study",
+ "year": 2022,
+ "journal": "Frontiers in psychiatry",
+ "authors": [
+  "Hariri S",
+  "Vishnubhotla RV",
+  "Reed PU",
+  "Rayapuraju A",
+  "Orui H",
+  "Balachundhar P"
+ ],
+ "theme": "Stress & Anxiety",
+ "allThemes": [
+  "Stress & Anxiety"
+ ],
+ "studyType": "RCT",
+ "claimStrength": "Randomized-trial evidence",
+ "alignment": "yogic/breath-attention (weighted up)",
+ "practiceStudied": "Isha Kriya",
+ "isMoM": "adjacent",
+ "citationCount": 1,
+ "rcr": "0.1",
+ "headline": "Online guided meditation training (Isha Kriya) improves self-reported symptoms of anxiety and depression withi",
+ "summary": "A randomized controlled trial of Isha Kriya examined stress & anxiety. These findings suggest that daily Isha Kriya practice could alleviate symptoms of these conditions.",
+ "keyFindings": [
+  "These findings suggest that daily Isha Kriya practice could alleviate symptoms of these conditions."
+ ],
+ "methodology": {
+  "studyType": "RCT",
+  "sampleSize": "see paper",
+  "duration": "6 weeks",
+  "practice": "Isha Kriya",
+  "comparator": "see paper"
+ },
+ "limitations": [
+  "The changes in the self-reported anxiety and depression scores were examined by the linear mixed effect models.",
+  "Participants completed survey responses for the following time points: baseline ( This preliminary study assesses the effectiveness of online meditation training on self-reported symptoms of anxiety and depression.",
+  "Single-trial result; requires replication, and self-reported outcomes may inflate apparent effects.",
+  "The practice studied (Isha Kriya) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": true,
+ "quoteKey": "stress-anxiety",
+ "editorialReview": true
+}

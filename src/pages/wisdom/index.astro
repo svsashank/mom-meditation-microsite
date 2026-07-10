@@ -1,0 +1,26 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+const b = import.meta.env.BASE_URL.replace(/\/$/, '');
+const slug=(t)=>t.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
+const THEMES=['Stress & Anxiety','Sleep','Focus & Attention','Emotional Wellbeing','Brain & Mechanisms','Clinical Research','Brief & App-Based Practice'];
+const quotes=await getCollection('quotes');
+---
+<Base title="Sadhguru on Meditation" description="Sadhguru's perspective on the nature of mind and meditation, organized by theme.">
+  <section>
+    <p class="eyebrow">The depth layer</p>
+    <h1>Sadhguru on Meditation</h1>
+    <p class="lede">Sadhguru's words are presented as perspective on the nature of mind — not as scientific claims. Every quote is verbatim and individually sourced. This layer is kept editorially distinct from the research.</p>
+    {THEMES.map(t=>{
+      const q=quotes.find(x=>x.id===slug(t));
+      return (
+        <div>
+          <h3><a href={b + '/themes/' + slug(t) + '/'} style="text-decoration:none">{t}</a></h3>
+          {q && q.data.verified
+            ? (<div class="wisdom"><p class="q">“{q.data.quoteText}”</p><p class="src">— Sadhguru{q.data.origin ? ', ' + q.data.origin : ' (Isha)'}</p></div>)
+            : (<div class="wisdom"><p class="pending">Verified verbatim quote pending — to be sourced from <a href="https://isha.sadhguru.org/en/wisdom/type/quotes">isha.sadhguru.org</a> per the wisdom-pairing rules.</p></div>)}
+        </div>
+      );
+    })}
+  </section>
+</Base>

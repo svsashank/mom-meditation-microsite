@@ -1,0 +1,43 @@
+{
+ "pmid": "27502816",
+ "doi": "10.1016/j.ctcp.2016.06.005",
+ "title": "Yoga research review",
+ "year": 2016,
+ "journal": "Complementary therapies in clinical practice",
+ "authors": [
+  "Field T"
+ ],
+ "theme": "Clinical Research",
+ "allThemes": [
+  "Clinical Research"
+ ],
+ "studyType": "Meta-analysis / Systematic review",
+ "claimStrength": "Meta-analytic evidence",
+ "alignment": "yogic/breath-attention (weighted up)",
+ "practiceStudied": "yoga",
+ "isMoM": "N",
+ "citationCount": 105,
+ "rcr": "6.48",
+ "headline": "Yoga research review",
+ "summary": "A meta-analysis / systematic review of yoga examined clinical research. The methods and results of those studies are briefly summarized along with their limitations and suggestions for future research.",
+ "keyFindings": [
+  "The methods and results of those studies are briefly summarized along with their limitations and suggestions for future research."
+ ],
+ "methodology": {
+  "studyType": "Meta-analysis / Systematic review",
+  "sampleSize": "see paper",
+  "duration": "see paper",
+  "practice": "yoga",
+  "comparator": "active/other control"
+ },
+ "limitations": [
+  "The methods and results of those studies are briefly summarized along with their limitations and suggestions for future research.",
+  "Shorter sessions should be investigated for cost-effectiveness and for daily practice.",
+  "Multiple physical and physiological measures need to be added to the self-report research protocols and potential underlying mechanisms need to be further explored.",
+  "Pooled estimates combine heterogeneous studies; effect sizes vary by practice, population, and control condition."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "clinical-research",
+ "editorialReview": true
+}

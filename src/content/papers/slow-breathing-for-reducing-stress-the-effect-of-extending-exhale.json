@@ -1,0 +1,47 @@
+{
+ "pmid": "36871835",
+ "doi": "10.1016/j.ctim.2023.102937",
+ "title": "Slow breathing for reducing stress: The effect of extending exhale",
+ "year": 2023,
+ "journal": "Complementary therapies in medicine",
+ "authors": [
+  "Birdee G",
+  "Nelson K",
+  "Wallston K",
+  "Nian H",
+  "Diedrich A",
+  "Paranjape S"
+ ],
+ "theme": "Stress & Anxiety",
+ "allThemes": [
+  "Stress & Anxiety"
+ ],
+ "studyType": "RCT",
+ "claimStrength": "Randomized-trial evidence",
+ "alignment": "yogic/breath-attention (weighted up)",
+ "practiceStudied": "yoga",
+ "isMoM": "adjacent",
+ "citationCount": 17,
+ "rcr": "3.8",
+ "headline": "Slow breathing for reducing stress: The effect of extending exhale",
+ "summary": "A randomized controlled trial of yoga examined stress & anxiety. Slow breathing techniques are commonly used to reduce stress.",
+ "keyFindings": [
+  "Slow breathing techniques are commonly used to reduce stress.",
+  "While it is believed by mind-body practitioners that extending the exhale time relative to inhale increases relaxation, this has not been demonstrated."
+ ],
+ "methodology": {
+  "studyType": "RCT",
+  "sampleSize": "100 participants",
+  "duration": "12-week",
+  "practice": "yoga",
+  "comparator": "active/other control"
+ },
+ "limitations": [
+  "Single-trial result; requires replication, and self-reported outcomes may inflate apparent effects.",
+  "The practice studied (yoga) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "stress-anxiety",
+ "editorialReview": true
+}

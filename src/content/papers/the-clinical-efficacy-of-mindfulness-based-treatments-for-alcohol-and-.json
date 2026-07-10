@@ -1,0 +1,44 @@
+{
+ "pmid": "30016796",
+ "doi": "10.1159/000490762",
+ "title": "The Clinical Efficacy of Mindfulness-Based Treatments for Alcohol and Drugs Use Disorders: A Meta-Analytic Review of Randomized and Nonrandomized Controlled Trials",
+ "year": 2018,
+ "journal": "European addiction research",
+ "authors": [
+  "Cavicchioli M",
+  "Movalli M",
+  "Maffei C"
+ ],
+ "theme": "Stress & Anxiety",
+ "allThemes": [
+  "Stress & Anxiety"
+ ],
+ "studyType": "Meta-analysis / Systematic review",
+ "claimStrength": "Meta-analytic evidence",
+ "alignment": "general mindfulness/meditation",
+ "practiceStudied": "mindfulness / meditation",
+ "isMoM": "N",
+ "citationCount": 62,
+ "rcr": "4.08",
+ "headline": "The Clinical Efficacy of Mindfulness-Based Treatments for Alcohol and Drugs Use Disorders: A Meta-Analytic Rev",
+ "summary": "A meta-analysis / systematic review of mindfulness / meditation examined stress & anxiety. Large effect sizes were associated to levels of perceived craving, negative affectivity, and post-traumatic symptoms.",
+ "keyFindings": [
+  "Large effect sizes were associated to levels of perceived craving, negative affectivity, and post-traumatic symptoms."
+ ],
+ "methodology": {
+  "studyType": "Meta-analysis / Systematic review",
+  "sampleSize": "N = 3,531",
+  "duration": "see paper",
+  "practice": "mindfulness / meditation",
+  "comparator": "active/other control"
+ },
+ "limitations": [
+  "Heterogeneity indexes, moderators, bias of publication, and Orwin's fail-safe number were also estimated.",
+  "Pooled estimates combine heterogeneous studies; effect sizes vary by practice, population, and control condition.",
+  "The practice studied (mindfulness / meditation) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "stress-anxiety",
+ "editorialReview": true
+}

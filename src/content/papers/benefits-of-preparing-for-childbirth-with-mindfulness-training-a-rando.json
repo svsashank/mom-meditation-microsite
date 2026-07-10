@@ -1,0 +1,50 @@
+{
+ "pmid": "28499376",
+ "doi": "10.1186/s12884-017-1319-3",
+ "title": "Benefits of preparing for childbirth with mindfulness training: a randomized controlled trial with active comparison",
+ "year": 2017,
+ "journal": "BMC pregnancy and childbirth",
+ "authors": [
+  "Duncan LG",
+  "Cohn MA",
+  "Chao MT",
+  "Cook JG",
+  "Riccobono J",
+  "Bardacke N"
+ ],
+ "theme": "Stress & Anxiety",
+ "allThemes": [
+  "Stress & Anxiety"
+ ],
+ "studyType": "RCT",
+ "claimStrength": "Randomized-trial evidence",
+ "alignment": "general mindfulness/meditation",
+ "practiceStudied": "mindfulness / meditation",
+ "isMoM": "N",
+ "citationCount": 122,
+ "rcr": "8.89",
+ "headline": "Benefits of preparing for childbirth with mindfulness training: a randomized controlled trial with active comp",
+ "summary": "A randomized controlled trial of mindfulness / meditation examined stress & anxiety. This study suggests mindfulness training carefully tailored to address fear and pain of childbirth may lead to important maternal mental health benefits, including improvements in childbirth-related appraisals \ufeffand\ufeff the prevention of postpartum depression symptoms. There is also some indication that MIL participants may use mindfulness coping in lieu of systemic opioid pain medication.",
+ "keyFindings": [
+  "Mindfulness approaches, now widely disseminated, can alleviate symptoms of both chronic and acute pain and improve psychological adjustment, suggesting potential benefit when applied to childbirth education.",
+  "This study suggests mindfulness training carefully tailored to address fear and pain of childbirth may lead to important maternal mental health benefits, including improvements in childbirth-related appraisals \ufeffand\ufeff the prevention of postpartum depression symptoms.",
+  "There is also some indication that MIL participants may use mindfulness coping in lieu of systemic opioid pain medication."
+ ],
+ "methodology": {
+  "studyType": "RCT",
+  "sampleSize": "N = 30",
+  "duration": "5-day",
+  "practice": "mindfulness / meditation",
+  "comparator": "see paper"
+ },
+ "limitations": [
+  "This study\ufeff, the Prenatal Education About Reducing Labor Stress (PEARLS) study, is a randomized controlled trial (RCT; n = 30) of a short, time-intensive, 2.5-day mindfulness-based childbirth preparation course offered as a weekend workshop\ufeff, the Mind in Labor (MIL): Working with Pain in Childbirth, based on Mindfulness-Based Childbirth and Parenting (MBCP) education.\ufeff First-time mothers in the late 3rd trimester of pregnancy were randomized to attend either the MIL course or a standard childbirth preparation course with no mind-body focus.",
+  "Participants completed self-report assessments pre-intervention, post-intervention, and post-birth, and medical record data were collected.",
+  "Single-trial result; requires replication, and self-reported outcomes may inflate apparent effects.",
+  "The practice studied (mindfulness / meditation) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "stress-anxiety",
+ "editorialReview": true
+}

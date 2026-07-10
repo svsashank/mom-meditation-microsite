@@ -1,0 +1,50 @@
+{
+ "pmid": "36398843",
+ "doi": "10.1002/14651858.CD010671.pub3",
+ "title": "Yoga for chronic non-specific low back pain",
+ "year": 2022,
+ "journal": "The Cochrane database of systematic reviews",
+ "authors": [
+  "Wieland LS",
+  "Skoetz N",
+  "Pilkington K",
+  "Harbin S",
+  "Vempati R",
+  "Berman BM"
+ ],
+ "theme": "Emotional Wellbeing",
+ "allThemes": [
+  "Emotional Wellbeing"
+ ],
+ "studyType": "Meta-analysis / Systematic review",
+ "claimStrength": "Meta-analytic evidence",
+ "alignment": "yogic/breath-attention (weighted up)",
+ "practiceStudied": "Qigong",
+ "isMoM": "N",
+ "citationCount": 44,
+ "rcr": "6.21",
+ "headline": "Yoga for chronic non-specific low back pain",
+ "summary": "A meta-analysis / systematic review of Qigong examined emotional wellbeing. There is low- to moderate-certainty evidence that yoga compared to no exercise results in small and clinically unimportant improvements in back-related function and pain. Yoga is associated with more adverse events than no exercise, but may have the same risk of adverse events as other exercise.",
+ "keyFindings": [
+  "Low-certainty evidence from five trials showed that there was little or no difference between yoga and exercise in the risk of adverse events at six to 12 months (RR 0.93, 95% CI 0.56 to 1.53; 84/1000 with yoga and 91/1000 with non-yoga exercise; 640 participants).",
+  "There is low- to moderate-certainty evidence that yoga compared to no exercise results in small and clinically unimportant improvements in back-related function and pain.",
+  "Yoga is associated with more adverse events than no exercise, but may have the same risk of adverse events as other exercise."
+ ],
+ "methodology": {
+  "studyType": "Meta-analysis / Systematic review",
+  "sampleSize": "21 trials",
+  "duration": "12 months",
+  "practice": "Qigong",
+  "comparator": "active/other control"
+ },
+ "limitations": [
+  "All trials were at high risk of performance and detection bias because participants and providers were not blinded to treatment, and outcomes were self-assessed.",
+  "Moderate-certainty evidence from six trials showed that there is probably a small improvement in physical and mental quality of life (physical: MD 1.80, 95% CI 0.27 to 3.33 on the 36-item Short Form [SF-36] physical health scale, higher = better; mental: MD 2.38, 95% CI 0.60 to 4.17 on the SF-36 mental health scale, higher = better; both 686 participants).",
+  "Since all studies were unblinded and at high risk of performance and detection bias, it is unlikely that blinded comparisons would find a clinically important benefit.",
+  "Pooled estimates combine heterogeneous studies; effect sizes vary by practice, population, and control condition."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "emotional-wellbeing",
+ "editorialReview": true
+}

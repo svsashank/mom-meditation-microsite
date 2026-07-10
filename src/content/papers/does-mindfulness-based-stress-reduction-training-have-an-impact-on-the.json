@@ -1,0 +1,48 @@
+{
+ "pmid": "39601884",
+ "doi": "10.1007/s00420-024-02078-8",
+ "title": "Does mindfulness-based stress reduction training have an impact on the occupational burnout and stress experienced by nurses? A randomized controlled trial",
+ "year": 2025,
+ "journal": "International archives of occupational and environmental health",
+ "authors": [
+  "Talebiazar N",
+  "Anzali BC",
+  "Abbasi M",
+  "Azizi N",
+  "Goli R",
+  "Faraji N"
+ ],
+ "theme": "Emotional Wellbeing",
+ "allThemes": [
+  "Emotional Wellbeing"
+ ],
+ "studyType": "RCT",
+ "claimStrength": "Randomized-trial evidence",
+ "alignment": "yogic/breath-attention (weighted up)",
+ "practiceStudied": "Mindfulness-Based Stress Reduction (MBSR)",
+ "isMoM": "N",
+ "citationCount": 22,
+ "rcr": "11.17",
+ "headline": "Does mindfulness-based stress reduction training have an impact on the occupational burnout and stress experie",
+ "summary": "A randomized controlled trial of Mindfulness-Based Stress Reduction (MBSR) examined emotional wellbeing. In an effort to combat burnout, a study investigates Mindfulness-Based Stress Reduction (MBSR) training for nurses.",
+ "keyFindings": [
+  "In an effort to combat burnout, a study investigates Mindfulness-Based Stress Reduction (MBSR) training for nurses.",
+  "The goal is to reduce stress and improve job satisfaction, ultimately enhancing patient care."
+ ],
+ "methodology": {
+  "studyType": "RCT",
+  "sampleSize": "see paper",
+  "duration": "see paper",
+  "practice": "Mindfulness-Based Stress Reduction (MBSR)",
+  "comparator": "active/other control"
+ },
+ "limitations": [
+  "The randomization process, utilizing sealed envelopes, ensured unbiased allocation to intervention or control groups.",
+  "Single-trial result; requires replication, and self-reported outcomes may inflate apparent effects.",
+  "The practice studied (Mindfulness-Based Stress Reduction (MBSR)) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "emotional-wellbeing",
+ "editorialReview": true
+}

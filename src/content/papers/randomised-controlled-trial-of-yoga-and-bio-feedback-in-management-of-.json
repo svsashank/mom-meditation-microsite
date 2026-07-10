@@ -1,0 +1,43 @@
+{
+ "pmid": "49737",
+ "doi": "10.1016/s0140-6736(75)90002-1",
+ "title": "Randomised controlled trial of yoga and bio-feedback in management of hypertension",
+ "year": 1975,
+ "journal": "Lancet (London, England)",
+ "authors": [
+  "Patel C",
+  "North WR"
+ ],
+ "theme": "Clinical Research",
+ "allThemes": [
+  "Clinical Research"
+ ],
+ "studyType": "RCT",
+ "claimStrength": "Randomized-trial evidence",
+ "alignment": "yogic/breath-attention (weighted up)",
+ "practiceStudied": "yoga",
+ "isMoM": "N",
+ "citationCount": 211,
+ "rcr": "9.41",
+ "headline": "Randomised controlled trial of yoga and bio-feedback in management of hypertension",
+ "summary": "A randomized controlled trial of yoga examined clinical research. 34 hypertensive patients were assigned at random either to six weeks' treatment by yoga relaxation methods with bio-feedback or to placebo therapy (general relaxation).",
+ "keyFindings": [
+  "34 hypertensive patients were assigned at random either to six weeks' treatment by yoga relaxation methods with bio-feedback or to placebo therapy (general relaxation).",
+  "Both groups showed a reduction in blood-pressure (from 168/100 to 141/84 mm."
+ ],
+ "methodology": {
+  "studyType": "RCT",
+  "sampleSize": "see paper",
+  "duration": "see paper",
+  "practice": "yoga",
+  "comparator": "see paper"
+ },
+ "limitations": [
+  "Single-trial result; requires replication, and self-reported outcomes may inflate apparent effects.",
+  "The practice studied (yoga) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "clinical-research",
+ "editorialReview": true
+}

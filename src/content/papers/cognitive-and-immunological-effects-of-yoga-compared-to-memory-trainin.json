@@ -1,0 +1,47 @@
+{
+ "pmid": "38355715",
+ "doi": "10.1038/s41398-024-02807-0",
+ "title": "Cognitive and immunological effects of yoga compared to memory training in older women at risk for alzheimer's disease",
+ "year": 2024,
+ "journal": "Translational psychiatry",
+ "authors": [
+  "Grzenda A",
+  "Siddarth P",
+  "Milillo MM",
+  "Aguilar-Faustino Y",
+  "Khalsa DS",
+  "Lavretsky H"
+ ],
+ "theme": "Focus & Attention",
+ "allThemes": [
+  "Focus & Attention"
+ ],
+ "studyType": "RCT",
+ "claimStrength": "Randomized-trial evidence",
+ "alignment": "yogic/breath-attention (weighted up)",
+ "practiceStudied": "yoga",
+ "isMoM": "N",
+ "citationCount": 26,
+ "rcr": "6.57",
+ "headline": "Cognitive and immunological effects of yoga compared to memory training in older women at risk for alzheimer's",
+ "summary": "A randomized controlled trial of yoga examined focus & attention. KYOn a transcriptional level, at 12- and 24-week follow-up, KY uniquely altered aging-associated signatures, including interferon gamma and other psycho-neuro-immune pathways. These results suggest clinical and biological benefits to KY for SCD, linking changes in cognition to the anti-inflammatory effects of yoga.",
+ "keyFindings": [
+  "KYOn a transcriptional level, at 12- and 24-week follow-up, KY uniquely altered aging-associated signatures, including interferon gamma and other psycho-neuro-immune pathways.",
+  "These results suggest clinical and biological benefits to KY for SCD, linking changes in cognition to the anti-inflammatory effects of yoga."
+ ],
+ "methodology": {
+  "studyType": "RCT",
+  "sampleSize": "79 patients",
+  "duration": "60-min",
+  "practice": "yoga",
+  "comparator": "active/other control"
+ },
+ "limitations": [
+  "Single-trial result; requires replication, and self-reported outcomes may inflate apparent effects.",
+  "The practice studied (yoga) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "focus-attention",
+ "editorialReview": true
+}

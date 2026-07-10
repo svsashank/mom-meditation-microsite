@@ -1,0 +1,49 @@
+{
+ "pmid": "27033686",
+ "doi": "10.1016/j.neuroimage.2016.03.041",
+ "title": "Mindful attention to breath regulates emotions via increased amygdala-prefrontal cortex connectivity",
+ "year": 2016,
+ "journal": "NeuroImage",
+ "authors": [
+  "Doll A",
+  "H\u00f6lzel BK",
+  "Mulej Bratec S",
+  "Boucard CC",
+  "Xie X",
+  "Wohlschl\u00e4ger AM"
+ ],
+ "theme": "Brain & Mechanisms",
+ "allThemes": [
+  "Brain & Mechanisms"
+ ],
+ "studyType": "RCT",
+ "claimStrength": "Randomized-trial evidence",
+ "alignment": "yogic/breath-attention (weighted up)",
+ "practiceStudied": "breath-and-attention meditation",
+ "isMoM": "adjacent",
+ "citationCount": 115,
+ "rcr": "5.8",
+ "headline": "Mindful attention to breath regulates emotions via increased amygdala-prefrontal cortex connectivity",
+ "summary": "A randomized controlled trial of breath-and-attention meditation examined brain & mechanisms. (4) ATB down regulated amygdala activation and increased amygdala-prefrontal integration, with such increased integration being associated with mindfulness ability. Results suggest amygdala-dorsal prefrontal cortex integration as a potential neural pathway of emotion regulation by mindfulness practice.",
+ "keyFindings": [
+  "(2) Left dorso-medial prefrontal cortex was associated with ATB in general.",
+  "(4) ATB down regulated amygdala activation and increased amygdala-prefrontal integration, with such increased integration being associated with mindfulness ability.",
+  "Results suggest amygdala-dorsal prefrontal cortex integration as a potential neural pathway of emotion regulation by mindfulness practice."
+ ],
+ "methodology": {
+  "studyType": "RCT",
+  "sampleSize": "see paper",
+  "duration": "see paper",
+  "practice": "breath-and-attention meditation",
+  "comparator": "see paper"
+ },
+ "limitations": [
+  "It is unclear how ATB relevant brain areas in the prefrontal cortex integrate with amygdala activation during emotional stimulation.",
+  "Single-trial result; requires replication, and self-reported outcomes may inflate apparent effects.",
+  "The practice studied (breath-and-attention meditation) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "brain-mechanisms",
+ "editorialReview": true
+}

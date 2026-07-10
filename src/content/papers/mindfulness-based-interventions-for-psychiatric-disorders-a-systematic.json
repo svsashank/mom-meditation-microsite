@@ -1,0 +1,48 @@
+{
+ "pmid": "29126747",
+ "doi": "10.1016/j.cpr.2017.10.011",
+ "title": "Mindfulness-based interventions for psychiatric disorders: A systematic review and meta-analysis",
+ "year": 2018,
+ "journal": "Clinical psychology review",
+ "authors": [
+  "Goldberg SB",
+  "Tucker RP",
+  "Greene PA",
+  "Davidson RJ",
+  "Wampold BE",
+  "Kearney DJ"
+ ],
+ "theme": "Emotional Wellbeing",
+ "allThemes": [
+  "Emotional Wellbeing"
+ ],
+ "studyType": "Meta-analysis / Systematic review",
+ "claimStrength": "Meta-analytic evidence",
+ "alignment": "general mindfulness/meditation",
+ "practiceStudied": "mindfulness / meditation",
+ "isMoM": "N",
+ "citationCount": 557,
+ "rcr": "35.44",
+ "headline": "Mindfulness-based interventions for psychiatric disorders: A systematic review and meta-analysis",
+ "summary": "A meta-analysis / systematic review of mindfulness / meditation examined emotional wellbeing. Effects on specific disorder subgroups showed the most consistent evidence in support of mindfulness for depression, pain conditions, smoking, and addictive disorders. Results support the notion that mindfulness-based interventions hold promise as evidence-based treatments.",
+ "keyFindings": [
+  "Mindfulness conditions did not differ from minimal treatment conditions (d=0.38) and evidence-based treatments (d=0.09).",
+  "Effects on specific disorder subgroups showed the most consistent evidence in support of mindfulness for depression, pain conditions, smoking, and addictive disorders.",
+  "Results support the notion that mindfulness-based interventions hold promise as evidence-based treatments."
+ ],
+ "methodology": {
+  "studyType": "Meta-analysis / Systematic review",
+  "sampleSize": "12,005 participants",
+  "duration": "see paper",
+  "practice": "mindfulness / meditation",
+  "comparator": "active/other control"
+ },
+ "limitations": [
+  "Pooled estimates combine heterogeneous studies; effect sizes vary by practice, population, and control condition.",
+  "The practice studied (mindfulness / meditation) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "emotional-wellbeing",
+ "editorialReview": true
+}

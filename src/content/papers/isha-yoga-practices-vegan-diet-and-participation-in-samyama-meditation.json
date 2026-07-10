@@ -1,0 +1,49 @@
+{
+ "pmid": "37020274",
+ "doi": "10.1186/s12906-023-03935-8",
+ "title": "Isha yoga practices, vegan diet, and participation in Samyama meditation retreat: impact on the gut microbiome & metabolome - a non-randomized trial",
+ "year": 2023,
+ "journal": "BMC complementary medicine and therapies",
+ "authors": [
+  "Raman M",
+  "Vishnubhotla R",
+  "Ramay HR",
+  "Gon\u00e7alves MCB",
+  "Shin AS",
+  "Pawale D"
+ ],
+ "theme": "Stress & Anxiety",
+ "allThemes": [
+  "Stress & Anxiety"
+ ],
+ "studyType": "Cross-sectional / Mechanistic",
+ "claimStrength": "Mechanistic / observational evidence",
+ "alignment": "yogic/breath-attention (weighted up)",
+ "practiceStudied": "Isha Samyama",
+ "isMoM": "adjacent",
+ "citationCount": 16,
+ "rcr": "2.1",
+ "headline": "Isha yoga practices, vegan diet, and participation in Samyama meditation retreat: impact on the gut microbiome",
+ "summary": "A mechanistic/observational study of Isha Samyama examined stress & anxiety. Growing evidence suggests a role for gut bacteria and their metabolites in host-signaling responses along the gut-brain axis which may impact mental health. Alpha diversity showed no significant differences between meditators and controls, while beta diversity showed significant changes (padj = 0.001) after Samyama in meditators' microbiota composition.",
+ "keyFindings": [
+  "Growing evidence suggests a role for gut bacteria and their metabolites in host-signaling responses along the gut-brain axis which may impact mental health.",
+  "Alpha diversity showed no significant differences between meditators and controls, while beta diversity showed significant changes (padj = 0.001) after Samyama in meditators' microbiota composition."
+ ],
+ "methodology": {
+  "studyType": "Cross-sectional / Mechanistic",
+  "sampleSize": "288 subjects",
+  "duration": "2\u00a0months",
+  "practice": "Isha Samyama",
+  "comparator": "see paper"
+ },
+ "limitations": [
+  "However, its impact on the microbiome remains unclear.",
+  "Alpha and beta diversities along with short-chain fatty acid (SCFA) were assessed.",
+  "After the preparation phase, changes in branched short-chain fatty acids, higher levels of iso-valerate (padj = 0.02) and iso-buytrate (padj = 0.019) were observed at T2 in meditators.",
+  "Observational/mechanistic design cannot establish that the practice caused the observed differences."
+ ],
+ "nullOrCritical": "",
+ "bidmc": true,
+ "quoteKey": "stress-anxiety",
+ "editorialReview": true
+}

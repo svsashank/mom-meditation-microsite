@@ -1,0 +1,47 @@
+{
+ "pmid": "29939051",
+ "doi": "10.1037/ccp0000324",
+ "title": "Brief mindfulness training for negative affectivity: A systematic review and meta-analysis",
+ "year": 2018,
+ "journal": "Journal of consulting and clinical psychology",
+ "authors": [
+  "Schumer MC",
+  "Lindsay EK",
+  "Creswell JD"
+ ],
+ "theme": "Brief & App-Based Practice",
+ "allThemes": [
+  "Brief & App-Based Practice"
+ ],
+ "studyType": "Meta-analysis / Systematic review",
+ "claimStrength": "Meta-analytic evidence",
+ "alignment": "general mindfulness/meditation",
+ "practiceStudied": "mindfulness / meditation",
+ "isMoM": "N",
+ "citationCount": 158,
+ "rcr": "10.76",
+ "headline": "Brief mindfulness training for negative affectivity: A systematic review and meta-analysis",
+ "summary": "A meta-analysis / systematic review of mindfulness / meditation examined brief & app-based practice. This meta-analysis indicates that brief mindfulness training modestly reduces negative affectivity. Quantitative analyses indicated the presence of publication bias (i.e., unpublished null effect studies), highlighting the need to continue rigorous evaluation of brief mindfulness interventions.",
+ "keyFindings": [
+  "No significant effect size differences were found between clinical and nonclinical samples.",
+  "This meta-analysis indicates that brief mindfulness training modestly reduces negative affectivity.",
+  "Quantitative analyses indicated the presence of publication bias (i.e., unpublished null effect studies), highlighting the need to continue rigorous evaluation of brief mindfulness interventions."
+ ],
+ "methodology": {
+  "studyType": "Meta-analysis / Systematic review",
+  "sampleSize": "5,489 participants",
+  "duration": "2 weeks",
+  "practice": "mindfulness / meditation",
+  "comparator": "active/other control"
+ },
+ "limitations": [
+  "However, when accounting for publication bias, the overall effect size of brief mindfulness training programs on negative affectivity was significantly reduced (g = .04).",
+  "Quantitative analyses indicated the presence of publication bias (i.e., unpublished null effect studies), highlighting the need to continue rigorous evaluation of brief mindfulness interventions.",
+  "Pooled estimates combine heterogeneous studies; effect sizes vary by practice, population, and control condition.",
+  "The practice studied (mindfulness / meditation) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "brief-app-based-practice",
+ "editorialReview": true
+}

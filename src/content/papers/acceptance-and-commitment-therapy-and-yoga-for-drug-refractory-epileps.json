@@ -1,0 +1,45 @@
+{
+ "pmid": "18343200",
+ "doi": "10.1016/j.yebeh.2008.02.009",
+ "title": "Acceptance and Commitment Therapy and yoga for drug-refractory epilepsy: a randomized controlled trial",
+ "year": 2008,
+ "journal": "Epilepsy & behavior : E&B",
+ "authors": [
+  "Lundgren T",
+  "Dahl J",
+  "Yardi N",
+  "Melin L"
+ ],
+ "theme": "Brain & Mechanisms",
+ "allThemes": [
+  "Brain & Mechanisms"
+ ],
+ "studyType": "RCT",
+ "claimStrength": "Randomized-trial evidence",
+ "alignment": "yogic/breath-attention (weighted up)",
+ "practiceStudied": "yoga",
+ "isMoM": "N",
+ "citationCount": 125,
+ "rcr": "5.02",
+ "headline": "Acceptance and Commitment Therapy and yoga for drug-refractory epilepsy: a randomized controlled trial",
+ "summary": "A randomized controlled trial of yoga examined brain & mechanisms. The results indicate that both ACT and yoga significantly reduce seizure index and increase quality of life over time. The results of this study suggest that complementary treatments, such as ACT and yoga, decrease seizure index and increase quality of life.",
+ "keyFindings": [
+  "The results indicate that both ACT and yoga significantly reduce seizure index and increase quality of life over time.",
+  "The results of this study suggest that complementary treatments, such as ACT and yoga, decrease seizure index and increase quality of life."
+ ],
+ "methodology": {
+  "studyType": "RCT",
+  "sampleSize": "N = 18",
+  "duration": "5-week",
+  "practice": "yoga",
+  "comparator": "see paper"
+ },
+ "limitations": [
+  "Single-trial result; requires replication, and self-reported outcomes may inflate apparent effects.",
+  "The practice studied (yoga) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "brain-mechanisms",
+ "editorialReview": true
+}

@@ -122,3 +122,26 @@ genuine; 4 false positives corrected. See DECISIONS D8. Residual: verification
 used abstracts (results + conclusions sections), not full-text results tables —
 confirm the 4 verified nulls against full text during content production before
 presenting them as null-result representation.
+
+---
+
+## Phase 3 additions
+
+**F14 (new) — 3 of 7 theme wisdom slots are empty pending verified quotes.**
+Sleep, Clinical Research, and Brief & App-Based Practice have no paired Sadhguru
+quote yet. Per the wisdom-pairing rule I left them empty and flagged rather than
+paraphrasing. Source verbatim quotes for these three themes from
+isha.sadhguru.org (topic pages for Sleep, Breath, etc.) before launch.
+
+**F15 (new) — per-paper prose is auto-drafted from abstracts and needs editorial
++ medical review.** Summaries, key findings, and limitations are extracted from
+abstract text. They are faithful to the abstract but have not been read against
+full text, and phrasing has not been human-edited for the claim-strength
+vocabulary case by case. Every page is flagged "draft." A qualified medical/
+scientific reviewer must co-sign the CLAIMS-REGISTER before any production launch
+(§11). The CLAIMS-REGISTER itself is not yet generated — it is the next step.
+
+**F16 (new) — methodology parsing is heuristic.** Sample size, duration, and
+comparator are regex-extracted from abstracts; some read "see paper" where the
+abstract was not explicit. These should be confirmed against full text during
+content production.

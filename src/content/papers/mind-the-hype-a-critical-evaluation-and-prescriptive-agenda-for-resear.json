@@ -1,0 +1,47 @@
+{
+ "pmid": "29016274",
+ "doi": "10.1177/1745691617709589",
+ "title": "Mind the Hype: A Critical Evaluation and Prescriptive Agenda for Research on Mindfulness and Meditation",
+ "year": 2018,
+ "journal": "Perspectives on psychological science : a journal of the Association for Psychological Science",
+ "authors": [
+  "Van Dam NT",
+  "van Vugt MK",
+  "Vago DR",
+  "Schmalzl L",
+  "Saron CD",
+  "Olendzki A"
+ ],
+ "theme": "Brain & Mechanisms",
+ "allThemes": [
+  "Brain & Mechanisms"
+ ],
+ "studyType": "Meta-analysis / Systematic review",
+ "claimStrength": "Meta-analytic evidence",
+ "alignment": "general mindfulness/meditation",
+ "practiceStudied": "mindfulness / meditation",
+ "isMoM": "N",
+ "citationCount": 538,
+ "rcr": "36.25",
+ "headline": "Mind the Hype: A Critical Evaluation and Prescriptive Agenda for Research on Mindfulness and Meditation",
+ "summary": "A meta-analysis / systematic review of mindfulness / meditation examined brain & mechanisms. During the past two decades, mindfulness meditation has gone from being a fringe topic of scientific investigation to being an occasional replacement for psychotherapy, tool of corporate well-being, widely implemented educational practice, and \"key to building more resilient soldiers.\" Yet the mindfulness movement and empirical evidence supporting it have not gone without criticism. Misinformation and poor methodology associated with past studies of mindfulness may lead public consumers to be harmed, misled, and disappointed.",
+ "keyFindings": [
+  "During the past two decades, mindfulness meditation has gone from being a fringe topic of scientific investigation to being an occasional replacement for psychotherapy, tool of corporate well-being, widely implemented educational practice, and \"key to building more resilient soldiers.\" Yet the mindfulness movement and empirical evidence supporting it have not gone without criticism.",
+  "Misinformation and poor methodology associated with past studies of mindfulness may lead public consumers to be harmed, misled, and disappointed."
+ ],
+ "methodology": {
+  "studyType": "Meta-analysis / Systematic review",
+  "sampleSize": "see paper",
+  "duration": "see paper",
+  "practice": "mindfulness / meditation",
+  "comparator": "waitlist/usual care"
+ },
+ "limitations": [
+  "Pooled estimates combine heterogeneous studies; effect sizes vary by practice, population, and control condition.",
+  "The practice studied (mindfulness / meditation) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "field-methodology critique",
+ "bidmc": false,
+ "quoteKey": "brain-mechanisms",
+ "editorialReview": true
+}

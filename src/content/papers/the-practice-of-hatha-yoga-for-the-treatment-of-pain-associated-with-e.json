@@ -1,0 +1,44 @@
+{
+ "pmid": "27869485",
+ "doi": "10.1089/acm.2015.0343",
+ "title": "The Practice of Hatha Yoga for the Treatment of Pain Associated with Endometriosis",
+ "year": 2017,
+ "journal": "Journal of alternative and complementary medicine (New York, N.Y.)",
+ "authors": [
+  "Gon\u00e7alves AV",
+  "Barros NF",
+  "Bahamondes L"
+ ],
+ "theme": "Emotional Wellbeing",
+ "allThemes": [
+  "Emotional Wellbeing"
+ ],
+ "studyType": "RCT",
+ "claimStrength": "Randomized-trial evidence",
+ "alignment": "yogic/breath-attention (weighted up)",
+ "practiceStudied": "yoga",
+ "isMoM": "N",
+ "citationCount": 80,
+ "rcr": "5.21",
+ "headline": "The Practice of Hatha Yoga for the Treatment of Pain Associated with Endometriosis",
+ "summary": "A randomized controlled trial of yoga examined emotional wellbeing. There was no significant difference between the two groups regarding the diary of menstrual patterns (p = 0.96). Yoga practice was associated with a reduction in levels of chronic pelvic pain and an improvement in QoL in women with endometriosis.",
+ "keyFindings": [
+  "There was no significant difference between the two groups regarding the diary of menstrual patterns (p = 0.96).",
+  "Yoga practice was associated with a reduction in levels of chronic pelvic pain and an improvement in QoL in women with endometriosis."
+ ],
+ "methodology": {
+  "studyType": "RCT",
+  "sampleSize": "N = 28",
+  "duration": "8-week",
+  "practice": "yoga",
+  "comparator": "see paper"
+ },
+ "limitations": [
+  "Single-trial result; requires replication, and self-reported outcomes may inflate apparent effects.",
+  "The practice studied (yoga) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "emotional-wellbeing",
+ "editorialReview": true
+}

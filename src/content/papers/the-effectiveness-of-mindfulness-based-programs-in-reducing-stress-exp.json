@@ -1,0 +1,47 @@
+{
+ "pmid": "26571279",
+ "doi": "10.11124/jbisrir-2015-2380",
+ "title": "The effectiveness of mindfulness based programs in reducing stress experienced by nurses in adult hospital settings: a systematic review of quantitative evidence protocol",
+ "year": 2015,
+ "journal": "JBI database of systematic reviews and implementation reports",
+ "authors": [
+  "Botha E",
+  "Gwin T",
+  "Purpora C"
+ ],
+ "theme": "Focus & Attention",
+ "allThemes": [
+  "Focus & Attention"
+ ],
+ "studyType": "Meta-analysis / Systematic review",
+ "claimStrength": "Meta-analytic evidence",
+ "alignment": "yogic/breath-attention (weighted up)",
+ "practiceStudied": "Mindfulness-Based Stress Reduction (MBSR)",
+ "isMoM": "N",
+ "citationCount": 107,
+ "rcr": "6.57",
+ "headline": "The effectiveness of mindfulness based programs in reducing stress experienced by nurses in adult hospital set",
+ "summary": "A meta-analysis / systematic review of Mindfulness-Based Stress Reduction (MBSR) examined focus & attention. A survey conducted by Reineck & Furino indicated that registered nurses had a very high regard for the intrinsic rewards of their profession but that they identified workplace relationships and stress issues as some of the most important contributors to their frustration and exhaustion. Hence, the objective of this systematic review is to evaluate the best research evidence available pertaining to mindfulness-based programs and their effectiveness in reducing perceived stress among nurses.",
+ "keyFindings": [
+  "Nurse-to-nurse lateral violence leads to negative workplace relationships and disrupts team performance, creating an environment where poor patient outcomes, burnout and high staff turnover rates are prevalent.Work-related stressors have been indicated as a potential cause of lateral violence.",
+  "A survey conducted by Reineck & Furino indicated that registered nurses had a very high regard for the intrinsic rewards of their profession but that they identified workplace relationships and stress issues as some of the most important contributors to their frustration and exhaustion.",
+  "Hence, the objective of this systematic review is to evaluate the best research evidence available pertaining to mindfulness-based programs and their effectiveness in reducing perceived stress among nurses."
+ ],
+ "methodology": {
+  "studyType": "Meta-analysis / Systematic review",
+  "sampleSize": "see paper",
+  "duration": "12 months",
+  "practice": "Mindfulness-Based Stress Reduction (MBSR)",
+  "comparator": "active/other control"
+ },
+ "limitations": [
+  "Recently nurses have been experiencing increased stress related to other factors such as staffing shortages, increasingly complex patients, corporate financial constraints and the increased need for knowledge of ever-changing technology.",
+  "Zangaro and Soeken share this opinion and state that work related stress is largely contributing to the current nursing shortage.",
+  "Pooled estimates combine heterogeneous studies; effect sizes vary by practice, population, and control condition.",
+  "The practice studied (Mindfulness-Based Stress Reduction (MBSR)) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "focus-attention",
+ "editorialReview": true
+}

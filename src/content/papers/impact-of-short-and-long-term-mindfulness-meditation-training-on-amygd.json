@@ -1,0 +1,49 @@
+{
+ "pmid": "29990584",
+ "doi": "10.1016/j.neuroimage.2018.07.013",
+ "title": "Impact of short- and long-term mindfulness meditation training on amygdala reactivity to emotional stimuli",
+ "year": 2018,
+ "journal": "NeuroImage",
+ "authors": [
+  "Kral TRA",
+  "Schuyler BS",
+  "Mumford JA",
+  "Rosenkranz MA",
+  "Lutz A",
+  "Davidson RJ"
+ ],
+ "theme": "Stress & Anxiety",
+ "allThemes": [
+  "Stress & Anxiety"
+ ],
+ "studyType": "RCT",
+ "claimStrength": "Randomized-trial evidence",
+ "alignment": "general mindfulness/meditation",
+ "practiceStudied": "Mindfulness-Based Stress Reduction (MBSR)",
+ "isMoM": "N",
+ "citationCount": 154,
+ "rcr": "8.9",
+ "headline": "Impact of short- and long-term mindfulness meditation training on amygdala reactivity to emotional stimuli",
+ "summary": "A randomized controlled trial of Mindfulness-Based Stress Reduction (MBSR) examined stress & anxiety. Meditation training was associated with less amygdala reactivity to positive pictures relative to controls, but there were no group differences in response to negative pictures. Reductions in reactivity to negative stimuli may require more practice experience or concentrated practice, as hours of retreat practice in long-term meditators was associated with lower amygdala reactivity to negative pictures - yet we did not see this relationship for practice time with MBSR.",
+ "keyFindings": [
+  "Meditation training was associated with less amygdala reactivity to positive pictures relative to controls, but there were no group differences in response to negative pictures.",
+  "Reductions in reactivity to negative stimuli may require more practice experience or concentrated practice, as hours of retreat practice in long-term meditators was associated with lower amygdala reactivity to negative pictures - yet we did not see this relationship for practice time with MBSR."
+ ],
+ "methodology": {
+  "studyType": "RCT",
+  "sampleSize": "N = 30,",
+  "duration": "8-week",
+  "practice": "Mindfulness-Based Stress Reduction (MBSR)",
+  "comparator": "active/other control"
+ },
+ "limitations": [
+  "We evaluated the impact of long- and short-term mindfulness meditation training on the amygdala response to emotional pictures in a healthy, non-clinical population of adults using blood-oxygen level dependent functional magnetic resonance imaging.",
+  "Short-term training consisted of an 8-week Mindfulness- Based Stress Reduction course (N = 32, 22 female), which was compared to an active control condition (N = 35, 19 female) in a randomized controlled trial.",
+  "Short-term training, compared to the control intervention, also led to increased functional connectivity between the amygdala and a region implicated in emotion regulation - ventromedial prefrontal cortex (VMPFC) - during affective pictures.",
+  "Single-trial result; requires replication, and self-reported outcomes may inflate apparent effects."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "stress-anxiety",
+ "editorialReview": true
+}

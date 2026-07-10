@@ -1,0 +1,44 @@
+{
+ "pmid": "16624497",
+ "doi": "10.1016/j.mehy.2006.02.042",
+ "title": "Physiology of long pranayamic breathing: neural respiratory elements may provide a mechanism that explains how slow deep breathing shifts the autonomic nervous system",
+ "year": 2006,
+ "journal": "Medical hypotheses",
+ "authors": [
+  "Jerath R",
+  "Edry JW",
+  "Barnes VA",
+  "Jerath V"
+ ],
+ "theme": "Brain & Mechanisms",
+ "allThemes": [
+  "Brain & Mechanisms"
+ ],
+ "studyType": "Cross-sectional / Mechanistic",
+ "claimStrength": "Mechanistic / observational evidence",
+ "alignment": "yogic/breath-attention (weighted up)",
+ "practiceStudied": "pranayama (yogic breathing)",
+ "isMoM": "adjacent",
+ "citationCount": 253,
+ "rcr": "8.55",
+ "headline": "Physiology of long pranayamic breathing: neural respiratory elements may provide a mechanism that explains how",
+ "summary": "A mechanistic/observational study of pranayama (yogic breathing) examined brain & mechanisms. Both inhibitory impulses and hyperpolarization current are known to synchronize neural elements leading to the modulation of the nervous system and decreased metabolic activity indicative of the parasympathetic state.",
+ "keyFindings": [
+  "Both inhibitory impulses and hyperpolarization current are known to synchronize neural elements leading to the modulation of the nervous system and decreased metabolic activity indicative of the parasympathetic state."
+ ],
+ "methodology": {
+  "studyType": "Cross-sectional / Mechanistic",
+  "sampleSize": "see paper",
+  "duration": "see paper",
+  "practice": "pranayama (yogic breathing)",
+  "comparator": "see paper"
+ },
+ "limitations": [
+  "Observational/mechanistic design cannot establish that the practice caused the observed differences.",
+  "The practice studied (pranayama (yogic breathing)) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "brain-mechanisms",
+ "editorialReview": true
+}

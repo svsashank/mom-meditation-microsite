@@ -1,0 +1,45 @@
+{
+ "pmid": "26146618",
+ "doi": "10.1155/2015/419808",
+ "title": "The Meditative Mind: A Comprehensive Meta-Analysis of MRI Studies",
+ "year": 2015,
+ "journal": "BioMed research international",
+ "authors": [
+  "Boccia M",
+  "Piccardi L",
+  "Guariglia P"
+ ],
+ "theme": "Brain & Mechanisms",
+ "allThemes": [
+  "Brain & Mechanisms"
+ ],
+ "studyType": "Meta-analysis / Systematic review",
+ "claimStrength": "Meta-analytic evidence",
+ "alignment": "yogic/breath-attention (weighted up)",
+ "practiceStudied": "yoga",
+ "isMoM": "N",
+ "citationCount": 90,
+ "rcr": "4.29",
+ "headline": "The Meditative Mind: A Comprehensive Meta-Analysis of MRI Studies",
+ "summary": "A meta-analysis / systematic review of yoga examined brain & mechanisms. Results indicate that meditation leads to activation in brain areas involved in processing self-relevant information, self-regulation, focused problem-solving, adaptive behavior, and interoception. These results demonstrate that a biological substrate underlies the positive pervasive effect of meditation practice and suggest that meditation techniques could be adopted in clinical populations and to prevent disease.",
+ "keyFindings": [
+  "The large amount of data collected thus far allows drawing some conclusions about the neural effects of meditation practice.",
+  "Results indicate that meditation leads to activation in brain areas involved in processing self-relevant information, self-regulation, focused problem-solving, adaptive behavior, and interoception.",
+  "These results demonstrate that a biological substrate underlies the positive pervasive effect of meditation practice and suggest that meditation techniques could be adopted in clinical populations and to prevent disease."
+ ],
+ "methodology": {
+  "studyType": "Meta-analysis / Systematic review",
+  "sampleSize": "see paper",
+  "duration": "see paper",
+  "practice": "yoga",
+  "comparator": "see paper"
+ },
+ "limitations": [
+  "Pooled estimates combine heterogeneous studies; effect sizes vary by practice, population, and control condition.",
+  "The practice studied (yoga) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "brain-mechanisms",
+ "editorialReview": true
+}

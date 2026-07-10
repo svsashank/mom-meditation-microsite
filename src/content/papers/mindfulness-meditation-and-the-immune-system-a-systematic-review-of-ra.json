@@ -1,0 +1,45 @@
+{
+ "pmid": "26799456",
+ "doi": "10.1111/nyas.12998",
+ "title": "Mindfulness meditation and the immune system: a systematic review of randomized controlled trials",
+ "year": 2016,
+ "journal": "Annals of the New York Academy of Sciences",
+ "authors": [
+  "Black DS",
+  "Slavich GM"
+ ],
+ "theme": "Emotional Wellbeing",
+ "allThemes": [
+  "Emotional Wellbeing"
+ ],
+ "studyType": "Meta-analysis / Systematic review",
+ "claimStrength": "Meta-analytic evidence",
+ "alignment": "general mindfulness/meditation",
+ "practiceStudied": "mindfulness / meditation",
+ "isMoM": "N",
+ "citationCount": 341,
+ "rcr": "15.21",
+ "headline": "Mindfulness meditation and the immune system: a systematic review of randomized controlled trials",
+ "summary": "A meta-analysis / systematic review of mindfulness / meditation examined emotional wellbeing. The findings suggest possible effects of mindfulness meditation on specific markers of inflammation, cell-mediated immunity, and biological aging, but these results are tentative and require further replication. On the basis of this analysis, we describe the limitations of existing work and suggest possible avenues for future research.",
+ "keyFindings": [
+  "The findings suggest possible effects of mindfulness meditation on specific markers of inflammation, cell-mediated immunity, and biological aging, but these results are tentative and require further replication.",
+  "On the basis of this analysis, we describe the limitations of existing work and suggest possible avenues for future research."
+ ],
+ "methodology": {
+  "studyType": "Meta-analysis / Systematic review",
+  "sampleSize": "see paper",
+  "duration": "see paper",
+  "practice": "mindfulness / meditation",
+  "comparator": "see paper"
+ },
+ "limitations": [
+  "Although studies have shown that mindfulness meditation can improve self-reported measures of disease symptomatology, the effect that mindfulness meditation has on biological mechanisms underlying human aging and disease is less clear.",
+  "This analysis revealed substantial heterogeneity across studies with respect to patient population, study design, and assay procedures.",
+  "On the basis of this analysis, we describe the limitations of existing work and suggest possible avenues for future research.",
+  "Pooled estimates combine heterogeneous studies; effect sizes vary by practice, population, and control condition."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "emotional-wellbeing",
+ "editorialReview": true
+}

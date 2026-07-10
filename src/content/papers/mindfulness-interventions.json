@@ -1,0 +1,41 @@
+{
+ "pmid": "27687118",
+ "doi": "10.1146/annurev-psych-042716-051139",
+ "title": "Mindfulness Interventions",
+ "year": 2017,
+ "journal": "Annual review of psychology",
+ "authors": [
+  "Creswell JD"
+ ],
+ "theme": "Focus & Attention",
+ "allThemes": [
+  "Focus & Attention"
+ ],
+ "studyType": "RCT",
+ "claimStrength": "Randomized-trial evidence",
+ "alignment": "general mindfulness/meditation",
+ "practiceStudied": "mindfulness / meditation",
+ "isMoM": "N",
+ "citationCount": 715,
+ "rcr": "41.97",
+ "headline": "Mindfulness Interventions",
+ "summary": "A randomized controlled trial of mindfulness / meditation examined focus & attention. This article evaluates the growing evidence of mindfulness intervention RCTs by reviewing and discussing (a) the effects of mindfulness interventions on health, cognitive, affective, and interpersonal outcomes; (b) evidence-based applications of mindfulness interventions to new settings and populations (e.g., the workplace, military, schools); (c) psychological and neurobiological mechanisms of mindfulness interventions; (d) mindfulness intervention dosing considerations; and (e) potential risks of mindfulness interventions.",
+ "keyFindings": [
+  "This article evaluates the growing evidence of mindfulness intervention RCTs by reviewing and discussing (a) the effects of mindfulness interventions on health, cognitive, affective, and interpersonal outcomes; (b) evidence-based applications of mindfulness interventions to new settings and populations (e.g., the workplace, military, schools); (c) psychological and neurobiological mechanisms of mindfulness interventions; (d) mindfulness intervention dosing considerations; and (e) potential risks of mindfulness interventions."
+ ],
+ "methodology": {
+  "studyType": "RCT",
+  "sampleSize": "see paper",
+  "duration": "see paper",
+  "practice": "mindfulness / meditation",
+  "comparator": "see paper"
+ },
+ "limitations": [
+  "Single-trial result; requires replication, and self-reported outcomes may inflate apparent effects.",
+  "The practice studied (mindfulness / meditation) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "focus-attention",
+ "editorialReview": true
+}

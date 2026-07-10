@@ -1,0 +1,50 @@
+{
+ "pmid": "24395196",
+ "doi": "10.1001/jamainternmed.2013.13018",
+ "title": "Meditation programs for psychological stress and well-being: a systematic review and meta-analysis",
+ "year": 2014,
+ "journal": "JAMA internal medicine",
+ "authors": [
+  "Goyal M",
+  "Singh S",
+  "Sibinga EM",
+  "Gould NF",
+  "Rowland-Seymour A",
+  "Sharma R"
+ ],
+ "theme": "Stress & Anxiety",
+ "allThemes": [
+  "Stress & Anxiety"
+ ],
+ "studyType": "Meta-analysis / Systematic review",
+ "claimStrength": "Meta-analytic evidence",
+ "alignment": "general mindfulness/meditation",
+ "practiceStudied": "mindfulness / meditation",
+ "isMoM": "N",
+ "citationCount": 1175,
+ "rcr": "53.88",
+ "headline": "Meditation programs for psychological stress and well-being: a systematic review and meta-analysis",
+ "summary": "A meta-analysis / systematic review of mindfulness / meditation examined stress & anxiety. We found low evidence of no effect or insufficient evidence of any effect of meditation programs on positive mood, attention, substance use, eating habits, sleep, and weight. We found no evidence that meditation programs were better than any active treatment (ie, drugs, exercise, and other behavioral therapies).",
+ "keyFindings": [
+  "Mindfulness meditation programs had moderate evidence of improved anxiety (effect size, 0.38 [95% CI, 0.12-0.64] at 8 weeks and 0.22 [0.02-0.43] at 3-6 months), depression (0.30 [0.00-0.59] at 8 weeks and 0.23 [0.05-0.42] at 3-6 months), and pain (0.33 [0.03- 0.62]) and low evidence of improved stress/distress and mental health-related quality of life.",
+  "We found low evidence of no effect or insufficient evidence of any effect of meditation programs on positive mood, attention, substance use, eating habits, sleep, and weight.",
+  "We found no evidence that meditation programs were better than any active treatment (ie, drugs, exercise, and other behavioral therapies)."
+ ],
+ "methodology": {
+  "studyType": "Meta-analysis / Systematic review",
+  "sampleSize": "47 trials",
+  "duration": "8 weeks",
+  "practice": "mindfulness / meditation",
+  "comparator": "active/other control"
+ },
+ "limitations": [
+  "We graded the strength of evidence using 4 domains (risk of bias, precision, directness, and consistency) and determined the magnitude and direction of effect by calculating the relative difference between groups in change from baseline.",
+  "We found low evidence of no effect or insufficient evidence of any effect of meditation programs on positive mood, attention, substance use, eating habits, sleep, and weight.",
+  "Pooled estimates combine heterogeneous studies; effect sizes vary by practice, population, and control condition.",
+  "The practice studied (mindfulness / meditation) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "null/mixed (F12-verified)",
+ "bidmc": false,
+ "quoteKey": "stress-anxiety",
+ "editorialReview": true
+}

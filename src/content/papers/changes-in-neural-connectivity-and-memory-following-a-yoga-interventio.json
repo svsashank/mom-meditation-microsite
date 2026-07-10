@@ -1,0 +1,47 @@
+{
+ "pmid": "27060939",
+ "doi": "10.3233/JAD-150653",
+ "title": "Changes in Neural Connectivity and Memory Following a Yoga Intervention for Older Adults: A Pilot Study",
+ "year": 2016,
+ "journal": "Journal of Alzheimer's disease : JAD",
+ "authors": [
+  "Eyre HA",
+  "Acevedo B",
+  "Yang H",
+  "Siddarth P",
+  "Van Dyk K",
+  "Ercoli L"
+ ],
+ "theme": "Brain & Mechanisms",
+ "allThemes": [
+  "Brain & Mechanisms"
+ ],
+ "studyType": "RCT",
+ "claimStrength": "Randomized-trial evidence",
+ "alignment": "yogic/breath-attention (weighted up)",
+ "practiceStudied": "yoga",
+ "isMoM": "N",
+ "citationCount": 91,
+ "rcr": "4.57",
+ "headline": "Changes in Neural Connectivity and Memory Following a Yoga Intervention for Older Adults: A Pilot Study",
+ "summary": "A randomized controlled trial of yoga examined brain & mechanisms. No study has explored the effect of yoga on cognitive decline and resting-state functional connectivity.",
+ "keyFindings": [
+  "No study has explored the effect of yoga on cognitive decline and resting-state functional connectivity.",
+  "This study explored the relationship between performance on memory tests and resting-state functional connectivity before and after a yoga intervention versus active control for subjects with mild cognitive impairment (MCI)."
+ ],
+ "methodology": {
+  "studyType": "RCT",
+  "sampleSize": "see paper",
+  "duration": "12 weeks",
+  "practice": "yoga",
+  "comparator": "active/other control"
+ },
+ "limitations": [
+  "Single-trial result; requires replication, and self-reported outcomes may inflate apparent effects.",
+  "The practice studied (yoga) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "brain-mechanisms",
+ "editorialReview": true
+}

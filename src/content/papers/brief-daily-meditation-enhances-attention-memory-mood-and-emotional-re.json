@@ -1,0 +1,48 @@
+{
+ "pmid": "30153464",
+ "doi": "10.1016/j.bbr.2018.08.023",
+ "title": "Brief, daily meditation enhances attention, memory, mood, and emotional regulation in non-experienced meditators",
+ "year": 2019,
+ "journal": "Behavioural brain research",
+ "authors": [
+  "Basso JC",
+  "McHale A",
+  "Ende V",
+  "Oberlin DJ",
+  "Suzuki WA"
+ ],
+ "theme": "Focus & Attention",
+ "allThemes": [
+  "Focus & Attention"
+ ],
+ "studyType": "RCT",
+ "claimStrength": "Randomized-trial evidence",
+ "alignment": "general mindfulness/meditation",
+ "practiceStudied": "mindfulness / meditation",
+ "isMoM": "N",
+ "citationCount": 107,
+ "rcr": "7.64",
+ "headline": "Brief, daily meditation enhances attention, memory, mood, and emotional regulation in non-experienced meditato",
+ "summary": "A randomized controlled trial of mindfulness / meditation examined focus & attention. Compared to our control group, we found that 8 but not 4 weeks of brief, daily meditation decreased negative mood state and enhanced attention, working memory, and recognition memory as well as decreased state anxiety scores on the TSST. This study not only suggests a lower limit for the duration of brief daily meditation needed to see significant benefits in non-experienced meditators, but suggests that even relatively short daily meditation practice can have similar behavioral effects as longer duration and higher-intensity mediation practices.",
+ "keyFindings": [
+  "Compared to our control group, we found that 8 but not 4 weeks of brief, daily meditation decreased negative mood state and enhanced attention, working memory, and recognition memory as well as decreased state anxiety scores on the TSST.",
+  "This study not only suggests a lower limit for the duration of brief daily meditation needed to see significant benefits in non-experienced meditators, but suggests that even relatively short daily meditation practice can have similar behavioral effects as longer duration and higher-intensity mediation practices."
+ ],
+ "methodology": {
+  "studyType": "RCT",
+  "sampleSize": "see paper",
+  "duration": "13-min",
+  "practice": "mindfulness / meditation",
+  "comparator": "active/other control"
+ },
+ "limitations": [
+  "Meditation is an ancient practice that cultivates a calm yet focused mind; however, little is known about how short, practical meditation practices affect cognitive functioning in meditation-na\u00efve populations.",
+  "This study not only suggests a lower limit for the duration of brief daily meditation needed to see significant benefits in non-experienced meditators, but suggests that even relatively short daily meditation practice can have similar behavioral effects as longer duration and higher-intensity mediation practices.",
+  "Single-trial result; requires replication, and self-reported outcomes may inflate apparent effects.",
+  "The practice studied (mindfulness / meditation) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "focus-attention",
+ "editorialReview": true
+}

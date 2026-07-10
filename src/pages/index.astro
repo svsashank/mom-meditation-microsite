@@ -1,0 +1,52 @@
+---
+import Base from '../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+const papers = await getCollection('papers');
+const b = import.meta.env.BASE_URL.replace(/\/$/, '');
+const THEMES = ['Stress & Anxiety','Sleep','Focus & Attention','Emotional Wellbeing','Brain & Mechanisms','Clinical Research','Brief & App-Based Practice'];
+const slug = (t) => t.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
+const counts = Object.fromEntries(THEMES.map(t => [t, papers.filter(p => p.data.theme === t).length]));
+const blurb = {
+ 'Stress & Anxiety':'How brief practice relates to stress physiology and anxious mind.',
+ 'Sleep':'Evidence on meditation, rest, and sleep quality.',
+ 'Focus & Attention':'The wandering mind, attention, and cognitive control.',
+ 'Emotional Wellbeing':'Mood, emotion regulation, and resilience.',
+ 'Brain & Mechanisms':'What imaging and physiology suggest about how practice works.',
+ 'Clinical Research':'Studies in clinical populations and conditions.',
+ 'Brief & App-Based Practice':'Short, self-guided, and app-delivered meditation.',
+};
+---
+<Base title="Meditation, read through research" wide={true}>
+  <section class="hero">
+    <p class="eyebrow">A research-led guide</p>
+    <h1>Meditation, read through the research.</h1>
+    <p class="lede">Plain-language summaries of {papers.length} significant studies on meditation — paired with Sadhguru's perspective on the nature of mind, and the 7-minute Miracle of Mind practice.</p>
+    <p><a class="tag" href={b + '/research/'}>Browse the research library →</a>
+       <a class="tag" href={b + '/methodology/'}>How these were chosen</a></p>
+  </section>
+
+  <section id="themes">
+    <p class="eyebrow">Seven themes</p>
+    <h2>Explore the evidence by theme</h2>
+    <div class="hubgrid">
+      {THEMES.map(t => (
+        <a class="card" href={b + '/themes/' + slug(t) + '/'}>
+          <h3>{t}</h3>
+          <p class="meta">{counts[t]} studies</p>
+          <p style="font-size:15px;color:var(--ink-soft);margin:.4em 0 0">{blurb[t]}</p>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <section>
+    <div class="cta">
+      <p class="eyebrow" style="color:#dfe6da">The action layer</p>
+      <h3>Miracle of Mind — 7 minutes a day</h3>
+      <p style="color:#eef1ea;max-width:520px;margin:8px auto 0">A short, free guided practice of breath and attention. The research here studies practices in this family.</p>
+      <a href={b + '/practice/'}>What the practice is →</a>
+    </div>
+  </section>
+
+  <p class="disclaimer">This site is informational and is not medical advice. It does not replace care from a qualified professional. Health-related findings are attributed to specific studies with evidence-matched language.</p>
+</Base>

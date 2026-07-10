@@ -1,0 +1,74 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection, getEntry } from 'astro:content';
+export async function getStaticPaths(){
+  const papers = await getCollection('papers');
+  return papers.map(p => ({ params:{ slug:p.id }, props:{ p } }));
+}
+const { p } = Astro.props;
+const d = p.data;
+const b = import.meta.env.BASE_URL.replace(/\/$/, '');
+const slug = (t)=>t.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
+let quote = null;
+if (d.quoteKey) { try { quote = await getEntry('quotes', d.quoteKey); } catch(e){} }
+const doiUrl = d.doi ? ('https://doi.org/' + d.doi) : null;
+---
+<Base title={d.headline} description={d.summary}>
+  <section>
+    <p class="eyebrow"><a href={b + '/themes/' + slug(d.theme) + '/'} style="text-decoration:none">{d.theme}</a></p>
+    <h1>{d.headline}</h1>
+    <p><span class="strength">{d.claimStrength}</span></p>
+
+    <p class="lede">{d.summary}</p>
+
+    {d.bidmc && (
+      <p class="bidmc-note">This study is from the Sadhguru Center for a Conscious Planet at Beth Israel Deaconess Medical Center (Harvard-affiliated). The Center discloses that Sadhguru and Isha Foundation play no role in its funding; no institutional endorsement is implied.</p>
+    )}
+
+    <div class="snapshot">
+      <p class="eyebrow" style="margin-top:14px">Methodology snapshot</p>
+      <dl>
+        <dt>Study type</dt><dd>{d.methodology.studyType}</dd>
+        <dt>Sample</dt><dd>{d.methodology.sampleSize}</dd>
+        <dt>Duration</dt><dd>{d.methodology.duration}</dd>
+        <dt>Practice</dt><dd>{d.methodology.practice} <em>({d.isMoM === 'Y' ? 'Miracle of Mind practice' : d.isMoM === 'adjacent' ? 'MoM-adjacent: breath-and-attention based' : 'not the MoM practice — findings do not transfer directly'})</em></dd>
+        <dt>Comparator</dt><dd>{d.methodology.comparator}</dd>
+      </dl>
+    </div>
+
+    <h3>Key findings</h3>
+    <ul class="findings">{d.keyFindings.map(f => <li>{f}</li>)}</ul>
+
+    <div class="limitations">
+      <h3>Limitations</h3>
+      <ul>{d.limitations.map(l => <li>{l}</li>)}</ul>
+    </div>
+
+    {quote && quote.data.verified && (
+      <div class="wisdom">
+        <p class="eyebrow" style="color:var(--wisdom)">Sadhguru's perspective</p>
+        <p class="q">“{quote.data.quoteText}”</p>
+        <p class="src">— Sadhguru{quote.data.origin ? ', ' + quote.data.origin : ' (Isha)'}</p>
+      </div>
+    )}
+    {(!quote || !quote.data.verified) && (
+      <div class="wisdom">
+        <p class="eyebrow" style="color:var(--wisdom)">Sadhguru's perspective</p>
+        <p class="pending">A verified verbatim quote on <strong>{d.theme}</strong> will be paired here, sourced from isha.sadhguru.org per the wisdom-pairing rules (verbatim only, individually sourced). Slot intentionally left empty pending verification rather than paraphrased.</p>
+      </div>
+    )}
+
+    <h3>Citation</h3>
+    <p style="font-size:15.5px">{d.authors.slice(0,6).join(', ')}{d.authors.length > 6 ? ', et al.' : ''} <em>{d.title}.</em> {d.journal}. {d.year}. {doiUrl && (<a href={doiUrl}>{d.doi}</a>)}</p>
+    <p>{d.allThemes.map(t => <a class="tag" href={b + '/themes/' + slug(t) + '/'}>{t}</a>)}</p>
+
+    <div class="cta">
+      <h3>Try the practice</h3>
+      <p style="color:#eef1ea">Miracle of Mind is a free 7-minute guided practice of breath and attention.</p>
+      <a href={b + '/practice/'}>Learn how to start →</a>
+    </div>
+
+    {d.editorialReview && <p class="review-flag">Draft summary generated from the study abstract; pending editorial and medical/scientific review before launch (BRIEF §11).</p>}
+    <p class="disclaimer">This page is informational and is not medical advice. It does not replace care from a qualified professional. The finding above is attributed to the cited study; where the practice studied is not the Miracle of Mind practice, that is stated in the snapshot.</p>
+  </section>
+</Base>

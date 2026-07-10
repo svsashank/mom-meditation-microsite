@@ -1,0 +1,49 @@
+{
+ "pmid": "22988934",
+ "doi": "10.1186/1471-2407-12-412",
+ "title": "Yoga for breast cancer patients and survivors: a systematic review and meta-analysis",
+ "year": 2012,
+ "journal": "BMC cancer",
+ "authors": [
+  "Cramer H",
+  "Lange S",
+  "Klose P",
+  "Paul A",
+  "Dobos G"
+ ],
+ "theme": "Stress & Anxiety",
+ "allThemes": [
+  "Stress & Anxiety"
+ ],
+ "studyType": "Meta-analysis / Systematic review",
+ "claimStrength": "Meta-analytic evidence",
+ "alignment": "yogic/breath-attention (weighted up)",
+ "practiceStudied": "yoga",
+ "isMoM": "N",
+ "citationCount": 145,
+ "rcr": "5.66",
+ "headline": "Yoga for breast cancer patients and survivors: a systematic review and meta-analysis",
+ "summary": "A meta-analysis / systematic review of yoga examined stress & anxiety. Subgroup analyses revealed evidence of efficacy only for yoga during active cancer treatment but not after completion of active treatment. This systematic review found evidence for short-term effects of yoga in improving psychological health in breast cancer patients.",
+ "keyFindings": [
+  "Short-term effects on psychological health also were found: anxiety (SMD = -1.51 [95% CI: -2.47; -0.55]; P < 0.01), depression (SMD = -1.59 [95% CI: -2.68 to -0.51]; P < 0.01), perceived stress (SMD = -1.14 [95% CI:-2.16; -0.12]; P = 0.03), and psychological distress (SMD = -0.86 [95% CI:-1.50; -0.22]; P < 0.01).",
+  "Subgroup analyses revealed evidence of efficacy only for yoga during active cancer treatment but not after completion of active treatment.",
+  "This systematic review found evidence for short-term effects of yoga in improving psychological health in breast cancer patients."
+ ],
+ "methodology": {
+  "studyType": "Meta-analysis / Systematic review",
+  "sampleSize": "742 participants",
+  "duration": "see paper",
+  "practice": "yoga",
+  "comparator": "waitlist/usual care"
+ },
+ "limitations": [
+  "Risk of bias was assessed using the Cochrane risk of bias tool.",
+  "Evidence was found for short-term effects on global health-related quality of life (SMD = 0.62 [95% CI: 0.04 to 1.21]; P = 0.04), functional (SMD = 0.30 [95% CI: 0.03 to 0.57), social (SMD = 0.29 [95% CI: 0.08 to 0.50]; P < 0.01), and spiritual well-being (SMD = 0.41 [95% CI: 0.08; 0.74]; P = 0.01).",
+  "These effects were, however, only present in studies with unclear or high risk of selection bias.",
+  "Pooled estimates combine heterogeneous studies; effect sizes vary by practice, population, and control condition."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "stress-anxiety",
+ "editorialReview": true
+}

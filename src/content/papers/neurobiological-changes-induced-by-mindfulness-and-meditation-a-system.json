@@ -1,0 +1,46 @@
+{
+ "pmid": "39595177",
+ "doi": "10.3390/biomedicines12112613",
+ "title": "Neurobiological Changes Induced by Mindfulness and Meditation: A Systematic Review",
+ "year": 2024,
+ "journal": "Biomedicines",
+ "authors": [
+  "Calderone A",
+  "Latella D",
+  "Impellizzeri F",
+  "de Pasquale P",
+  "Fam\u00e0 F",
+  "Quartarone A"
+ ],
+ "theme": "Emotional Wellbeing",
+ "allThemes": [
+  "Emotional Wellbeing"
+ ],
+ "studyType": "Meta-analysis / Systematic review",
+ "claimStrength": "Meta-analytic evidence",
+ "alignment": "general mindfulness/meditation",
+ "practiceStudied": "mindfulness / meditation",
+ "isMoM": "N",
+ "citationCount": 49,
+ "rcr": "13.87",
+ "headline": "Neurobiological Changes Induced by Mindfulness and Meditation: A Systematic Review",
+ "summary": "A meta-analysis / systematic review of mindfulness / meditation examined emotional wellbeing.",
+ "keyFindings": [
+  "See the linked paper for detailed results."
+ ],
+ "methodology": {
+  "studyType": "Meta-analysis / Systematic review",
+  "sampleSize": "see paper",
+  "duration": "see paper",
+  "practice": "mindfulness / meditation",
+  "comparator": "see paper"
+ },
+ "limitations": [
+  "Pooled estimates combine heterogeneous studies; effect sizes vary by practice, population, and control condition.",
+  "The practice studied (mindfulness / meditation) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "emotional-wellbeing",
+ "editorialReview": true
+}

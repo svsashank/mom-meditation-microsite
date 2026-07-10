@@ -1,0 +1,44 @@
+{
+ "pmid": "29622047",
+ "doi": "10.1186/s40359-018-0226-3",
+ "title": "A randomised active-controlled trial to examine the effects of an online mindfulness intervention on executive control, critical thinking and key thinking dispositions in a university student sample",
+ "year": 2018,
+ "journal": "BMC psychology",
+ "authors": [
+  "Noone C",
+  "Hogan MJ"
+ ],
+ "theme": "Brief & App-Based Practice",
+ "allThemes": [
+  "Brief & App-Based Practice"
+ ],
+ "studyType": "RCT",
+ "claimStrength": "Randomized-trial evidence",
+ "alignment": "general mindfulness/meditation",
+ "practiceStudied": "mindfulness / meditation",
+ "isMoM": "N",
+ "citationCount": 73,
+ "rcr": "5.18",
+ "headline": "A randomised active-controlled trial to examine the effects of an online mindfulness intervention on executive",
+ "summary": "A randomized controlled trial of mindfulness / meditation examined brief & app-based practice. However, no significant effects of group allocation were observed for either primary or secondary measures. No evidence was found to suggest that engaging in guided mindfulness practice for 6 weeks using the online intervention method applied in this study improves critical thinking performance.",
+ "keyFindings": [
+  "The aim of this study was to test this claim by investigating the effects of an online mindfulness intervention on executive function, critical thinking skills and associated thinking dispositions.",
+  "However, no significant effects of group allocation were observed for either primary or secondary measures.",
+  "No evidence was found to suggest that engaging in guided mindfulness practice for 6 weeks using the online intervention method applied in this study improves critical thinking performance."
+ ],
+ "methodology": {
+  "studyType": "RCT",
+  "sampleSize": "see paper",
+  "duration": "6\u00a0week",
+  "practice": "mindfulness / meditation",
+  "comparator": "see paper"
+ },
+ "limitations": [
+  "Single-trial result; requires replication, and self-reported outcomes may inflate apparent effects.",
+  "The practice studied (mindfulness / meditation) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "brief-app-based-practice",
+ "editorialReview": true
+}

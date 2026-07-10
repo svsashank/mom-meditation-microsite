@@ -1,0 +1,46 @@
+{
+ "pmid": "32460584",
+ "doi": "10.1177/0898010120921587",
+ "title": "Holistic Nursing in Practice: Mindfulness-Based Yoga as an Intervention to Manage Stress and Burnout",
+ "year": 2021,
+ "journal": "Journal of holistic nursing : official journal of the American Holistic Nurses' Association",
+ "authors": [
+  "Hilcove K",
+  "Marceau C",
+  "Thekdi P",
+  "Larkey L",
+  "Brewer MA",
+  "Jones K"
+ ],
+ "theme": "Sleep",
+ "allThemes": [
+  "Sleep"
+ ],
+ "studyType": "RCT",
+ "claimStrength": "Randomized-trial evidence",
+ "alignment": "yogic/breath-attention (weighted up)",
+ "practiceStudied": "yoga",
+ "isMoM": "N",
+ "citationCount": 56,
+ "rcr": "6.49",
+ "headline": "Holistic Nursing in Practice: Mindfulness-Based Yoga as an Intervention to Manage Stress and Burnout",
+ "summary": "A randomized controlled trial of yoga examined sleep. Effects of a mindfulness-based (MB) yoga practice on stress, burnout, and indicators of well-being among nurses and health care professionals (HCPs).",
+ "keyFindings": [
+  "Effects of a mindfulness-based (MB) yoga practice on stress, burnout, and indicators of well-being among nurses and health care professionals (HCPs)."
+ ],
+ "methodology": {
+  "studyType": "RCT",
+  "sampleSize": "see paper",
+  "duration": "see paper",
+  "practice": "yoga",
+  "comparator": "see paper"
+ },
+ "limitations": [
+  "Single-trial result; requires replication, and self-reported outcomes may inflate apparent effects.",
+  "The practice studied (yoga) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "sleep",
+ "editorialReview": true
+}

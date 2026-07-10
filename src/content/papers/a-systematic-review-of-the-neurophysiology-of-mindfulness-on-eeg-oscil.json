@@ -1,0 +1,44 @@
+{
+ "pmid": "26441373",
+ "doi": "10.1016/j.neubiorev.2015.09.018",
+ "title": "A systematic review of the neurophysiology of mindfulness on EEG oscillations",
+ "year": 2015,
+ "journal": "Neuroscience and biobehavioral reviews",
+ "authors": [
+  "Lomas T",
+  "Ivtzan I",
+  "Fu CH"
+ ],
+ "theme": "Brain & Mechanisms",
+ "allThemes": [
+  "Brain & Mechanisms"
+ ],
+ "studyType": "Meta-analysis / Systematic review",
+ "claimStrength": "Meta-analytic evidence",
+ "alignment": "general mindfulness/meditation",
+ "practiceStudied": "mindfulness / meditation",
+ "isMoM": "N",
+ "citationCount": 265,
+ "rcr": "13.0",
+ "headline": "A systematic review of the neurophysiology of mindfulness on EEG oscillations",
+ "summary": "A meta-analysis / systematic review of mindfulness / meditation examined brain & mechanisms. The systematic review revealed that mindfulness was most commonly associated with enhanced alpha and theta power as compared to an eyes closed resting state, although such outcomes were not uniformly reported. In summary, mindfulness is associated with increased alpha and theta power in both healthy individuals and in patient groups.",
+ "keyFindings": [
+  "The systematic review revealed that mindfulness was most commonly associated with enhanced alpha and theta power as compared to an eyes closed resting state, although such outcomes were not uniformly reported.",
+  "In summary, mindfulness is associated with increased alpha and theta power in both healthy individuals and in patient groups."
+ ],
+ "methodology": {
+  "studyType": "Meta-analysis / Systematic review",
+  "sampleSize": "1715 subjects",
+  "duration": "see paper",
+  "practice": "mindfulness / meditation",
+  "comparator": "active/other control"
+ },
+ "limitations": [
+  "Pooled estimates combine heterogeneous studies; effect sizes vary by practice, population, and control condition.",
+  "The practice studied (mindfulness / meditation) is not the Miracle of Mind practice; findings do not transfer directly to MoM."
+ ],
+ "nullOrCritical": "",
+ "bidmc": false,
+ "quoteKey": "brain-mechanisms",
+ "editorialReview": true
+}
