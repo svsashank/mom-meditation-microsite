@@ -180,3 +180,35 @@ study type, alignment (yogic-weighted vs general), citation count, citations/yr,
 RCR, yogic flag, BIDMC flag, null/critical flag, selection score, inclusion
 reason, last author. `LONGLIST.csv` regenerated over the expanded 723-candidate
 pool (296 rows). Full pool retained at `data/scored_pool.csv`.
+
+---
+
+## Phase 2b — F13 (critical review) and F12 (null-result verification)
+
+**D7. Critical-review slot upgraded to field-level methodology critiques (resolves
+F13).** Replaced the fibromyalgia-specific safety review with the two canonical
+critiques of meditation-research quality: Van Dam et al. 2018, "Mind the Hype: A
+Critical Evaluation and Prescriptive Agenda for Research on Mindfulness and
+Meditation" (Perspectives on Psychological Science; 538 citations, RCR 36.3) and
+Davidson & Kaszniak 2015, "Conceptual and methodological issues in research on
+mindfulness and meditation" (American Psychologist; 308 citations, RCR 15.5).
+Both clear the quality floor comfortably and directly address effect sizes,
+active-control problems, publication bias, and measurement/definitional issues.
+The critical-review detector was tightened to match genuine research-quality
+critiques so a safety review no longer fills this slot.
+
+**D8. All 7→8 null-flagged papers verified against their abstracts (resolves
+F12).** Read each abstract's results/conclusions rather than trusting keyword
+flags. 4 held up as genuine null/mixed and are now labelled "null/mixed
+(F12-verified)": Goyal 2014 (no benefit over active controls), the workplace-
+mindfulness MA (burnout ambivalent, depression confounded by publication bias),
+the acceptance/mindfulness-for-anxiety MA (no significant difference vs TAU/CBT
+at 6–12 mo; placebo-exceeding effects unclear), and the prenatal-mindfulness RCT
+(null on mother–infant bonding). 4 were abstract-keyword false positives and had
+the flag removed (they remain in the 100 as valid positive studies): a yoga/
+stress-physiology MA (positive; "however… heterogeneous"), the Calm-app RCT
+(positive), an MBTI-vs-MBSR insomnia RCT (positive), and a mindfulness+PMR
+sarcopenia RCT where "no significant differences" referred to *baseline*
+equivalence, not outcomes. Net balance section: 4 verified null/mixed + 2
+methodology critiques. Full-text verification of the 4 remains a content-
+production step.

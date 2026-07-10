@@ -109,3 +109,16 @@ fibromyalgia). The brief asks for "at least one major critical review of
 meditation-research quality"; this qualifies, but a stronger choice would be a
 general methodological critique (e.g. a risk-of-bias/repro review of the whole
 field). Worth swapping in during content production.
+
+---
+
+## Phase 2b updates
+
+**F13 — RESOLVED.** Two field-methodology critiques added (Van Dam "Mind the Hype"
+2018; Davidson & Kaszniak 2015). See DECISIONS D7.
+
+**F12 — RESOLVED at abstract level.** 4 of 8 keyword-flagged null papers verified
+genuine; 4 false positives corrected. See DECISIONS D8. Residual: verification
+used abstracts (results + conclusions sections), not full-text results tables —
+confirm the 4 verified nulls against full text during content production before
+presenting them as null-result representation.

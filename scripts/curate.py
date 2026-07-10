@@ -17,7 +17,7 @@ TARGETS={"Stress & Anxiety":20,"Sleep":10,"Focus & Attention":15,"Emotional Well
  "Brain & Mechanisms":20,"Clinical Research":10,"Brief & App-Based Practice":10}
 ORDER=["Sleep","Clinical Research","Brief & App-Based Practice","Focus & Attention",
        "Emotional Wellbeing","Stress & Anxiety","Brain & Mechanisms"]
-CRIT_RE=re.compile(r"(risk of bias|methodological quality|publication bias|overstated|poor quality|quality of (the )?evidence|GRADE|reporting quality|critical (review|appraisal)|reproducib|adverse events|harms? of|safety of)",re.I)
+CRIT_RE=re.compile(r"(mind the hype|critical evaluation|prescriptive agenda|conceptual and methodological|methodological (issues|quality|challenges)|risk of bias|publication bias|overstated|reporting quality|quality of (the )?evidence|reproducib|outstanding challenges|reiterated concerns)",re.I)
 for r in rows:
     r["is_null_flag"]=bool(r["is_null_or_critical"])          # from harvest (null OR critical, abstract-level)
     r["is_critical"]=bool(CRIT_RE.search(r["title"] or ""))   # genuine critical/safety review by title
