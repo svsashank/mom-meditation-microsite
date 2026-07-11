@@ -53,3 +53,9 @@ footer.site{border-top:1px solid var(--line);margin-top:40px;padding:26px 0;font
 .hero{padding:56px 0 30px}
 ul.findings li{margin:.4em 0}
 .review-flag{font-family:var(--sans);font-size:11px;color:#9a7b3a;letter-spacing:.03em}
+
+/* Site-wide unreviewed-draft banner (staging only) */
+.draft-banner{position:sticky;top:0;z-index:50;background:#8a5a2b;color:#fff;
+  font-family:var(--sans);font-size:12.5px;line-height:1.4;letter-spacing:.01em;
+  text-align:center;padding:7px 16px;border-bottom:1px solid #6f4720}
+.draft-banner strong{font-weight:700}

@@ -20,6 +20,9 @@ const nav = [
   <slot name="head" />
 </head>
 <body>
+  <div class="draft-banner" role="alert">
+    <strong>Unreviewed working draft.</strong> Medical &amp; research claims here are auto-drafted and <strong>pending expert medical/scientific review</strong>. Not for public distribution.
+  </div>
   <header class="site"><div class="wrap wide">
     <a class="brand" href={base + '/'}>Miracle of Mind<small>Meditation Research</small></a>
     <nav class="site">{nav.map(([l,h]) => <a href={h}>{l}</a>)}</nav>
