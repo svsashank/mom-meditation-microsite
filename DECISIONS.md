@@ -251,3 +251,25 @@ wisdom-pairing skill requires (leave empty and flag). See F14.
 the project-pages path. No production or custom-domain deploy is configured —
 that awaits sign-off per §7/§11. `node_modules/` and `dist/` are git-ignored;
 the site is reproducible via `npm ci && npx astro build`.
+
+---
+
+## Phase 3b — Claims register, draft banner, staging deploy
+
+**D13. CLAIMS-REGISTER.md generated from the draft pages (§10).** 209 benefit-
+relevant claims across the 100 papers, one row each, grouped by theme. Every row
+records the claim text, evidence-strength framing, the practice studied and
+whether it is the MoM practice (30 MoM-adjacent, 179 not-MoM with on-page
+transfer-gap notes), the source DOI, and a blank reviewer sign-off. No rows are
+signed off — the register is explicitly DRAFT pending a qualified medical/
+scientific co-signer (§11). Machine-readable copy at `data/claims-register.csv`.
+
+**D14. Site-wide unreviewed-draft banner added (in addition to per-paper flags).**
+A sticky banner renders on all 112 pages via the base layout: "Unreviewed working
+draft. Medical & research claims here are auto-drafted and pending expert
+medical/scientific review. Not for public distribution."
+
+**D15. Deployed to GitHub Pages staging (§7).** Pages enabled with the Actions
+build type; the deploy-staging workflow built and published the site. Live at
+https://svsashank.github.io/mom-meditation-microsite/ . This is staging only — no
+production or custom-domain deploy, consistent with §7/§11.
