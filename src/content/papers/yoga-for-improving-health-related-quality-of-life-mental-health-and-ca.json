@@ -38,9 +38,9 @@
   "comparator": "active/other control"
  },
  "limitations": [
-  "We assessed potential risk of publication bias through visual analysis of funnel plot symmetry and heterogeneity between studies by using the Chi We included 24 studies with a total of 2166 participants, 23 of which provided data for meta-analysis.",
-  "Thirteen studies had low risk of selection bias, five studies reported adequate blinding of outcome assessment and 15 studies had low risk of attrition bias.Seventeen studies that compared yoga versus no therapy provided moderate-quality evidence showing that yoga improved health-related quality of life (pooled SMD 0.22, 95% CI 0.04 to 0.40; 10 studies, 675 participants), reduced fatigue (pooled SMD -0.48, 95% CI -0.75 to -0.20; 11 studies, 883 participants) and reduced sleep disturbances in the short term (pooled SMD -0.25, 95% CI -0.40 to -0.09; six studies, 657 participants).",
-  "This hints at overall low risk of publication bias.",
+  "The studies varied widely in method and population, so the combined estimate blurs real differences between them.",
+  "There were signs of publication bias, so the true effect may be smaller than reported.",
+  "Follow-up was short, so it is unclear whether any benefit lasts.",
   "Pooled estimates combine heterogeneous studies; effect sizes vary by practice, population, and control condition."
  ],
  "nullOrCritical": "",

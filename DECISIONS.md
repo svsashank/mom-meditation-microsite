@@ -356,3 +356,21 @@ built routes (home, research library, practice, methodology, wisdom, 7 theme hub
 100 research pages) — validated as well-formed XML with 112 unique <loc> entries,
 excluding the 404 page. Referenced from robots.txt, ready to submit to Google
 Search Console / Bing Webmaster Tools at go-live.
+
+---
+
+## Phase 3h — Limitations redundancy / voice audit
+
+**D25. Audited all 100 research pages + 7 theme hubs for body↔Limitations
+duplication and verbatim abstract lifts.** Root cause: the generator seeded the
+first Limitations bullets from the same abstract sentences used in the summary/
+key-findings, so some sentences appeared twice (once truncated mid-paragraph,
+once in full) and read as dense academic lifts. Fixed 38 research pages —
+duplicate bullets removed or rewritten as a *distinct* plain-language limitation;
+lifts restated in the site voice. Preserved untouched: generic study-type
+caveats, flat non-transfer lines on non-bridge pages, and the reconciled bridge
+limitation lines (verified 65/65 intact; the cap logic was corrected so a rewrite
+can never push a preserved line out). Non-empty Limitations guaranteed on every
+page. Counts: 16 duplication-bug pages, 27 verbatim-lift pages, 62 research pages
++ 7 hubs clean. Per-page log in FLAGGED F32 and `data/limitations-audit.csv`.
+CLAIMS-REGISTER regenerated.

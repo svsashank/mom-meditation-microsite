@@ -36,8 +36,7 @@
  },
  "limitations": [
   "The methodological quality of the selected studies was determined using the Cochrane criteria for risk-of-bias assessment.",
-  "Sensitivity analyses and subgroup analyses were performed for results with high heterogeneity.",
-  "The use of either waitlist control or traditional face-to-face intervention in the control group was identified as the source of heterogeneity.",
+  "The studies varied widely in method and population, so the combined estimate blurs real differences between them.",
   "Pooled estimates combine heterogeneous studies; effect sizes vary by practice, population, and control condition."
  ],
  "nullOrCritical": "",
