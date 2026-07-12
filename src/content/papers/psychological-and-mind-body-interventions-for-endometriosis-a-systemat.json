@@ -44,5 +44,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "sleep",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Psychological and mind-body interventions for endometriosis: A systematic review",
+ "publicationYear": 2019,
+ "journalName": "Journal of psychosomatic research",
+ "coreTheme": "Sleep",
+ "primaryEntityUrl": "https://doi.org/10.1016/j.jpsychores.2019.109756",
+ "relatedThemePath": "/themes/sleep/",
+ "aiSnippet": "Meta-analysis / Systematic review, Journal of psychosomatic research (2019). This review examines the evidence for psychological and mind-body (PMB) interventions to improve endometriosis pain, psychological distress, sleep and fatigue. Results indicate that no studies have yet used gold-standard methodology and, thus, definitive conclusions cannot be offered about PMB efficacy. However, the results of these pilot studies suggest that PMB interventions show promise in alleviating pain, anxiety, depression, stress and fatigue in women with endometriosis, and future well-designed RCTs including active control groups are warranted."
 }

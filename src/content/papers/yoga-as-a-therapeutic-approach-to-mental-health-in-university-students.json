@@ -42,5 +42,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "emotional-wellbeing",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Yoga as a therapeutic approach to mental health in university students: a randomized controlled trial",
+ "publicationYear": 2024,
+ "journalName": "Frontiers in public health",
+ "coreTheme": "Emotional Wellbeing",
+ "primaryEntityUrl": "https://doi.org/10.3389/fpubh.2024.1406937",
+ "relatedThemePath": "/themes/emotional-wellbeing/",
+ "aiSnippet": "RCT, Frontiers in public health (2024). The purpose of this study has been to analyze the efficacy of a yoga-based intervention on stress, emotional wellbeing, state anxiety and trait anxiety in university students. This study was a randomized controlled trial."
 }

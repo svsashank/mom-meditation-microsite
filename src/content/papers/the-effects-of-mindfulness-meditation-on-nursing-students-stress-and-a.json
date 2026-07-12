@@ -40,5 +40,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "stress-anxiety",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "The Effects of Mindfulness Meditation on Nursing Students' Stress and Anxiety Levels",
+ "publicationYear": 2024,
+ "journalName": "Nursing education perspectives",
+ "coreTheme": "Stress & Anxiety",
+ "primaryEntityUrl": "https://doi.org/10.1097/01.NEP.0000000000001159",
+ "relatedThemePath": "/themes/stress-anxiety/",
+ "aiSnippet": "RCT, Nursing education perspectives (2024). The aim of this study was to evaluate the effects of a virtual mindfulness meditation intervention on stress and anxiety levels of 145 nursing students. Because of the twin demands of classroom and clinical workloads, nursing students experience greater amounts of stress and anxiety than the average college student."
 }

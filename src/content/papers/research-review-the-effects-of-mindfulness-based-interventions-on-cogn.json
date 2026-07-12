@@ -43,5 +43,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "focus-attention",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Research Review: The effects of mindfulness-based interventions on cognition and mental health in children and",
+ "publicationYear": 2019,
+ "journalName": "Journal of child psychology and psychiatry, and allied disciplines",
+ "coreTheme": "Focus & Attention",
+ "primaryEntityUrl": "https://doi.org/10.1111/jcpp.12980",
+ "relatedThemePath": "/themes/focus-attention/",
+ "aiSnippet": "Meta-analysis / Systematic review, Journal of child psychology and psychiatry, and allied disciplines (2019). Mindfulness based interventions (MBIs) are an increasingly popular way of attempting to improve the behavioural, cognitive and mental health outcomes of children and adolescents, though there is a suggestion that enthusiasm has moved ahead of the evidence base. Across all RCTs we found significant positive effects of MBIs, relative to controls, for the outcome categories of Mindfulness, Executive Functioning, Attention, Depression, Anxiety/Stress and Negative Behaviours, with small effect sizes (Cohen's d), ranging from .16 to .30."
 }

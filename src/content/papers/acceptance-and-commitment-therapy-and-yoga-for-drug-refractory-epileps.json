@@ -41,5 +41,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "brain-mechanisms",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Acceptance and Commitment Therapy and yoga for drug-refractory epilepsy: a randomized controlled trial",
+ "publicationYear": 2008,
+ "journalName": "Epilepsy & behavior : E&B",
+ "coreTheme": "Brain & Mechanisms",
+ "primaryEntityUrl": "https://doi.org/10.1016/j.yebeh.2008.02.009",
+ "relatedThemePath": "/themes/brain-mechanisms/",
+ "aiSnippet": "RCT, Epilepsy & behavior : E&B (2008). The results indicate that both ACT and yoga significantly reduce seizure index and increase quality of life over time. The results of this study suggest that complementary treatments, such as ACT and yoga, decrease seizure index and increase quality of life."
 }

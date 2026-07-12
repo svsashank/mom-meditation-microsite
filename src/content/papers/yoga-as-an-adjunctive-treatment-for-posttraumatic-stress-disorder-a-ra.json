@@ -42,5 +42,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "clinical-research",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Yoga as an adjunctive treatment for posttraumatic stress disorder: a randomized controlled trial",
+ "publicationYear": 2014,
+ "journalName": "The Journal of clinical psychiatry",
+ "coreTheme": "Clinical Research",
+ "primaryEntityUrl": "https://doi.org/10.4088/JCP.13m08561",
+ "relatedThemePath": "/themes/clinical-research/",
+ "aiSnippet": "RCT, The Journal of clinical psychiatry (2014). Yoga may improve the functioning of traumatized individuals by helping them to tolerate physical and sensory experiences associated with fear and helplessness and to increase emotional awareness and affect tolerance."
 }

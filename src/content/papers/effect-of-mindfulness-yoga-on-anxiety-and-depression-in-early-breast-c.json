@@ -41,5 +41,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "clinical-research",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Effect of mindfulness yoga on anxiety and depression in early breast cancer patients received adjuvant chemoth",
+ "publicationYear": 2022,
+ "journalName": "Journal of cancer research and clinical oncology",
+ "coreTheme": "Clinical Research",
+ "primaryEntityUrl": "https://doi.org/10.1007/s00432-022-04167-y",
+ "relatedThemePath": "/themes/clinical-research/",
+ "aiSnippet": "RCT, Journal of cancer research and clinical oncology (2022). The objective of this study is to explore the effects of a mindfulness yoga treatment on emotional disorders, fatigue, pain, and health-related quality of life in early-stage breast cancer patients. The eligible 136 participants were randomly assigned 1:1 to the experimental group (mindfulness yoga + conventional care) and the control group (conventional care)."
 }

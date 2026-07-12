@@ -43,5 +43,12 @@
  "nullOrCritical": "null/mixed (F12-verified)",
  "bidmc": false,
  "quoteKey": "stress-anxiety",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Effects of a prenatal mindfulness program on longitudinal changes in stress, anxiety, depression, and mother-i",
+ "publicationYear": 2023,
+ "journalName": "BMC pregnancy and childbirth",
+ "coreTheme": "Stress & Anxiety",
+ "primaryEntityUrl": "https://doi.org/10.1186/s12884-023-05873-2",
+ "relatedThemePath": "/themes/stress-anxiety/",
+ "aiSnippet": "RCT, BMC pregnancy and childbirth (2023). Despite this, there was no significant difference between the groups in terms of the quality of mother-infant bonding."
 }

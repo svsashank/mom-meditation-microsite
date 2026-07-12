@@ -40,5 +40,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "brief-app-based-practice",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "A randomised active-controlled trial to examine the effects of an online mindfulness intervention on executive",
+ "publicationYear": 2018,
+ "journalName": "BMC psychology",
+ "coreTheme": "Brief & App-Based Practice",
+ "primaryEntityUrl": "https://doi.org/10.1186/s40359-018-0226-3",
+ "relatedThemePath": "/themes/brief-app-based-practice/",
+ "aiSnippet": "RCT, BMC psychology (2018). The aim of this study was to test this claim by investigating the effects of an online mindfulness intervention on executive function, critical thinking skills and associated thinking dispositions. However, no significant effects of group allocation were observed for either primary or secondary measures. No evidence was found to suggest that engaging in guided mindfulness practice for 6 weeks using the online intervention method applied in this study improves critical thinking performance."
 }

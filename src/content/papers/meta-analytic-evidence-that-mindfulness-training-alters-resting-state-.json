@@ -43,5 +43,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "brain-mechanisms",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Meta-analytic evidence that mindfulness training alters resting state default mode network connectivity",
+ "publicationYear": 2022,
+ "journalName": "Scientific reports",
+ "coreTheme": "Brain & Mechanisms",
+ "primaryEntityUrl": "https://doi.org/10.1038/s41598-022-15195-6",
+ "relatedThemePath": "/themes/brain-mechanisms/",
+ "aiSnippet": "Meta-analysis / Systematic review, Scientific reports (2022). This meta-analysis sought to expand upon neurobiological models of mindfulness through investigation of inherent brain network connectivity outcomes, indexed via resting state functional connectivity (rsFC). We conducted a systematic review and meta-analysis of rsFC as an outcome of mindfulness training (MT) relative to control, with the hypothesis that MT would increase cross-network connectivity between nodes of the Default Mode Network (DMN), Salience Network (SN), and Frontoparietal Control Network (FPCN) as a mechanism of internally-oriented attentional control."
 }

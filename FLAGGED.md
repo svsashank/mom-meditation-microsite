@@ -167,3 +167,39 @@ wanted, it should be derived from named studies during content review.
 and Google Play badges load from Apple's and Google's official asset URLs. These
 are the real badges but depend on those URLs staying live; consider self-hosting
 the official badge assets before production.
+
+---
+
+## Phase 3d — site-wide architecture (frontmatter, app bar, homepage schema, theme cards)
+
+**F20 (new) — entity links use Wikipedia URLs, not Wikidata QIDs.** The homepage
+`knowsAbout`/`about` schema links Meditation, Mindfulness, and Sadhguru to their
+English Wikipedia pages. I did not add Wikidata Q-identifiers because I could not
+verify the exact QIDs from our own data without guessing; Wikipedia URLs are
+verifiable and sufficient. Add verified Wikidata QIDs later if desired. Per the
+instruction, no entity associations were added for EEG, alpha waves, or other
+neuro-mechanism terms (mirrors F18).
+
+**F21 (new) — AEO snippets exclude authors' speculative benefit sentences.** The
+`ai_snippet` on each research page is built only from the paper's stated findings.
+Because a snippet can be surfaced standalone by an answer engine (without the
+page's disclaimer and transfer-gap note), I additionally drop authors'
+interpretive "…for treating various conditions / foundation for / holds promise"
+sentences and keep the concrete empirical results. This is a claims-discipline
+call (§3): the omitted text is the paper's own, but it over-reaches when quoted
+out of context. Reviewers may restore fuller author conclusions on-page if paired
+with the caveats.
+
+**F22 (note) — "detoxification" appears in one AEO snippet.** The BIDMC genomic
+study's own results name "oxidative stress, detoxification, and cell cycle
+regulation pathways." This is scientific pathway terminology, verbatim from the
+paper — not a wellness "detox" claim — and was retained as the paper's stated
+finding. Flagging only because the word appears on the banned-phrase list in a
+different (wellness) sense.
+
+**F23 (new) — sticky app bar suppression is viewport-heuristic.** The mobile app
+bar hides whenever the disclaimer, limitations, review-flag, or footer is within
+~96px of the viewport bottom (IntersectionObserver + scroll handler), so it never
+covers those elements. On very short viewports where a protected element is
+always in view, the bar stays hidden by design. Verify on-device across a few
+screen sizes before launch.

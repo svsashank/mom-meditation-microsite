@@ -43,5 +43,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "sleep",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "A randomized controlled trial of mindfulness meditation for chronic insomnia",
+ "publicationYear": 2014,
+ "journalName": "Sleep",
+ "coreTheme": "Sleep",
+ "primaryEntityUrl": "https://doi.org/10.5665/sleep.4010",
+ "relatedThemePath": "/themes/sleep/",
+ "aiSnippet": "RCT, Sleep (2014). Post hoc analyses revealed that each intervention was superior to SM on each of the patient-reported measures, but no significant differences were found when comparing MBSR to MBTI from baseline-to-post. Mindfulness meditation appears to be a viable treatment option for adults with chronic insomnia and could provide an alternative to traditional treatments for insomnia."
 }

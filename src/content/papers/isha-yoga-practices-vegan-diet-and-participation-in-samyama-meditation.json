@@ -45,5 +45,12 @@
  "nullOrCritical": "",
  "bidmc": true,
  "quoteKey": "stress-anxiety",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Isha yoga practices, vegan diet, and participation in Samyama meditation retreat: impact on the gut microbiome",
+ "publicationYear": 2023,
+ "journalName": "BMC complementary medicine and therapies",
+ "coreTheme": "Stress & Anxiety",
+ "primaryEntityUrl": "https://doi.org/10.1186/s12906-023-03935-8",
+ "relatedThemePath": "/themes/stress-anxiety/",
+ "aiSnippet": "Cross-sectional / Mechanistic, BMC complementary medicine and therapies (2023). Growing evidence suggests a role for gut bacteria and their metabolites in host-signaling responses along the gut-brain axis which may impact mental health. Alpha diversity showed no significant differences between meditators and controls, while beta diversity showed significant changes (padj = 0.001) after Samyama in meditators' microbiota composition."
 }

@@ -43,5 +43,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "focus-attention",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Improving stress management, anxiety, and mental well-being in medical students through an online Mindfulness-",
+ "publicationYear": 2023,
+ "journalName": "Scientific reports",
+ "coreTheme": "Focus & Attention",
+ "primaryEntityUrl": "https://doi.org/10.1038/s41598-023-35483-z",
+ "relatedThemePath": "/themes/focus-attention/",
+ "aiSnippet": "RCT, Scientific reports (2023). Pressures and responsibilities of medical school put a strain on medical student's personal wellbeing, leading among all to high rates of anxiety, emotional discomfort and stress. In this work we evaluated the effectiveness of a comprehensive Mindfulness-Based Intervention (MBI) in reducing this load."
 }

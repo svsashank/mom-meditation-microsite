@@ -43,5 +43,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "brief-app-based-practice",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Effects of Mobile Mindfulness Meditation on the Mental Health of University Students: Systematic Review and Me",
+ "publicationYear": 2023,
+ "journalName": "Journal of medical Internet research",
+ "coreTheme": "Brief & App-Based Practice",
+ "primaryEntityUrl": "https://doi.org/10.2196/39128",
+ "relatedThemePath": "/themes/brief-app-based-practice/",
+ "aiSnippet": "Meta-analysis / Systematic review, Journal of medical Internet research (2023). The evidence level of the results from the 10 studies was determined to be moderate to low."
 }

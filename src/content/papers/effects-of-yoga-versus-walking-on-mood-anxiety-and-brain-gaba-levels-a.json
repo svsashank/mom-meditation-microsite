@@ -44,5 +44,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "brain-mechanisms",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Effects of yoga versus walking on mood, anxiety, and brain GABA levels: a randomized controlled MRS study",
+ "publicationYear": 2010,
+ "journalName": "Journal of alternative and complementary medicine (New York, N.Y.)",
+ "coreTheme": "Brain & Mechanisms",
+ "primaryEntityUrl": "https://doi.org/10.1089/acm.2010.0007",
+ "relatedThemePath": "/themes/brain-mechanisms/",
+ "aiSnippet": "RCT, Journal of alternative and complementary medicine (New York, N.Y.) (2010). The 12-week yoga intervention was associated with greater improvements in mood and anxiety than a metabolically matched walking exercise. This is the first study to demonstrate that increased thalamic GABA levels are associated with improved mood and decreased anxiety. It is also the first time that a behavioral intervention (i.e., yoga postures) has been associated with a positive correlation between acute increases in thalamic GABA levels and improvements in mood and anxiety scales."
 }

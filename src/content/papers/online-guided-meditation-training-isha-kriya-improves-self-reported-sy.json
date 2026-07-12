@@ -44,5 +44,12 @@
  "nullOrCritical": "",
  "bidmc": true,
  "quoteKey": "stress-anxiety",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Online guided meditation training (Isha Kriya) improves self-reported symptoms of anxiety and depression withi",
+ "publicationYear": 2022,
+ "journalName": "Frontiers in psychiatry",
+ "coreTheme": "Stress & Anxiety",
+ "primaryEntityUrl": "https://doi.org/10.3389/fpsyt.2022.944973",
+ "relatedThemePath": "/themes/stress-anxiety/",
+ "aiSnippet": "RCT, Frontiers in psychiatry (2022). These findings suggest that daily Isha Kriya practice could alleviate symptoms of these conditions."
 }

@@ -43,5 +43,12 @@
  "nullOrCritical": "field-methodology critique",
  "bidmc": false,
  "quoteKey": "brain-mechanisms",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Mind the Hype: A Critical Evaluation and Prescriptive Agenda for Research on Mindfulness and Meditation",
+ "publicationYear": 2018,
+ "journalName": "Perspectives on psychological science : a journal of the Association for Psychological Science",
+ "coreTheme": "Brain & Mechanisms",
+ "primaryEntityUrl": "https://doi.org/10.1177/1745691617709589",
+ "relatedThemePath": "/themes/brain-mechanisms/",
+ "aiSnippet": "Meta-analysis / Systematic review, Perspectives on psychological science : a journal of the Association for Psychological Science (2018). During the past two decades, mindfulness meditation has gone from being a fringe topic of scientific investigation to being an occasional replacement for psychotherapy, tool of corporate well-being, widely implemented educational practice, and \"key to building more resilient soldiers.\" Yet the mindfulness movement and empirical evidence supporting it have not gone without criticism. Misinformation and poor methodology associated with past studies of mindfulness may lead public consumers to be harmed, misled, and disappointed."
 }

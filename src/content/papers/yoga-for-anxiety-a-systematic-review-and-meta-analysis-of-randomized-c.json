@@ -46,5 +46,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "clinical-research",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Yoga for anxiety: A systematic review and meta-analysis of randomized controlled trials",
+ "publicationYear": 2018,
+ "journalName": "Depression and anxiety",
+ "coreTheme": "Clinical Research",
+ "primaryEntityUrl": "https://doi.org/10.1002/da.22762",
+ "relatedThemePath": "/themes/clinical-research/",
+ "aiSnippet": "Meta-analysis / Systematic review, Depression and anxiety (2018). Only three RCTs reported safety-related data but these indicated that yoga was not associated with increased injuries. In conclusion, yoga might be an effective and safe intervention for individuals with elevated levels of anxiety. There was inconclusive evidence for effects of yoga in anxiety disorders."
 }

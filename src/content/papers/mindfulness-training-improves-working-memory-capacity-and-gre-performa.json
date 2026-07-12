@@ -41,5 +41,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "focus-attention",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Mindfulness training improves working memory capacity and GRE performance while reducing mind wandering",
+ "publicationYear": 2013,
+ "journalName": "Psychological science",
+ "coreTheme": "Focus & Attention",
+ "primaryEntityUrl": "https://doi.org/10.1177/0956797612459659",
+ "relatedThemePath": "/themes/focus-attention/",
+ "aiSnippet": "RCT, Psychological science (2013). Our results suggest that cultivating mindfulness is an effective and efficient technique for improving cognitive function, with wide-reaching consequences."
 }

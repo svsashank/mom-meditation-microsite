@@ -41,5 +41,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "brief-app-based-practice",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "EEG based interpretation of human brain activity during yoga and meditation using machine learning: A systemat",
+ "publicationYear": 2021,
+ "journalName": "Complementary therapies in clinical practice",
+ "coreTheme": "Brief & App-Based Practice",
+ "primaryEntityUrl": "https://doi.org/10.1016/j.ctcp.2021.101329",
+ "relatedThemePath": "/themes/brief-app-based-practice/",
+ "aiSnippet": "Meta-analysis / Systematic review, Complementary therapies in clinical practice (2021). Our literature search and review indicate a broad spectrum of neural mechanics under a variety of meditation styles have been investigated."
 }

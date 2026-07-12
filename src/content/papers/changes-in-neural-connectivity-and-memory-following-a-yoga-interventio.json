@@ -43,5 +43,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "brain-mechanisms",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Changes in Neural Connectivity and Memory Following a Yoga Intervention for Older Adults: A Pilot Study",
+ "publicationYear": 2016,
+ "journalName": "Journal of Alzheimer's disease : JAD",
+ "coreTheme": "Brain & Mechanisms",
+ "primaryEntityUrl": "https://doi.org/10.3233/JAD-150653",
+ "relatedThemePath": "/themes/brain-mechanisms/",
+ "aiSnippet": "RCT, Journal of Alzheimer's disease : JAD (2016). No study has explored the effect of yoga on cognitive decline and resting-state functional connectivity. This study explored the relationship between performance on memory tests and resting-state functional connectivity before and after a yoga intervention versus active control for subjects with mild cognitive impairment (MCI)."
 }

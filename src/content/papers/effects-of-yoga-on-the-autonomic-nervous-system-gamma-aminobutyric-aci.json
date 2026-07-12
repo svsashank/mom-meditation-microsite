@@ -42,5 +42,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "brain-mechanisms",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Effects of yoga on the autonomic nervous system, gamma-aminobutyric-acid, and allostasis in epilepsy, depressi",
+ "publicationYear": 2012,
+ "journalName": "Medical hypotheses",
+ "coreTheme": "Brain & Mechanisms",
+ "primaryEntityUrl": "https://doi.org/10.1016/j.mehy.2012.01.021",
+ "relatedThemePath": "/themes/brain-mechanisms/",
+ "aiSnippet": "Cross-sectional / Mechanistic, Medical hypotheses (2012). A theory is proposed to explain the benefits of yoga practices in diverse, frequently comorbid medical conditions based on the concept that yoga practices reduce allostatic load in stress response systems such that optimal homeostasis is restored. It is hypothesized that stress induces (1) imbalance of the autonomic nervous system (ANS) with decreased parasympathetic nervous system (PNS) and increased sympathetic nervous system (SNS) activity, (2) underactivity of the gamma amino-butyric acid (GABA) system, the primary inhibitory neurotransmitter system, and (3) increased allostatic load."
 }

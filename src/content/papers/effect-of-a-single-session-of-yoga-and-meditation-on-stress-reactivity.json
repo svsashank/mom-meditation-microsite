@@ -42,5 +42,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "brief-app-based-practice",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Effect of a single session of yoga and meditation on stress reactivity: A systematic review",
+ "publicationYear": 2024,
+ "journalName": "Stress and health : journal of the International Society for the Investigation of Stress",
+ "coreTheme": "Brief & App-Based Practice",
+ "primaryEntityUrl": "https://doi.org/10.1002/smi.3324",
+ "relatedThemePath": "/themes/brief-app-based-practice/",
+ "aiSnippet": "Meta-analysis / Systematic review, Stress and health : journal of the International Society for the Investigation of Stress (2024). This systematic review synthesises the evidence for the effectiveness of a single session of yoga or its components including meditation and breathing techniques in reducing acute stress reactivity in healthy adults."
 }

@@ -46,5 +46,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "brain-mechanisms",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Yoga Nidra for hypertension: A systematic review and meta-analysis",
+ "publicationYear": 2024,
+ "journalName": "Journal of Ayurveda and integrative medicine",
+ "coreTheme": "Brain & Mechanisms",
+ "primaryEntityUrl": "https://doi.org/10.1016/j.jaim.2023.100882",
+ "relatedThemePath": "/themes/brain-mechanisms/",
+ "aiSnippet": "Meta-analysis / Systematic review, Journal of Ayurveda and integrative medicine (2024). The meta-analysis indicated that YN significantly reduced SBP (WMD = 12.03 mm Hg, 95% CI [7.12, 16.93], Z = 4.80, p < 0.00001) and DBP (WMD = 6.32 mm Hg, 95% CI [3.53, 9.12], Z = 4.43, p < 0.00001) compared to control groups. This systematic review and meta-analysis provides evidence supporting the efficacy of YN as a complementary therapy for hypertension management. This meta-analysis suggests that YN is effective in reducing SBP and DBP, particularly in individuals with hypertension."
 }

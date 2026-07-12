@@ -42,5 +42,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "emotional-wellbeing",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Efficacy of mHealth aided 12-week meditation and breath intervention on change in burnout and professional qua",
+ "publicationYear": 2023,
+ "journalName": "Frontiers in public health",
+ "coreTheme": "Emotional Wellbeing",
+ "primaryEntityUrl": "https://doi.org/10.3389/fpubh.2023.1258330",
+ "relatedThemePath": "/themes/emotional-wellbeing/",
+ "aiSnippet": "RCT, Frontiers in public health (2023). The experimental group ( After 12 weeks, the MBI outcomes of emotional exhaustion, depersonalization, and personal accomplishment showed a highly significant difference between the two groups ( The current study contributes to the existing evidence on the effectiveness of Yoga in managing stress and developing resilience among doctors, nurses, and other medical professionals."
 }

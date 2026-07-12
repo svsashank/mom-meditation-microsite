@@ -46,5 +46,12 @@
  "nullOrCritical": "null/mixed (F12-verified)",
  "bidmc": false,
  "quoteKey": "sleep",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "A systematic review and meta-analysis of workplace mindfulness training randomized controlled trials",
+ "publicationYear": 2019,
+ "journalName": "Journal of occupational health psychology",
+ "coreTheme": "Sleep",
+ "primaryEntityUrl": "https://doi.org/10.1037/ocp0000146",
+ "relatedThemePath": "/themes/sleep/",
+ "aiSnippet": "Meta-analysis / Systematic review, Journal of occupational health psychology (2019). It synthesizes randomized controlled trial evidence from workplace-delivered training for changes in mindfulness, stress, mental health, well-being, and work performance outcomes. Results indicate beneficial effects following training for mindfulness (g = 0.45, p < .001) and stress (g = 0.56, p < .001), anxiety (g = 0.62, p < .001) and psychological distress (g = 0.69, p < .001), and for well-being (g = 0.46, p = .002) and sleep (g = 0.26, p = .003). No conclusions could be drawn from pooled data for burnout due to ambivalence in\u2026"
 }

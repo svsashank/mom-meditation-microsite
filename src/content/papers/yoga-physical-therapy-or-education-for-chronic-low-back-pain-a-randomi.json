@@ -44,5 +44,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "clinical-research",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Yoga, Physical Therapy, or Education for Chronic Low Back Pain: A Randomized Noninferiority Trial",
+ "publicationYear": 2017,
+ "journalName": "Annals of internal medicine",
+ "coreTheme": "Clinical Research",
+ "primaryEntityUrl": "https://doi.org/10.7326/M16-2579",
+ "relatedThemePath": "/themes/clinical-research/",
+ "aiSnippet": "RCT, Annals of internal medicine (2017). Yoga is effective for mild to moderate chronic low back pain (cLBP), but its comparative effectiveness with physical therapy (PT) is unknown. Moreover, little is known about yoga's effectiveness in underserved patients with more severe functional disability and pain."
 }

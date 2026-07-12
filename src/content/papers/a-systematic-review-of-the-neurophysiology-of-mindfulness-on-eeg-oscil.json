@@ -40,5 +40,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "brain-mechanisms",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "A systematic review of the neurophysiology of mindfulness on EEG oscillations",
+ "publicationYear": 2015,
+ "journalName": "Neuroscience and biobehavioral reviews",
+ "coreTheme": "Brain & Mechanisms",
+ "primaryEntityUrl": "https://doi.org/10.1016/j.neubiorev.2015.09.018",
+ "relatedThemePath": "/themes/brain-mechanisms/",
+ "aiSnippet": "Meta-analysis / Systematic review, Neuroscience and biobehavioral reviews (2015). The systematic review revealed that mindfulness was most commonly associated with enhanced alpha and theta power as compared to an eyes closed resting state, although such outcomes were not uniformly reported. In summary, mindfulness is associated with increased alpha and theta power in both healthy individuals and in patient groups."
 }

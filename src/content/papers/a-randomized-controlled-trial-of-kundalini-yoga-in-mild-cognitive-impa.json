@@ -43,5 +43,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "focus-attention",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "A randomized controlled trial of Kundalini yoga in mild cognitive impairment",
+ "publicationYear": 2017,
+ "journalName": "International psychogeriatrics",
+ "coreTheme": "Focus & Attention",
+ "primaryEntityUrl": "https://doi.org/10.1017/S1041610216002155",
+ "relatedThemePath": "/themes/focus-attention/",
+ "aiSnippet": "RCT, International psychogeriatrics (2017). At baseline, 81 participants had no significant baseline group differences in clinical or demographic characteristics."
 }

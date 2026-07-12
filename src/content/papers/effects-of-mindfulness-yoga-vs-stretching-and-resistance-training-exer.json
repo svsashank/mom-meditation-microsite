@@ -43,5 +43,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "emotional-wellbeing",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Effects of Mindfulness Yoga vs Stretching and Resistance Training Exercises on Anxiety and Depression for Peop",
+ "publicationYear": 2019,
+ "journalName": "JAMA neurology",
+ "coreTheme": "Emotional Wellbeing",
+ "primaryEntityUrl": "https://doi.org/10.1001/jamaneurol.2019.0534",
+ "relatedThemePath": "/themes/emotional-wellbeing/",
+ "aiSnippet": "RCT, JAMA neurology (2019). Among patients with mild-to-moderate PD, the mindfulness yoga program was found to be as effective as SRTE in improving motor dysfunction and mobility, with the additional benefits of a reduction in anxiety and depressive symptoms and an increase in spiritual well-being and HRQOL."
 }

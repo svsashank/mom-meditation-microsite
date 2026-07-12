@@ -43,5 +43,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "stress-anxiety",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Cultivating mindfulness: effects on well-being",
+ "publicationYear": 2008,
+ "journalName": "Journal of clinical psychology",
+ "coreTheme": "Stress & Anxiety",
+ "primaryEntityUrl": "https://doi.org/10.1002/jclp.20491",
+ "relatedThemePath": "/themes/stress-anxiety/",
+ "aiSnippet": "RCT, Journal of clinical psychology (2008). The current study offers preliminary evidence that at least one aspect of mindfulness, measured by the Mindful Attention and Awareness Scale (MAAS; K. These results suggest that distinct meditation-based practices can increase mindfulness as measured by the MAAS, which may partly mediate benefits."
 }

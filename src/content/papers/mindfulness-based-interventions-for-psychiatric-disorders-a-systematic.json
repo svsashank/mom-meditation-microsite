@@ -44,5 +44,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "emotional-wellbeing",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Mindfulness-based interventions for psychiatric disorders: A systematic review and meta-analysis",
+ "publicationYear": 2018,
+ "journalName": "Clinical psychology review",
+ "coreTheme": "Emotional Wellbeing",
+ "primaryEntityUrl": "https://doi.org/10.1016/j.cpr.2017.10.011",
+ "relatedThemePath": "/themes/emotional-wellbeing/",
+ "aiSnippet": "Meta-analysis / Systematic review, Clinical psychology review (2018). Mindfulness conditions did not differ from minimal treatment conditions (d=0.38) and evidence-based treatments (d=0.09). Effects on specific disorder subgroups showed the most consistent evidence in support of mindfulness for depression, pain conditions, smoking, and addictive disorders. Results support the notion that mindfulness-based interventions hold promise as evidence-based treatments."
 }

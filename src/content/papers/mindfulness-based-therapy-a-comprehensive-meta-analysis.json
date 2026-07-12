@@ -42,5 +42,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "emotional-wellbeing",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Mindfulness-based therapy: a comprehensive meta-analysis",
+ "publicationYear": 2013,
+ "journalName": "Clinical psychology review",
+ "coreTheme": "Emotional Wellbeing",
+ "primaryEntityUrl": "https://doi.org/10.1016/j.cpr.2013.05.005",
+ "relatedThemePath": "/themes/emotional-wellbeing/",
+ "aiSnippet": "Meta-analysis / Systematic review, Clinical psychology review (2013). Effect-size estimates suggested that MBT is moderately effective in pre-post comparisons (n=72; Hedge's g=.55), in comparisons with waitlist controls (n=67; Hedge's g=.53), and when compared with other active treatments (n=68; Hedge's g=.33), including other psychological treatments (n=35; Hedge's g=.22)."
 }

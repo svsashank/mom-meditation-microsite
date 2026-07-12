@@ -44,5 +44,12 @@
  "nullOrCritical": "",
  "bidmc": true,
  "quoteKey": "stress-anxiety",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Large-scale genomic study reveals robust activation of the immune system following advanced Inner Engineering ",
+ "publicationYear": 2021,
+ "journalName": "Proceedings of the National Academy of Sciences of the United States of America",
+ "coreTheme": "Stress & Anxiety",
+ "primaryEntityUrl": "https://doi.org/10.1073/pnas.2110455118",
+ "relatedThemePath": "/themes/stress-anxiety/",
+ "aiSnippet": "Cross-sectional / Mechanistic, Proceedings of the National Academy of Sciences of the United States of America (2021). We found the response to oxidative stress, detoxification, and cell cycle regulation pathways were down-regulated after meditation. Strikingly, 220 genes directly associated with immune response, including 68 genes related to interferon signaling, were up-regulated, with no significant expression changes in the inflammatory genes."
 }

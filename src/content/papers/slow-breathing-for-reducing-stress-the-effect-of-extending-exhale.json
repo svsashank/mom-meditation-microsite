@@ -43,5 +43,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "stress-anxiety",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Slow breathing for reducing stress: The effect of extending exhale",
+ "publicationYear": 2023,
+ "journalName": "Complementary therapies in medicine",
+ "coreTheme": "Stress & Anxiety",
+ "primaryEntityUrl": "https://doi.org/10.1016/j.ctim.2023.102937",
+ "relatedThemePath": "/themes/stress-anxiety/",
+ "aiSnippet": "RCT, Complementary therapies in medicine (2023). Slow breathing techniques are commonly used to reduce stress. While it is believed by mind-body practitioners that extending the exhale time relative to inhale increases relaxation, this has not been demonstrated."
 }

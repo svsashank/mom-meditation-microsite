@@ -46,5 +46,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "brief-app-based-practice",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "A randomised controlled trial of a brief online mindfulness-based intervention",
+ "publicationYear": 2013,
+ "journalName": "Behaviour research and therapy",
+ "coreTheme": "Brief & App-Based Practice",
+ "primaryEntityUrl": "https://doi.org/10.1016/j.brat.2013.06.003",
+ "relatedThemePath": "/themes/brief-app-based-practice/",
+ "aiSnippet": "RCT, Behaviour research and therapy (2013). There is growing evidence that mindfulness has positive consequences for both psychological and physical health in both clinical and non-clinical populations. Participation in the intervention was associated with significant improvements in all measured domains, where no significant changes on these measures were found for the control group. This provides evidence in support of the feasibility and effectiveness of shorter self-guided mindfulness-based interventions."
 }

@@ -39,5 +39,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "clinical-research",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Randomised controlled trial of yoga and bio-feedback in management of hypertension",
+ "publicationYear": 1975,
+ "journalName": "Lancet (London, England)",
+ "coreTheme": "Clinical Research",
+ "primaryEntityUrl": "https://doi.org/10.1016/s0140-6736(75)90002-1",
+ "relatedThemePath": "/themes/clinical-research/",
+ "aiSnippet": "RCT, Lancet (London, England) (1975). 34 hypertensive patients were assigned at random either to six weeks' treatment by yoga relaxation methods with bio-feedback or to placebo therapy (general relaxation). Both groups showed a reduction in blood-pressure (from 168/100 to 141/84 mm."
 }

@@ -40,5 +40,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "focus-attention",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Reducing Stress with Yoga: A Systematic Review Based on Multimodal Biosignals",
+ "publicationYear": 2023,
+ "journalName": "International journal of yoga",
+ "coreTheme": "Focus & Attention",
+ "primaryEntityUrl": "https://doi.org/10.4103/ijoy.ijoy_218_23",
+ "relatedThemePath": "/themes/focus-attention/",
+ "aiSnippet": "Meta-analysis / Systematic review, International journal of yoga (2023). The multifaceted character of stress and the extensive research undertaken in this field indicate that the proposed approach would rely on multiple modalities."
 }

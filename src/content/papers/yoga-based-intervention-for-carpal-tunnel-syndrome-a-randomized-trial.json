@@ -42,5 +42,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "sleep",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Yoga-based intervention for carpal tunnel syndrome: a randomized trial",
+ "publicationYear": 1998,
+ "journalName": "JAMA",
+ "coreTheme": "Sleep",
+ "primaryEntityUrl": "https://doi.org/10.1001/jama.280.18.1601",
+ "relatedThemePath": "/themes/sleep/",
+ "aiSnippet": "RCT, JAMA (1998). The yoga group had significantly more improvement in Phalen sign (12 improved vs 2 in control group; P = .008), but no significant differences were found in sleep disturbance, Tinel sign, and median nerve motor and sensory conduction time."
 }

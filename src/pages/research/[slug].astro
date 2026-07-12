@@ -11,7 +11,7 @@ const b = import.meta.env.BASE_URL.replace(/\/$/, '');
 const slug = (t)=>t.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
 let quote = null;
 if (d.quoteKey) { try { quote = await getEntry('quotes', d.quoteKey); } catch(e){} }
-const doiUrl = d.doi ? ('https://doi.org/' + d.doi) : null;
+const primaryUrl = d.primaryEntityUrl || (d.doi ? ('https://doi.org/' + d.doi) : null);
 ---
 <Base title={d.headline} description={d.summary}>
   <section>
@@ -20,6 +20,11 @@ const doiUrl = d.doi ? ('https://doi.org/' + d.doi) : null;
     <p><span class="strength">{d.claimStrength}</span></p>
 
     <p class="lede">{d.summary}</p>
+
+    <section id="ai-snippet" aria-label="Key finding summary">
+      <p class="eyebrow">Key finding (summary)</p>
+      <p class="ai-snippet">{d.aiSnippet || d.summary}</p>
+    </section>
 
     {d.bidmc && (
       <p class="bidmc-note">This study is from the Sadhguru Center for a Conscious Planet at Beth Israel Deaconess Medical Center (Harvard-affiliated). The Center discloses that Sadhguru and Isha Foundation play no role in its funding; no institutional endorsement is implied.</p>
@@ -59,8 +64,9 @@ const doiUrl = d.doi ? ('https://doi.org/' + d.doi) : null;
     )}
 
     <h3>Citation</h3>
-    <p style="font-size:15.5px">{d.authors.slice(0,6).join(', ')}{d.authors.length > 6 ? ', et al.' : ''} <em>{d.title}.</em> {d.journal}. {d.year}. {doiUrl && (<a href={doiUrl}>{d.doi}</a>)}</p>
+    <p style="font-size:15.5px">{d.authors.slice(0,6).join(', ')}{d.authors.length > 6 ? ', et al.' : ''} <em>{d.title}.</em> {d.journal}. {d.year}. {primaryUrl && (<a href={primaryUrl}>{d.doi || 'source record'}</a>)}</p>
     <p>{d.allThemes.map(t => <a class="tag" href={b + '/themes/' + slug(t) + '/'}>{t}</a>)}</p>
+    <p class="related-theme"><a href={b + (d.relatedThemePath || ('/themes/' + slug(d.theme) + '/'))}>Read more {d.theme} research on the theme hub →</a></p>
 
     <div class="cta">
       <h3>Try the practice</h3>

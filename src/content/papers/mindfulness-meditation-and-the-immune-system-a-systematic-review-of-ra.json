@@ -41,5 +41,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "emotional-wellbeing",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Mindfulness meditation and the immune system: a systematic review of randomized controlled trials",
+ "publicationYear": 2016,
+ "journalName": "Annals of the New York Academy of Sciences",
+ "coreTheme": "Emotional Wellbeing",
+ "primaryEntityUrl": "https://doi.org/10.1111/nyas.12998",
+ "relatedThemePath": "/themes/emotional-wellbeing/",
+ "aiSnippet": "Meta-analysis / Systematic review, Annals of the New York Academy of Sciences (2016). The findings suggest possible effects of mindfulness meditation on specific markers of inflammation, cell-mediated immunity, and biological aging, but these results are tentative and require further replication. On the basis of this analysis, we describe the limitations of existing work and suggest possible avenues for future research."
 }

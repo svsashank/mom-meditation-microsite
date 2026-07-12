@@ -42,5 +42,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "clinical-research",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Yoga, mindfulness-based stress reduction and stress-related physiological measures: A meta-analysis",
+ "publicationYear": 2017,
+ "journalName": "Psychoneuroendocrinology",
+ "coreTheme": "Clinical Research",
+ "primaryEntityUrl": "https://doi.org/10.1016/j.psyneuen.2017.08.008",
+ "relatedThemePath": "/themes/clinical-research/",
+ "aiSnippet": "Meta-analysis / Systematic review, Psychoneuroendocrinology (2017). Interventions that included yoga asanas were associated with reduced evening cortisol, waking cortisol, ambulatory systolic blood pressure, resting heart rate, high frequency heart rate variability, fasting blood glucose, cholesterol and low density lipoprotein, compared to active control. Practices that include yoga asanas appear to be associated with improved regulation of the sympathetic nervous system and hypothalamic-pituitary-adrenal system in various populations."
 }

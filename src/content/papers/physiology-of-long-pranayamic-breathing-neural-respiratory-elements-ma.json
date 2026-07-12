@@ -40,5 +40,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "brain-mechanisms",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Physiology of long pranayamic breathing: neural respiratory elements may provide a mechanism that explains how",
+ "publicationYear": 2006,
+ "journalName": "Medical hypotheses",
+ "coreTheme": "Brain & Mechanisms",
+ "primaryEntityUrl": "https://doi.org/10.1016/j.mehy.2006.02.042",
+ "relatedThemePath": "/themes/brain-mechanisms/",
+ "aiSnippet": "Cross-sectional / Mechanistic, Medical hypotheses (2006). Both inhibitory impulses and hyperpolarization current are known to synchronize neural elements leading to the modulation of the nervous system and decreased metabolic activity indicative of the parasympathetic state."
 }

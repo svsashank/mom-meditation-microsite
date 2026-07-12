@@ -45,5 +45,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "clinical-research",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Yoga for treating low back pain: a systematic review and meta-analysis",
+ "publicationYear": 2022,
+ "journalName": "Pain",
+ "coreTheme": "Clinical Research",
+ "primaryEntityUrl": "https://doi.org/10.1097/j.pain.0000000000002416",
+ "relatedThemePath": "/themes/clinical-research/",
+ "aiSnippet": "Meta-analysis / Systematic review, Pain (2022). However, the evidence was judged to be of only low to moderate certainty. Compared with passive control, yoga was associated with short-term improvements in pain intensity (15 RCTs; mean difference [MD] = -0.74 points on a numeric rating scale; 95% confidence interval [CI] = -1.04 to -0.44; standardized mean difference [SMD] = -0.37 95% CI = -0.52 to -0.22), pain-related disability (15 RCTs; MD = -2.28; 95% CI = -3.30 to -1.26; SMD = -0.38 95% CI = -0.55 to -0.21), mental health (7 RCTs; MD = 1.70; 95% CI = 0.20-3.20; SMD =\u2026"
 }

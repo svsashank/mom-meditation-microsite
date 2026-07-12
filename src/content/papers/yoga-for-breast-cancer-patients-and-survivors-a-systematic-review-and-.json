@@ -45,5 +45,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "stress-anxiety",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Yoga for breast cancer patients and survivors: a systematic review and meta-analysis",
+ "publicationYear": 2012,
+ "journalName": "BMC cancer",
+ "coreTheme": "Stress & Anxiety",
+ "primaryEntityUrl": "https://doi.org/10.1186/1471-2407-12-412",
+ "relatedThemePath": "/themes/stress-anxiety/",
+ "aiSnippet": "Meta-analysis / Systematic review, BMC cancer (2012). Short-term effects on psychological health also were found: anxiety (SMD = -1.51 [95% CI: -2.47; -0.55]; P < 0.01), depression (SMD = -1.59 [95% CI: -2.68 to -0.51]; P < 0.01), perceived stress (SMD = -1.14 [95% CI:-2.16; -0.12]; P = 0.03), and psychological distress (SMD = -0.86 [95% CI:-1.50; -0.22]; P < 0.01). Subgroup analyses revealed evidence of efficacy only for yoga during active cancer treatment but not after completion of active treatment. This systematic review found evidence for short-term effects of yoga in improving psychological health in breast cancer patients."
 }

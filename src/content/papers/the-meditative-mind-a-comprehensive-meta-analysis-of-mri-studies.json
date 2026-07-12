@@ -41,5 +41,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "brain-mechanisms",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "The Meditative Mind: A Comprehensive Meta-Analysis of MRI Studies",
+ "publicationYear": 2015,
+ "journalName": "BioMed research international",
+ "coreTheme": "Brain & Mechanisms",
+ "primaryEntityUrl": "https://doi.org/10.1155/2015/419808",
+ "relatedThemePath": "/themes/brain-mechanisms/",
+ "aiSnippet": "Meta-analysis / Systematic review, BioMed research international (2015). The large amount of data collected thus far allows drawing some conclusions about the neural effects of meditation practice. Results indicate that meditation leads to activation in brain areas involved in processing self-relevant information, self-regulation, focused problem-solving, adaptive behavior, and interoception. These results demonstrate that a biological substrate underlies the positive pervasive effect of meditation practice and suggest that meditation techniques could be adopted in clinical populations and to prevent disease."
 }

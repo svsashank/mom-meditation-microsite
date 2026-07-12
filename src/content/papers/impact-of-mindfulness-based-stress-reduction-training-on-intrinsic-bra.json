@@ -44,5 +44,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "stress-anxiety",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Impact of Mindfulness-Based Stress Reduction training on intrinsic brain connectivity",
+ "publicationYear": 2011,
+ "journalName": "NeuroImage",
+ "coreTheme": "Stress & Anxiety",
+ "primaryEntityUrl": "https://doi.org/10.1016/j.neuroimage.2011.02.034",
+ "relatedThemePath": "/themes/stress-anxiety/",
+ "aiSnippet": "RCT, NeuroImage (2011). Significant MBSR-related differences in functional connectivity were found mainly in auditory/salience and medial visual networks. Relative to findings in the control group, MBSR subjects showed (1) increased functional connectivity within auditory and visual networks, (2) increased functional connectivity between auditory cortex and areas associated with attentional and self-referential processes, (3) stronger anticorrelation between auditory and visual cortex, and (4) stronger anticorrelation between visual cortex and areas associated with attentional and self-referential processes. These findings suggest that 8 weeks of mindfulness meditation training alters intrinsic functional connectivity in ways that may reflect a more consistent attentional focus, enhanced\u2026"
 }

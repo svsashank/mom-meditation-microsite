@@ -46,5 +46,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "sleep",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Yoga for improving health-related quality of life, mental health and cancer-related symptoms in women diagnose",
+ "publicationYear": 2017,
+ "journalName": "The Cochrane database of systematic reviews",
+ "coreTheme": "Sleep",
+ "primaryEntityUrl": "https://doi.org/10.1002/14651858.CD010802.pub2",
+ "relatedThemePath": "/themes/sleep/",
+ "aiSnippet": "Meta-analysis / Systematic review, The Cochrane database of systematic reviews (2017). No trial adequately reported safety-related data.Three studies that compared yoga versus exercise presented very low-quality evidence showing no short-term effects on health-related quality of life (pooled SMD -0.04, 95% CI -0.30 to 0.23; three studies, 233 participants) or fatigue (pooled SMD -0.21, 95% CI -0.66 to 0.25; three studies, 233 participants); no trial provided safety-related data. Moderate-quality evidence supports the recommendation of yoga as a supportive intervention for improving health-related quality of life and reducing fatigue and sleep disturbances when compared with no therapy, as well as for reducing\u2026"
 }

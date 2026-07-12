@@ -42,5 +42,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "emotional-wellbeing",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Neurobiological Changes Induced by Mindfulness and Meditation: A Systematic Review",
+ "publicationYear": 2024,
+ "journalName": "Biomedicines",
+ "coreTheme": "Emotional Wellbeing",
+ "primaryEntityUrl": "https://doi.org/10.3390/biomedicines12112613",
+ "relatedThemePath": "/themes/emotional-wellbeing/",
+ "aiSnippet": "Meta-analysis / Systematic review, Biomedicines (2024). A meta-analysis / systematic review of mindfulness / meditation examined emotional wellbeing."
 }

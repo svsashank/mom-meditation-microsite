@@ -40,5 +40,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "stress-anxiety",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "The Clinical Efficacy of Mindfulness-Based Treatments for Alcohol and Drugs Use Disorders: A Meta-Analytic Rev",
+ "publicationYear": 2018,
+ "journalName": "European addiction research",
+ "coreTheme": "Stress & Anxiety",
+ "primaryEntityUrl": "https://doi.org/10.1159/000490762",
+ "relatedThemePath": "/themes/stress-anxiety/",
+ "aiSnippet": "Meta-analysis / Systematic review, European addiction research (2018). Large effect sizes were associated to levels of perceived craving, negative affectivity, and post-traumatic symptoms."
 }

@@ -44,5 +44,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "sleep",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "The effect of yoga on sleep quality and insomnia in women with sleep problems: a systematic review and meta-an",
+ "publicationYear": 2020,
+ "journalName": "BMC psychiatry",
+ "coreTheme": "Sleep",
+ "primaryEntityUrl": "https://doi.org/10.1186/s12888-020-02566-4",
+ "relatedThemePath": "/themes/sleep/",
+ "aiSnippet": "Meta-analysis / Systematic review, BMC psychiatry (2020). Four RCTs revealed no evidence for the effects of yoga compared with the control group in improving the sleep quality for peri/postmenopausal women using PSQI (SMD = - 0.31; 95% CI = - 0.95 to 0.33; P = 0.34). Yoga was not associated with any serious adverse events. The moderator analyses suggest that participants in the non-breast cancer subgroup and participants in the non-peri/postmenopausal subgroup were associated with greater benefits, with a direct correlation of total class time with quality of sleep among other related benefits."
 }

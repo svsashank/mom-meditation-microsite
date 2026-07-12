@@ -41,5 +41,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "sleep",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Effects of mind-body exercise on perimenopausal and postmenopausal women: a systematic review and meta-analysi",
+ "publicationYear": 2024,
+ "journalName": "Menopause (New York, N.Y.)",
+ "coreTheme": "Sleep",
+ "primaryEntityUrl": "https://doi.org/10.1097/GME.0000000000002336",
+ "relatedThemePath": "/themes/sleep/",
+ "aiSnippet": "Meta-analysis / Systematic review, Menopause (New York, N.Y.) (2024). Traditional meta-analysis indicated that mind-body exercise significantly enhanced bone mineral density in perimenopausal and postmenopausal women compared with control groups, with a standardized mean difference (SMD) of 0.41 (95% CI, 0.17 to 0.66; P = 0.001, I2 = 7%)."
 }

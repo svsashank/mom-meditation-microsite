@@ -41,5 +41,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "focus-attention",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Mindfulness-based stress reduction for stress management in healthy people: a review and meta-analysis",
+ "publicationYear": 2009,
+ "journalName": "Journal of alternative and complementary medicine (New York, N.Y.)",
+ "coreTheme": "Focus & Attention",
+ "primaryEntityUrl": "https://doi.org/10.1089/acm.2008.0495",
+ "relatedThemePath": "/themes/focus-attention/",
+ "aiSnippet": "Meta-analysis / Systematic review, Journal of alternative and complementary medicine (New York, N.Y.) (2009). The aim of the present review and meta-analysis is to better investigate current evidence about the efficacy of MBSR in healthy subjects, with a particular focus on its benefits for stress reduction. A direct comparison study between MBSR and standard relaxation training found that both treatments were equally able to reduce stress. However, important limitations of the included studies as well as the paucity of evidence about possible specific effects of MBSR in comparison to other nonspecific treatments underline the necessity of further research."
 }

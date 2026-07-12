@@ -35,6 +35,14 @@ const papers = defineCollection({
     bidmc: z.boolean().optional().default(false),
     quoteKey: z.string().optional().default(''),   // -> quotes collection
     editorialReview: z.boolean().optional().default(true),
+    // --- Canonical frontmatter template fields (site-wide standard) ---
+    simplifiedTitle: z.string().optional().default(''),
+    publicationYear: z.number().optional(),
+    journalName: z.string().optional().default(''),
+    coreTheme: z.string().optional().default(''),
+    primaryEntityUrl: z.string().optional().default(''),
+    relatedThemePath: z.string().optional().default(''),
+    aiSnippet: z.string().optional().default(''),
   }),
 });
 

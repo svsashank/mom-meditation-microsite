@@ -42,5 +42,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "clinical-research",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Effects of Breathing Exercises in Patients With Chronic Obstructive Pulmonary Disease: A Network Meta-analysis",
+ "publicationYear": 2024,
+ "journalName": "Archives of physical medicine and rehabilitation",
+ "coreTheme": "Clinical Research",
+ "primaryEntityUrl": "https://doi.org/10.1016/j.apmr.2023.04.014",
+ "relatedThemePath": "/themes/clinical-research/",
+ "aiSnippet": "Meta-analysis / Systematic review, Archives of physical medicine and rehabilitation (2024). A network meta-analysis of randomized controlled trials (RCTs) was conducted to compare and rank the effectiveness of various breathing exercises for patients with chronic obstructive pulmonary disease (COPD). We searched PubMed, Web of Science, Embase, and the Cochrane Library databases to determine the articles."
 }

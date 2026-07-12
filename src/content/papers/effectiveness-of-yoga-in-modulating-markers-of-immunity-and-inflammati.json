@@ -44,5 +44,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "brain-mechanisms",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Effectiveness of Yoga in Modulating Markers of Immunity and Inflammation: A Systematic Review and Meta-Analysi",
+ "publicationYear": 2024,
+ "journalName": "Cureus",
+ "coreTheme": "Brain & Mechanisms",
+ "primaryEntityUrl": "https://doi.org/10.7759/cureus.57541",
+ "relatedThemePath": "/themes/brain-mechanisms/",
+ "aiSnippet": "Cross-sectional / Mechanistic, Cureus (2024). Chronic inflammation is central to the pathogenesis of many chronic inflammatory conditions. This review aims to analyze whether the practice of yoga, or yogic meditation and breathing, has any effect on the levels of inflammatory cytokines and other inflammatory markers in patients with various chronic inflammatory diseases such as rheumatoid arthritis, neoplastic disorders, and asthma, as well as in healthy subjects, compared to usual care or sham interventions."
 }

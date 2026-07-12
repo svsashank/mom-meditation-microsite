@@ -41,5 +41,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "focus-attention",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "The potential effects of meditation on age-related cognitive decline: a systematic review",
+ "publicationYear": 2014,
+ "journalName": "Annals of the New York Academy of Sciences",
+ "coreTheme": "Focus & Attention",
+ "primaryEntityUrl": "https://doi.org/10.1111/nyas.12348",
+ "relatedThemePath": "/themes/focus-attention/",
+ "aiSnippet": "Meta-analysis / Systematic review, Annals of the New York Academy of Sciences (2014). Growing evidence suggests that cognitive training programs may have the potential to counteract this decline. We conclude that meditation interventions for older adults are feasible, and preliminary evidence suggests that meditation can offset age-related cognitive decline."
 }

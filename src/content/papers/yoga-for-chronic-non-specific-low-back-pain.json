@@ -46,5 +46,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "emotional-wellbeing",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Yoga for chronic non-specific low back pain",
+ "publicationYear": 2022,
+ "journalName": "The Cochrane database of systematic reviews",
+ "coreTheme": "Emotional Wellbeing",
+ "primaryEntityUrl": "https://doi.org/10.1002/14651858.CD010671.pub3",
+ "relatedThemePath": "/themes/emotional-wellbeing/",
+ "aiSnippet": "Meta-analysis / Systematic review, The Cochrane database of systematic reviews (2022). Low-certainty evidence from five trials showed that there was little or no difference between yoga and exercise in the risk of adverse events at six to 12 months (RR 0.93, 95% CI 0.56 to 1.53; 84/1000 with yoga and 91/1000 with non-yoga exercise; 640 participants). There is low- to moderate-certainty evidence that yoga compared to no exercise results in small and clinically unimportant improvements in back-related function and pain. Yoga is associated with more adverse events than no exercise, but may have the same risk of adverse events as\u2026"
 }

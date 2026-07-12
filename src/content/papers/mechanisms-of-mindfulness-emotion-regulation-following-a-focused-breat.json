@@ -39,5 +39,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "emotional-wellbeing",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Mechanisms of mindfulness: emotion regulation following a focused breathing induction",
+ "publicationYear": 2006,
+ "journalName": "Behaviour research and therapy",
+ "coreTheme": "Emotional Wellbeing",
+ "primaryEntityUrl": "https://doi.org/10.1016/j.brat.2005.12.007",
+ "relatedThemePath": "/themes/emotional-wellbeing/",
+ "aiSnippet": "RCT, Behaviour research and therapy (2006). The current study investigated whether a 15 min recorded focused breathing induction in a normal, primarily undergraduate population would decrease the intensity and negativity of emotional responses to affectively valenced picture slides and increase willingness to remain in contact with aversive picture slides. The effects of the focused breathing induction were compared with the effects of 15 min recorded inductions of unfocused attention and worrying."
 }

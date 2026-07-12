@@ -32,5 +32,50 @@ const nav = [
     <p>Informational resource on meditation research from the Miracle of Mind. Not medical advice.</p>
     <p>Science summaries are drawn from peer-reviewed literature; Sadhguru's words are presented as perspective, sourced separately. See the <a href={base + '/methodology/'}>methodology</a>.</p>
   </div></footer>
+
+  <!-- Global sticky mobile app bar (<768px). OS-aware. Auto-hides so it never
+       covers the medical disclaimer, limitations, or draft-review flag. -->
+  <div class="app-bar" id="appBar" hidden>
+    <span class="app-bar-msg">Practice the science in 7 mins</span>
+    <a class="app-bar-cta" id="appBarCta" href={base + '/practice/'} rel="noopener">Open App</a>
+  </div>
+  <script is:inline define:vars={{ base }}>
+    (function(){
+      var bar=document.getElementById('appBar'); if(!bar) return;
+      var cta=document.getElementById('appBarCta');
+      var ua=navigator.userAgent||'';
+      var ios=/iPad|iPhone|iPod/.test(ua)||(navigator.platform==='MacIntel'&&navigator.maxTouchPoints>1);
+      var android=/Android/.test(ua);
+      if(ios){cta.href='https://apps.apple.com/us/app/miracle-of-mind-sadhguru/id6737795677';}
+      else if(android){cta.href='https://play.google.com/store/apps/details?id=org.sadhguru.miracleofmind';}
+      else {cta.href=base.replace(/\/$/,'')+'/practice/';}
+      function isMobile(){return window.matchMedia('(max-width:767px)').matches;}
+      var protectedEls=[].slice.call(document.querySelectorAll('.disclaimer, .limitations, .review-flag, footer.site'));
+      function anyProtectedInView(){
+        return protectedEls.some(function(el){
+          var r=el.getBoundingClientRect();
+          return r.top < window.innerHeight && r.bottom > (window.innerHeight-96);
+        });
+      }
+      var lastY=window.scrollY, revealed=false;
+      function update(){
+        if(!isMobile()){bar.hidden=true;return;}
+        if(anyProtectedInView()){bar.hidden=true;return;}   // never cover protected elements
+        bar.hidden=!revealed;
+      }
+      if('IntersectionObserver' in window){
+        var io=new IntersectionObserver(function(){update();},{root:null,threshold:0});
+        protectedEls.forEach(function(el){io.observe(el);});
+      }
+      window.addEventListener('scroll',function(){
+        var y=window.scrollY;
+        if(y>140 && y>=lastY) revealed=true;
+        else if(y<80) revealed=false;
+        lastY=y; update();
+      },{passive:true});
+      window.addEventListener('resize',update,{passive:true});
+      update();
+    })();
+  </script>
 </body>
 </html>

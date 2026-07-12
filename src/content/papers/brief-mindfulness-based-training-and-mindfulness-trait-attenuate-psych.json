@@ -42,5 +42,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "stress-anxiety",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Brief mindfulness-based training and mindfulness trait attenuate psychological stress in university students: ",
+ "publicationYear": 2021,
+ "journalName": "BMC psychology",
+ "coreTheme": "Stress & Anxiety",
+ "primaryEntityUrl": "https://doi.org/10.1186/s40359-021-00520-x",
+ "relatedThemePath": "/themes/stress-anxiety/",
+ "aiSnippet": "RCT, BMC psychology (2021). We found that High Trait individuals have lower anxiety trait, anxiety state and perceived stress levels. Both groups reduced negative affect and cortisol, and no change was found in positive affect. Together, these results suggest that higher trait mindfulness is associated with low levels of psychological distress and that a brief mindfulness-based intervention seems to be useful to reduce distress measures in university students."
 }

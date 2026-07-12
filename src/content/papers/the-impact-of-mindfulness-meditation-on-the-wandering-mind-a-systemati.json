@@ -44,5 +44,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "brain-mechanisms",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "The Impact of Mindfulness Meditation on the Wandering Mind: a Systematic Review",
+ "publicationYear": 2021,
+ "journalName": "Neuroscience and biobehavioral reviews",
+ "coreTheme": "Brain & Mechanisms",
+ "primaryEntityUrl": "https://doi.org/10.1016/j.neubiorev.2021.09.032",
+ "relatedThemePath": "/themes/brain-mechanisms/",
+ "aiSnippet": "Meta-analysis / Systematic review, Neuroscience and biobehavioral reviews (2021). Through the practice of Mindfulness Meditation (MM), meditators become familiar with the observation of ongoing spontaneous thoughts, while maintaining an attitude of openness and equanimity. The aim of this systematic review is to present a synthesis of available findings of the short and long-term effects of MM on mind wandering (MW)."
 }

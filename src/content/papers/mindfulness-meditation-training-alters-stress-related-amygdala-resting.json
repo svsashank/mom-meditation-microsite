@@ -44,5 +44,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "brief-app-based-practice",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Mindfulness meditation training alters stress-related amygdala resting state functional connectivity: a random",
+ "publicationYear": 2015,
+ "journalName": "Social cognitive and affective neuroscience",
+ "coreTheme": "Brief & App-Based Practice",
+ "primaryEntityUrl": "https://doi.org/10.1093/scan/nsv066",
+ "relatedThemePath": "/themes/brief-app-based-practice/",
+ "aiSnippet": "RCT, Social cognitive and affective neuroscience (2015). Recent studies indicate that mindfulness meditation training interventions reduce stress and improve stress-related health outcomes, but the neural pathways for these effects are unknown. We show in an initial discovery study that higher perceived stress over the past month is associated with greater bilateral amygdala-subgenual anterior cingulate cortex (sgACC) rsFC in a sample of community adults (n = 130). This work provides an initial indication that mindfulness meditation training promotes functional neuroplastic changes, suggesting an amygdala-sgACC pathway for stress reduction effects."
 }

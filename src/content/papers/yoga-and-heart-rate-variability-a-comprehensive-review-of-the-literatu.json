@@ -41,5 +41,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "brain-mechanisms",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Yoga and heart rate variability: A comprehensive review of the literature",
+ "publicationYear": 2016,
+ "journalName": "International journal of yoga",
+ "coreTheme": "Brain & Mechanisms",
+ "primaryEntityUrl": "https://doi.org/10.4103/0973-6131.183712",
+ "relatedThemePath": "/themes/brain-mechanisms/",
+ "aiSnippet": "RCT, International journal of yoga (2016). The reviewed studies suggest that yoga can affect cardiac autonomic regulation with increased HRV and vagal dominance during yoga practices. Regular yoga practitioners were also found to have increased vagal tone at rest compared to non-yoga practitioners. It is premature to draw any firm conclusions about yoga and HRV as most studies were of poor quality, with small sample sizes and insufficient reporting of study design and statistical methods."
 }

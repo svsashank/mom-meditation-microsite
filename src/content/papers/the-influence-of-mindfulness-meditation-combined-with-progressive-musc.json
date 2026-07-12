@@ -43,5 +43,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "brain-mechanisms",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "The influence of mindfulness meditation combined with progressive muscle relaxation training on the clinical e",
+ "publicationYear": 2024,
+ "journalName": "BMC complementary medicine and therapies",
+ "coreTheme": "Brain & Mechanisms",
+ "primaryEntityUrl": "https://doi.org/10.1186/s12906-024-04485-3",
+ "relatedThemePath": "/themes/brain-mechanisms/",
+ "aiSnippet": "RCT, BMC complementary medicine and therapies (2024). There were no significant differences in the baseline values of various parameters between the two groups."
 }

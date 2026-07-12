@@ -44,5 +44,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "focus-attention",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "The Effect of Mindfulness-based Programs on Cognitive Function in Adults: A Systematic Review and Meta-analysi",
+ "publicationYear": 2022,
+ "journalName": "Neuropsychology review",
+ "coreTheme": "Focus & Attention",
+ "primaryEntityUrl": "https://doi.org/10.1007/s11065-021-09519-y",
+ "relatedThemePath": "/themes/focus-attention/",
+ "aiSnippet": "Meta-analysis / Systematic review, Neuropsychology review (2022). Mindfulness-based programs (MBPs) are increasingly utilized to improve mental health. Interest in the putative effects of MBPs on cognitive function is also growing."
 }

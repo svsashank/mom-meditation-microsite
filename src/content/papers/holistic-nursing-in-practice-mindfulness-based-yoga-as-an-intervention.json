@@ -42,5 +42,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "sleep",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Holistic Nursing in Practice: Mindfulness-Based Yoga as an Intervention to Manage Stress and Burnout",
+ "publicationYear": 2021,
+ "journalName": "Journal of holistic nursing : official journal of the American Holistic Nurses' Association",
+ "coreTheme": "Sleep",
+ "primaryEntityUrl": "https://doi.org/10.1177/0898010120921587",
+ "relatedThemePath": "/themes/sleep/",
+ "aiSnippet": "RCT, Journal of holistic nursing : official journal of the American Holistic Nurses' Association (2021). Effects of a mindfulness-based (MB) yoga practice on stress, burnout, and indicators of well-being among nurses and health care professionals (HCPs)."
 }

@@ -40,5 +40,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "emotional-wellbeing",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "The Practice of Hatha Yoga for the Treatment of Pain Associated with Endometriosis",
+ "publicationYear": 2017,
+ "journalName": "Journal of alternative and complementary medicine (New York, N.Y.)",
+ "coreTheme": "Emotional Wellbeing",
+ "primaryEntityUrl": "https://doi.org/10.1089/acm.2015.0343",
+ "relatedThemePath": "/themes/emotional-wellbeing/",
+ "aiSnippet": "RCT, Journal of alternative and complementary medicine (New York, N.Y.) (2017). There was no significant difference between the two groups regarding the diary of menstrual patterns (p = 0.96). Yoga practice was associated with a reduction in levels of chronic pelvic pain and an improvement in QoL in women with endometriosis."
 }

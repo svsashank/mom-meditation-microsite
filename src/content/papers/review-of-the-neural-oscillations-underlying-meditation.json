@@ -41,5 +41,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "brain-mechanisms",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Review of the Neural Oscillations Underlying Meditation",
+ "publicationYear": 2018,
+ "journalName": "Frontiers in neuroscience",
+ "coreTheme": "Brain & Mechanisms",
+ "primaryEntityUrl": "https://doi.org/10.3389/fnins.2018.00178",
+ "relatedThemePath": "/themes/brain-mechanisms/",
+ "aiSnippet": "Meta-analysis / Systematic review, Frontiers in neuroscience (2018). A meta-analysis / systematic review of mindfulness / meditation examined brain & mechanisms."
 }

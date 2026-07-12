@@ -273,3 +273,37 @@ medical/scientific review. Not for public distribution."
 build type; the deploy-staging workflow built and published the site. Live at
 https://svsashank.github.io/mom-meditation-microsite/ . This is staging only — no
 production or custom-domain deploy, consistent with §7/§11.
+
+---
+
+## Phase 3d — Site-wide architecture improvements
+
+**D16. Canonical research-page frontmatter template + retrofit.** Documented the
+standard in `src/content/papers/_TEMPLATE.md` and added the canonical fields
+(`simplifiedTitle`, `publicationYear`, `journalName`, `coreTheme`,
+`primaryEntityUrl`, `relatedThemePath`, `aiSnippet`) to the schema and to all 100
+paper files. `primaryEntityUrl` = DOI (fallback PubMed). No `app_deep_link` field:
+per instruction, pages link only to the general `/practice/` page — a study's
+findings are not executed or embodied by the app. Each page now renders a
+semantic `<section id="ai-snippet">` ≤100-word summary built only from the paper's
+own findings (see F21).
+
+**D17. Global sticky mobile app bar (<768px), OS-aware, non-obstructing.** Bottom
+bar "Practice the science in 7 mins" + Open App; routes to the iOS App Store on
+iOS, Google Play on Android, else the practice page. It hides whenever the medical
+disclaimer, limitations section, draft-review flag, or footer is near the viewport
+bottom, and reveals only after scrolling down past the hero — so those elements
+are never covered (see F23). Desktop unaffected.
+
+**D18. Homepage schema: Organization + WebSite (not medical).** Added JSON-LD for
+`Organization` and `WebSite` (with `WebSite.hasPart` referencing all 7 theme
+hubs). Deliberately NOT MedicalOrganization/MedicalBusiness — we are not a medical
+provider. `knowsAbout`/`about` link only Meditation, Mindfulness, and Sadhguru
+(Wikipedia); no neuro-mechanism entities were added (F18/F20).
+
+**D19. Theme cards rewritten with exact tallies.** The 7 homepage cards now carry
+specific 15–20 word keyword-rich snippets and descriptive anchor text
+("Explore N {theme} studies →"). Every number is inserted from the live
+PAPERS-100 tally — verified equal to the dataset per theme (e.g. Stress & Anxiety
+20 total / 12 RCTs / 5 reviews; Brain & Mechanisms 20 total / 4 mechanistic /
+9 RCTs / 7 reviews). No rounding.

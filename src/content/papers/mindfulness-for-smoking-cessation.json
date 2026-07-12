@@ -44,5 +44,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "focus-attention",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Mindfulness for smoking cessation",
+ "publicationYear": 2022,
+ "journalName": "The Cochrane database of systematic reviews",
+ "coreTheme": "Focus & Attention",
+ "primaryEntityUrl": "https://doi.org/10.1002/14651858.CD013696.pub2",
+ "relatedThemePath": "/themes/focus-attention/",
+ "aiSnippet": "Meta-analysis / Systematic review, The Cochrane database of systematic reviews (2022). However, the evidence was of low and very low certainty due to risk of bias, inconsistency, and imprecision, meaning future evidence may very likely change our interpretation of the results."
 }

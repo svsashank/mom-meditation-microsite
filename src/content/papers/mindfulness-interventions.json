@@ -37,5 +37,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "focus-attention",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Mindfulness Interventions",
+ "publicationYear": 2017,
+ "journalName": "Annual review of psychology",
+ "coreTheme": "Focus & Attention",
+ "primaryEntityUrl": "https://doi.org/10.1146/annurev-psych-042716-051139",
+ "relatedThemePath": "/themes/focus-attention/",
+ "aiSnippet": "RCT, Annual review of psychology (2017). This article evaluates the growing evidence of mindfulness intervention RCTs by reviewing and discussing (a) the effects of mindfulness interventions on health, cognitive, affective, and interpersonal outcomes; (b) evidence-based applications of mindfulness interventions to new settings and populations (e.g., the workplace, military, schools); (c) psychological and neurobiological mechanisms of mindfulness interventions; (d) mindfulness intervention dosing considerations; and (e) potential risks of mindfulness interventions."
 }

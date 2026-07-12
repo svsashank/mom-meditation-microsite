@@ -43,5 +43,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "focus-attention",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Cognitive and immunological effects of yoga compared to memory training in older women at risk for alzheimer's",
+ "publicationYear": 2024,
+ "journalName": "Translational psychiatry",
+ "coreTheme": "Focus & Attention",
+ "primaryEntityUrl": "https://doi.org/10.1038/s41398-024-02807-0",
+ "relatedThemePath": "/themes/focus-attention/",
+ "aiSnippet": "RCT, Translational psychiatry (2024). KYOn a transcriptional level, at 12- and 24-week follow-up, KY uniquely altered aging-associated signatures, including interferon gamma and other psycho-neuro-immune pathways. These results suggest clinical and biological benefits to KY for SCD, linking changes in cognition to the anti-inflammatory effects of yoga."
 }

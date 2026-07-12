@@ -43,5 +43,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "stress-anxiety",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Mindfulness-Based Stress Reduction in Post-treatment Breast Cancer Patients: Immediate and Sustained Effects A",
+ "publicationYear": 2017,
+ "journalName": "Journal of pain and symptom management",
+ "coreTheme": "Stress & Anxiety",
+ "primaryEntityUrl": "https://doi.org/10.1016/j.jpainsymman.2016.08.005",
+ "relatedThemePath": "/themes/stress-anxiety/",
+ "aiSnippet": "RCT, Journal of pain and symptom management (2017). From baseline to six weeks, the model demonstrated evidence of MBSR(BC) effectiveness in both the psychological (anxiety, depression, perceived stress and QOL, emotional well-being) (P = 0.007) and fatigue (fatigue, sleep, and drowsiness) (P < 0.001) clusters. Our results provide clinical effectiveness evidence that MBSR(BC) works to improve symptom clusters, particularly for psychological and fatigue symptom clusters, with the greatest improvement occurring during the six-week program with sustained effects for several weeks after MBSR(BC) training."
 }

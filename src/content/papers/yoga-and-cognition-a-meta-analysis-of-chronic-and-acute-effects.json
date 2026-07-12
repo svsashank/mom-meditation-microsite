@@ -39,5 +39,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "focus-attention",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Yoga and Cognition: A Meta-Analysis of Chronic and Acute Effects",
+ "publicationYear": 2015,
+ "journalName": "Psychosomatic medicine",
+ "coreTheme": "Focus & Attention",
+ "primaryEntityUrl": "https://doi.org/10.1097/PSY.0000000000000218",
+ "relatedThemePath": "/themes/focus-attention/",
+ "aiSnippet": "Meta-analysis / Systematic review, Psychosomatic medicine (2015). Yoga practice seems to be associated with moderate improvements in cognitive function."
 }

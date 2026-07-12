@@ -41,5 +41,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "brief-app-based-practice",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Effectiveness of online mindfulness interventions on medical students' mental health: a systematic review",
+ "publicationYear": 2021,
+ "journalName": "BMC public health",
+ "coreTheme": "Brief & App-Based Practice",
+ "primaryEntityUrl": "https://doi.org/10.1186/s12889-021-12341-z",
+ "relatedThemePath": "/themes/brief-app-based-practice/",
+ "aiSnippet": "Meta-analysis / Systematic review, BMC public health (2021). The evidence found in the systematic review exhibits the potential for online mindfulness interventions to be effective in addressing some mental health challenges of medical students. There was insufficient evidence to support the use of online mindfulness interventions for burnout, depression, and anxiety. Longitudinal studies with randomised controlled trials are required to generate stronger and robust evidence."
 }

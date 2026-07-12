@@ -39,5 +39,12 @@
  "nullOrCritical": "",
  "bidmc": false,
  "quoteKey": "clinical-research",
- "editorialReview": true
+ "editorialReview": true,
+ "simplifiedTitle": "Yoga research review",
+ "publicationYear": 2016,
+ "journalName": "Complementary therapies in clinical practice",
+ "coreTheme": "Clinical Research",
+ "primaryEntityUrl": "https://doi.org/10.1016/j.ctcp.2016.06.005",
+ "relatedThemePath": "/themes/clinical-research/",
+ "aiSnippet": "Meta-analysis / Systematic review, Complementary therapies in clinical practice (2016). The methods and results of those studies are briefly summarized along with their limitations and suggestions for future research."
 }

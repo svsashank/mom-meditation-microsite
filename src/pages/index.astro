@@ -3,20 +3,61 @@ import Base from '../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 const papers = await getCollection('papers');
 const b = import.meta.env.BASE_URL.replace(/\/$/, '');
+const SITE = 'https://svsashank.github.io/mom-meditation-microsite';
 const THEMES = ['Stress & Anxiety','Sleep','Focus & Attention','Emotional Wellbeing','Brain & Mechanisms','Clinical Research','Brief & App-Based Practice'];
 const slug = (t) => t.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
-const counts = Object.fromEntries(THEMES.map(t => [t, papers.filter(p => p.data.theme === t).length]));
-const blurb = {
- 'Stress & Anxiety':'How brief practice relates to stress physiology and anxious mind.',
- 'Sleep':'Evidence on meditation, rest, and sleep quality.',
- 'Focus & Attention':'The wandering mind, attention, and cognitive control.',
- 'Emotional Wellbeing':'Mood, emotion regulation, and resilience.',
- 'Brain & Mechanisms':'What imaging and physiology suggest about how practice works.',
- 'Clinical Research':'Studies in clinical populations and conditions.',
- 'Brief & App-Based Practice':'Short, self-guided, and app-delivered meditation.',
+
+// Exact tallies from the dataset (no rounding).
+const tally = Object.fromEntries(THEMES.map(t => {
+  const rs = papers.filter(p => p.data.theme === t);
+  return [t, {
+    total: rs.length,
+    rct: rs.filter(p => p.data.studyType === 'RCT').length,
+    meta: rs.filter(p => p.data.studyType.startsWith('Meta')).length,
+    mech: rs.filter(p => p.data.studyType.startsWith('Cross')).length,
+  }];
+}));
+
+// Keyword-rich 15–20 word snippets. Every count is inserted from `tally` (exact).
+const card = {
+ 'Stress & Anxiety': (c) => `${c.total} studies on meditation for stress, anxiety and cortisol — including ${c.rct} randomized controlled trials and ${c.meta} evidence reviews.`,
+ 'Sleep': (c) => `${c.total} studies on meditation, rest and sleep quality — ${c.rct} randomized controlled trials alongside ${c.meta} systematic reviews and meta-analyses.`,
+ 'Focus & Attention': (c) => `${c.total} studies on attention, the wandering mind and cognitive control — ${c.rct} controlled trials and ${c.meta} pooled evidence reviews.`,
+ 'Emotional Wellbeing': (c) => `${c.total} studies on mood, emotion regulation and resilience — ${c.rct} randomized controlled trials and ${c.meta} systematic reviews and meta-analyses.`,
+ 'Brain & Mechanisms': (c) => `${c.total} studies on how practice works — ${c.mech} mechanistic/neuroimaging studies, ${c.rct} controlled trials and ${c.meta} reviews.`,
+ 'Clinical Research': (c) => `${c.total} studies of meditation as a complement in clinical populations — ${c.rct} controlled trials and ${c.meta} systematic reviews.`,
+ 'Brief & App-Based Practice': (c) => `${c.total} studies of short, self-guided and app-based meditation — ${c.rct} randomized controlled trials and ${c.meta} evidence reviews.`,
+};
+
+const orgJson = {
+  "@context":"https://schema.org","@type":"Organization",
+  "name":"Miracle of Mind — Meditation Research",
+  "url":SITE+"/",
+  "description":"A research-led guide summarizing peer-reviewed studies on meditation, alongside Sadhguru's perspective and the Miracle of Mind practice.",
+  "knowsAbout":[
+    {"@type":"Thing","name":"Meditation","sameAs":"https://en.wikipedia.org/wiki/Meditation"},
+    {"@type":"Thing","name":"Mindfulness","sameAs":"https://en.wikipedia.org/wiki/Mindfulness"},
+    {"@type":"Person","name":"Sadhguru","sameAs":"https://en.wikipedia.org/wiki/Sadhguru"}
+  ]
+};
+const siteJson = {
+  "@context":"https://schema.org","@type":"WebSite",
+  "name":"Miracle of Mind — Meditation Research","url":SITE+"/",
+  "about":[
+    {"@type":"Thing","name":"Meditation","sameAs":"https://en.wikipedia.org/wiki/Meditation"},
+    {"@type":"Thing","name":"Mindfulness","sameAs":"https://en.wikipedia.org/wiki/Mindfulness"}
+  ],
+  "hasPart":THEMES.map(t => ({
+    "@type":"WebPage","name":t+" — meditation research","url":SITE+"/themes/"+slug(t)+"/"
+  }))
 };
 ---
 <Base title="Meditation, read through research" wide={true}>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify(orgJson)} />
+    <script type="application/ld+json" set:html={JSON.stringify(siteJson)} />
+  </Fragment>
+
   <section class="hero">
     <p class="eyebrow">A research-led guide</p>
     <h1>Meditation, read through the research.</h1>
@@ -32,8 +73,8 @@ const blurb = {
       {THEMES.map(t => (
         <a class="card" href={b + '/themes/' + slug(t) + '/'}>
           <h3>{t}</h3>
-          <p class="meta">{counts[t]} studies</p>
-          <p style="font-size:15px;color:var(--ink-soft);margin:.4em 0 0">{blurb[t]}</p>
+          <p style="font-size:15px;color:var(--ink-soft);margin:.4em 0 .6em">{card[t](tally[t])}</p>
+          <p class="meta" style="color:var(--accent);font-weight:600">Explore {tally[t].total} {t} studies →</p>
         </a>
       ))}
     </div>
