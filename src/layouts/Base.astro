@@ -16,6 +16,10 @@ const nav = [
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>{title} — Miracle of Mind: Meditation Research</title>
   <meta name="description" content={description ?? 'A research-led guide to meditation, from the Miracle of Mind.'} />
+  <!-- STAGING NOINDEX: site-wide. Single directive to remove at go-live (do not
+       modify until then). Keeps this unreviewed, not-for-distribution draft out of
+       search + AI indexes even though robots.txt permits crawling. -->
+  <meta name="robots" content="noindex, follow" />
   <link rel="stylesheet" href={base + '/styles.css'} />
   <slot name="head" />
 </head>

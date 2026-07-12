@@ -1,2 +1,34 @@
+# Miracle of Mind — Meditation Research (STAGING)
+#
+# Indexing is currently suppressed site-wide by a <meta name="robots" content="noindex, follow">
+# tag on every page. The allow-rules below are prepared for a FUTURE go-live and are
+# harmless while that noindex tag is active (crawlers may fetch, but pages will not be indexed).
+# At go-live, the only remaining step is removing the noindex meta tag.
+
+# --- AI / LLM crawlers (explicit allow, ready for go-live) ---
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+# --- All other crawlers ---
 User-agent: *
 Allow: /
+
+Sitemap: https://svsashank.github.io/mom-meditation-microsite/sitemap.xml

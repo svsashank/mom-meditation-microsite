@@ -249,3 +249,35 @@ _Movement/exercise-led practice without breath or attention component_ (6):
 **F26 — the bridge was NOT folded into the ≤100-word AEO key-finding snippet.** Rule 4 asks to apply the logic to AEO snippets. To avoid the standalone snippet degrading into a bare outcome claim (and to preserve the findings-only integrity of `aiSnippet` per F21), the mechanistic-transfer sentence is exposed as its own crawlable `<section id="why-mom">` — mechanism-anchored, with the final clause intact — rather than merged into the key-finding summary. If reviewers prefer it inside the snippet, it can be appended there verbatim (never truncating the final clause).
 
 **F27 — the bridge is a hedged inference, now a registered claim type.** Each of the 72 bridges is an explicit mechanistic-transfer inference ("may extend to MoM… though MoM hasn't been studied directly"). These are logged in CLAIMS-REGISTER.md as their own claim class so a reviewer evaluates the inference itself, not just the underlying finding.
+
+---
+
+## Phase 3f — crawler indexing prep
+
+**F28 — NO noindex directive existed when this task began (important).** The task
+said to preserve "the current noindex directive," but there was none: `robots.txt`
+was `Allow: /` and no page carried a robots meta tag — the staging site was fully
+indexable. Because the requested robots.txt AI-crawler *allow* rules are only
+"harmless" if a noindex is active, I added a site-wide `<meta name="robots"
+content="noindex, follow">` in the base layout (all 113 built pages incl. 404).
+This is the single tag to remove at go-live. If you believed indexing was already
+blocked by another mechanism (repo privacy, host config), please confirm — as far
+as this repo shows, nothing was suppressing indexing until now.
+
+**F29 — AI-crawler token nuances (kept all 7 as requested; flagging scope).**
+- `anthropic-ai` — a legacy Anthropic token; current Anthropic crawlers are
+  `ClaudeBot` (already included) and `Claude-User`/`Claude-SearchBot`. `anthropic-ai`
+  may be deprecated/ignored by newer infrastructure. Kept per request; consider
+  adding `Claude-User` and `Claude-SearchBot` at go-live.
+- `ChatGPT-User` — OpenAI's user-triggered fetch agent (fires when a user asks
+  ChatGPT to open a link), not the training crawler (`GPTBot`) nor the search
+  crawler (`OAI-SearchBot`). Included as requested; `OAI-SearchBot` could be added
+  for AI-search indexing.
+- `Google-Extended` — not a fetching user-agent; it is a robots.txt token that
+  controls use of already-crawled content for Google's Gemini/Vertex AI. The allow
+  rule is valid, but it governs training-use permission, not crawl behavior.
+- `GPTBot`, `ClaudeBot`, `PerplexityBot`, `CCBot` — current and correct as of the
+  last known guidance; verify against each operator's published list at go-live,
+  since these strings change.
+- Reminder: robots.txt is advisory and only honored by compliant bots; the
+  `noindex` meta tag is what actually keeps pages out of indexes.

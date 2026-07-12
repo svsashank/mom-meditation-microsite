@@ -328,3 +328,31 @@ kept findings-only; the bridge is exposed as its own crawlable
 `<section id="why-mom">` rather than merged into the snippet (FLAGGED F26). All
 72 bridges are registered in CLAIMS-REGISTER.md as a distinct
 "mechanistic-transfer inference" claim class (281 claims total, up from 209).
+
+---
+
+## Phase 3f — AI-crawler indexing preparation
+
+**D21. Established a site-wide noindex (none existed) so the crawler-allow prep is
+safe.** Added `<meta name="robots" content="noindex, follow">` to the base layout
+(every page + 404). Rationale in FLAGGED F28: the requested robots.txt allow rules
+are only harmless under an active noindex, and this unreviewed, not-for-
+distribution draft must not be indexed. This is the single directive to remove at
+go-live; left untouched otherwise.
+
+**D22. robots.txt: explicit allow rules for 7 AI crawlers + sitemap reference.**
+GPTBot, ChatGPT-User, ClaudeBot, anthropic-ai, PerplexityBot, Google-Extended,
+CCBot, plus `User-agent: *  Allow: /`, and a `Sitemap:` line. Header comment
+explains the noindex-active/harmless-now/remove-later sequence. Token nuances
+logged (F29).
+
+**D23. llms.txt at site root.** Plain-language index for LLM consumption: what the
+site is, its claims discipline and transfer-gap posture, the 5 core pages, 7 theme
+hubs, and all 100 research pages grouped by theme with direct links. Written to be
+parsed, not keyword-stuffed; notes the staging/noindex/pending-review status.
+
+**D24. Complete XML sitemap (112 URLs).** Deterministically generated from the
+built routes (home, research library, practice, methodology, wisdom, 7 theme hubs,
+100 research pages) — validated as well-formed XML with 112 unique <loc> entries,
+excluding the 404 page. Referenced from robots.txt, ready to submit to Google
+Search Console / Bing Webmaster Tools at go-live.
