@@ -51,5 +51,8 @@
  "coreTheme": "Brain & Mechanisms",
  "primaryEntityUrl": "https://doi.org/10.7759/cureus.57541",
  "relatedThemePath": "/themes/brain-mechanisms/",
- "aiSnippet": "Cross-sectional / Mechanistic, Cureus (2024). Chronic inflammation is central to the pathogenesis of many chronic inflammatory conditions. This review aims to analyze whether the practice of yoga, or yogic meditation and breathing, has any effect on the levels of inflammatory cytokines and other inflammatory markers in patients with various chronic inflammatory diseases such as rheumatoid arthritis, neoplastic disorders, and asthma, as well as in healthy subjects, compared to usual care or sham interventions."
+ "aiSnippet": "Cross-sectional / Mechanistic, Cureus (2024). Chronic inflammation is central to the pathogenesis of many chronic inflammatory conditions. This review aims to analyze whether the practice of yoga, or yogic meditation and breathing, has any effect on the levels of inflammatory cytokines and other inflammatory markers in patients with various chronic inflammatory diseases such as rheumatoid arthritis, neoplastic disorders, and asthma, as well as in healthy subjects, compared to usual care or sham interventions.",
+ "whyItMatters": "MoM shares breath regulation with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "breath",
+ "mechanismGap": ""
 }

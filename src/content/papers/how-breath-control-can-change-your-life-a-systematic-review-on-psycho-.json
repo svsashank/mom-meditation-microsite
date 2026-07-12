@@ -49,5 +49,8 @@
  "coreTheme": "Emotional Wellbeing",
  "primaryEntityUrl": "https://doi.org/10.3389/fnhum.2018.00353",
  "relatedThemePath": "/themes/emotional-wellbeing/",
- "aiSnippet": "Meta-analysis / Systematic review, Frontiers in human neuroscience (2018). A meta-analysis / systematic review of breath-and-attention meditation examined emotional wellbeing."
+ "aiSnippet": "Meta-analysis / Systematic review, Frontiers in human neuroscience (2018). A meta-analysis / systematic review of breath-and-attention meditation examined emotional wellbeing.",
+ "whyItMatters": "MoM shares slow, paced breath regulation with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "breath",
+ "mechanismGap": ""
 }

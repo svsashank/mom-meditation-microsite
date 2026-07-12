@@ -48,5 +48,8 @@
  "coreTheme": "Stress & Anxiety",
  "primaryEntityUrl": "https://doi.org/10.1017/S0954422417000154",
  "relatedThemePath": "/themes/stress-anxiety/",
- "aiSnippet": "Cross-sectional / Mechanistic, Nutrition research reviews (2017). There is a lack of compelling evidence for the effectiveness of mindfulness and mindful eating in weight management. The evidence base for intuitive eating is limited to date and further research is needed to examine its potential in altering eating behaviours. Mindfulness appears to work by an increased awareness of internal, rather than external, cues to eat."
+ "aiSnippet": "Cross-sectional / Mechanistic, Nutrition research reviews (2017). There is a lack of compelling evidence for the effectiveness of mindfulness and mindful eating in weight management. The evidence base for intuitive eating is limited to date and further research is needed to examine its potential in altering eating behaviours. Mindfulness appears to work by an increased awareness of internal, rather than external, cues to eat.",
+ "whyItMatters": "MoM shares directed attention (the focused-attention component) with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "attention",
+ "mechanismGap": ""
 }

@@ -50,5 +50,8 @@
  "coreTheme": "Brief & App-Based Practice",
  "primaryEntityUrl": "https://doi.org/10.2196/12556",
  "relatedThemePath": "/themes/brief-app-based-practice/",
- "aiSnippet": "RCT, Journal of medical Internet research (2019). We found significant interactions between time and group. In addition, we found that participants who reported concomitantly taking psychiatric medications during the trial benefitted less from the app, as measured by the symptoms of anxiety and stress. This study provides evidence that Pacifica, a popular commercially available self-help app, is effective in reducing self-reported symptoms of depression, anxiety, and stress, particularly among individuals who utilize thought records and are not taking psychiatric medication."
+ "aiSnippet": "RCT, Journal of medical Internet research (2019). We found significant interactions between time and group. In addition, we found that participants who reported concomitantly taking psychiatric medications during the trial benefitted less from the app, as measured by the symptoms of anxiety and stress. This study provides evidence that Pacifica, a popular commercially available self-help app, is effective in reducing self-reported symptoms of depression, anxiety, and stress, particularly among individuals who utilize thought records and are not taking psychiatric medication.",
+ "whyItMatters": "MoM shares directed attention (the focused-attention component) in a brief, guided format with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "attention",
+ "mechanismGap": ""
 }

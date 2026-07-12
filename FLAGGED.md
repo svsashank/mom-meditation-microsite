@@ -203,3 +203,49 @@ bar hides whenever the disclaimer, limitations, review-flag, or footer is within
 covers those elements. On very short viewports where a protected element is
 always in view, the bar stays hidden by design. Verify on-device across a few
 screen sizes before launch.
+
+---
+
+## Phase 3e — "Why this matters" mechanistic-transfer bridge
+
+**F24 — 28 papers omitted from the practice-bridge (no specific breath/attention mechanism).** Per rule 2, the bridge was left off these pages (a plain gap note is shown instead) because the paper's own practice description does not share a concrete breath-regulation or directed-attention mechanism with MoM. Grouped reasons below. None were forced.
+
+_No breath or directed-attention component identifiable_ (21):
+- [Focus & Attention] A randomized controlled trial of Kundalini yoga in mild cogn (PMID 28088925)
+- [Brain & Mechanisms] Acceptance and Commitment Therapy and yoga for drug-refracto (PMID 18343200)
+- [Brain & Mechanisms] Changes in Neural Connectivity and Memory Following a Yoga I (PMID 27060939)
+- [Focus & Attention] Cognitive and immunological effects of yoga compared to memo (PMID 38355715)
+- [Brain & Mechanisms] Effects of yoga in men with prostate cancer on quality of li (PMID 34815548)
+- [Brain & Mechanisms] Effects of yoga on the autonomic nervous system, gamma-amino (PMID 22365651)
+- [Stress & Anxiety] Physical and psychosocial benefits of yoga in cancer patient (PMID 23181734)
+- [Clinical Research] Randomised controlled trial of yoga and bio-feedback in mana (PMID 49737)
+- [Sleep] The effect of yoga on sleep quality and insomnia in women wi (PMID 32357858)
+- [Brain & Mechanisms] The Meditative Mind: A Comprehensive Meta-Analysis of MRI St (PMID 26146618)
+- [Focus & Attention] Yoga and Cognition: A Meta-Analysis of Chronic and Acute Eff (PMID 26186435)
+- [Brain & Mechanisms] Yoga and heart rate variability: A comprehensive review of t (PMID 27512317)
+- [Emotional Wellbeing] Yoga as a therapeutic approach to mental health in universit (PMID 38903593)
+- [Clinical Research] Yoga as an adjunctive treatment for posttraumatic stress dis (PMID 25004196)
+- [Sleep] Yoga-based intervention for carpal tunnel syndrome: a random (PMID 9820263)
+- [Clinical Research] Yoga for anxiety: A systematic review and meta-analysis of r (PMID 29697885)
+- [Stress & Anxiety] Yoga for breast cancer patients and survivors: a systematic  (PMID 22988934)
+- [Clinical Research] Yoga for treating low back pain: a systematic review and met (PMID 34326296)
+- [Brain & Mechanisms] Yoga Nidra for hypertension: A systematic review and meta-an (PMID 38484438)
+- [Clinical Research] Yoga, Physical Therapy, or Education for Chronic Low Back Pa (PMID 28631003)
+- [Clinical Research] Yoga research review (PMID 27502816)
+
+_Transcendental Meditation (mantra-based, effortless) — not MoM's focused-attention/breath mechanism_ (1):
+- [Brief & App-Based Practice] EEG based interpretation of human brain activity during yoga (PMID 33618287)
+
+_Movement/exercise-led practice without breath or attention component_ (6):
+- [Brain & Mechanisms] Effects of yoga versus walking on mood, anxiety, and brain G (PMID 20722471)
+- [Stress & Anxiety] Meditation and Yoga for Irritable Bowel Syndrome: A Randomiz (PMID 36422517)
+- [Sleep] The effects of yoga compared to active and inactive controls (PMID 30953508)
+- [Emotional Wellbeing] The Practice of Hatha Yoga for the Treatment of Pain Associa (PMID 27869485)
+- [Emotional Wellbeing] Yoga for chronic non-specific low back pain (PMID 36398843)
+- [Clinical Research] Yoga for depression: a systematic review and meta-analysis (PMID 23922209)
+
+**F25 — attention-only bridges rest on the directed-attention component.** Where a paper's practice is mindfulness/focused-attention meditation without an explicit breath component, the bridge anchors to "directed attention (the focused-attention component)" only. This is a real, specific mechanism MoM shares, but a stricter reviewer may want the anchor narrowed to studies that explicitly train breath-focused attention. Applies to the attention-only subset of the 72 bridges.
+
+**F26 — the bridge was NOT folded into the ≤100-word AEO key-finding snippet.** Rule 4 asks to apply the logic to AEO snippets. To avoid the standalone snippet degrading into a bare outcome claim (and to preserve the findings-only integrity of `aiSnippet` per F21), the mechanistic-transfer sentence is exposed as its own crawlable `<section id="why-mom">` — mechanism-anchored, with the final clause intact — rather than merged into the key-finding summary. If reviewers prefer it inside the snippet, it can be appended there verbatim (never truncating the final clause).
+
+**F27 — the bridge is a hedged inference, now a registered claim type.** Each of the 72 bridges is an explicit mechanistic-transfer inference ("may extend to MoM… though MoM hasn't been studied directly"). These are logged in CLAIMS-REGISTER.md as their own claim class so a reviewer evaluates the inference itself, not just the underlying finding.

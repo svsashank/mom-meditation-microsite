@@ -47,5 +47,8 @@
  "coreTheme": "Stress & Anxiety",
  "primaryEntityUrl": "https://doi.org/10.1159/000490762",
  "relatedThemePath": "/themes/stress-anxiety/",
- "aiSnippet": "Meta-analysis / Systematic review, European addiction research (2018). Large effect sizes were associated to levels of perceived craving, negative affectivity, and post-traumatic symptoms."
+ "aiSnippet": "Meta-analysis / Systematic review, European addiction research (2018). Large effect sizes were associated to levels of perceived craving, negative affectivity, and post-traumatic symptoms.",
+ "whyItMatters": "MoM shares directed attention (the focused-attention component) in a brief, guided format with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "attention",
+ "mechanismGap": ""
 }

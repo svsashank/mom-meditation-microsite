@@ -49,5 +49,8 @@
  "coreTheme": "Clinical Research",
  "primaryEntityUrl": "https://doi.org/10.1016/j.apmr.2023.04.014",
  "relatedThemePath": "/themes/clinical-research/",
- "aiSnippet": "Meta-analysis / Systematic review, Archives of physical medicine and rehabilitation (2024). A network meta-analysis of randomized controlled trials (RCTs) was conducted to compare and rank the effectiveness of various breathing exercises for patients with chronic obstructive pulmonary disease (COPD). We searched PubMed, Web of Science, Embase, and the Cochrane Library databases to determine the articles."
+ "aiSnippet": "Meta-analysis / Systematic review, Archives of physical medicine and rehabilitation (2024). A network meta-analysis of randomized controlled trials (RCTs) was conducted to compare and rank the effectiveness of various breathing exercises for patients with chronic obstructive pulmonary disease (COPD). We searched PubMed, Web of Science, Embase, and the Cochrane Library databases to determine the articles.",
+ "whyItMatters": "MoM shares breath regulation with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "breath",
+ "mechanismGap": ""
 }

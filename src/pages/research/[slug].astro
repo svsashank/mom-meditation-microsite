@@ -49,6 +49,16 @@ const primaryUrl = d.primaryEntityUrl || (d.doi ? ('https://doi.org/' + d.doi) :
       <ul>{d.limitations.map(l => <li>{l}</li>)}</ul>
     </div>
 
+    {d.whyItMatters && (
+      <section id="why-mom" class="why-mom" aria-label="Why this matters for the 7-minute practice">
+        <h3>Why this matters for the 7-minute practice</h3>
+        <p>{d.whyItMatters}</p>
+      </section>
+    )}
+    {!d.whyItMatters && d.mechanismGap && (
+      <p class="mech-gap">{d.mechanismGap}</p>
+    )}
+
     {quote && quote.data.verified && (
       <div class="wisdom">
         <p class="eyebrow" style="color:var(--wisdom)">Sadhguru's perspective</p>

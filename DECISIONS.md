@@ -307,3 +307,24 @@ specific 15–20 word keyword-rich snippets and descriptive anchor text
 PAPERS-100 tally — verified equal to the dataset per theme (e.g. Stress & Anxiety
 20 total / 12 RCTs / 5 reviews; Brain & Mechanisms 20 total / 4 mechanistic /
 9 RCTs / 7 reviews). No rounding.
+
+---
+
+## Phase 3e — "Why this matters for the 7-minute practice" bridge
+
+**D20. Added a mechanistic-transfer bridge to research pages and theme hubs,
+using the exact required reasoning pattern.** Each bridge names a specific,
+paper-sourced mechanism MoM shares with the studied practice (breath regulation,
+directed attention, brief guided format, or the Isha breath-and-attention
+structure) and always closes with "…though MoM hasn't been studied directly for
+this outcome" — the final clause is part of the sentence and is never dropped
+(verified on all 72). The mechanism was classified from each paper's own
+abstract/practice description, audited in both directions (no false omits with
+breath/attention in-text; no false includes where "breath" was an outcome like
+breathlessness). 72 papers qualified; 28 did not and show a plain gap note
+instead of a forced bridge (FLAGGED F24). Theme hubs carry a mechanism-anchored
+version computed from their qualifying papers. The AEO key-finding snippet was
+kept findings-only; the bridge is exposed as its own crawlable
+`<section id="why-mom">` rather than merged into the snippet (FLAGGED F26). All
+72 bridges are registered in CLAIMS-REGISTER.md as a distinct
+"mechanistic-transfer inference" claim class (281 claims total, up from 209).

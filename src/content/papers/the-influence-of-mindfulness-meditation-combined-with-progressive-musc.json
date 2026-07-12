@@ -50,5 +50,8 @@
  "coreTheme": "Brain & Mechanisms",
  "primaryEntityUrl": "https://doi.org/10.1186/s12906-024-04485-3",
  "relatedThemePath": "/themes/brain-mechanisms/",
- "aiSnippet": "RCT, BMC complementary medicine and therapies (2024). There were no significant differences in the baseline values of various parameters between the two groups."
+ "aiSnippet": "RCT, BMC complementary medicine and therapies (2024). There were no significant differences in the baseline values of various parameters between the two groups.",
+ "whyItMatters": "MoM shares directed attention (the focused-attention component) in a brief, guided format with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "attention",
+ "mechanismGap": ""
 }

@@ -48,5 +48,8 @@
  "coreTheme": "Brain & Mechanisms",
  "primaryEntityUrl": "https://doi.org/10.3389/fnins.2018.00178",
  "relatedThemePath": "/themes/brain-mechanisms/",
- "aiSnippet": "Meta-analysis / Systematic review, Frontiers in neuroscience (2018). A meta-analysis / systematic review of mindfulness / meditation examined brain & mechanisms."
+ "aiSnippet": "Meta-analysis / Systematic review, Frontiers in neuroscience (2018). A meta-analysis / systematic review of mindfulness / meditation examined brain & mechanisms.",
+ "whyItMatters": "MoM shares directed attention (the focused-attention component) with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "attention",
+ "mechanismGap": ""
 }

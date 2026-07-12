@@ -50,5 +50,8 @@
  "coreTheme": "Stress & Anxiety",
  "primaryEntityUrl": "https://doi.org/10.1016/j.ctim.2023.102937",
  "relatedThemePath": "/themes/stress-anxiety/",
- "aiSnippet": "RCT, Complementary therapies in medicine (2023). Slow breathing techniques are commonly used to reduce stress. While it is believed by mind-body practitioners that extending the exhale time relative to inhale increases relaxation, this has not been demonstrated."
+ "aiSnippet": "RCT, Complementary therapies in medicine (2023). Slow breathing techniques are commonly used to reduce stress. While it is believed by mind-body practitioners that extending the exhale time relative to inhale increases relaxation, this has not been demonstrated.",
+ "whyItMatters": "MoM shares slow, paced breath regulation with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "breath",
+ "mechanismGap": ""
 }

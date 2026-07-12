@@ -46,5 +46,8 @@
  "coreTheme": "Clinical Research",
  "primaryEntityUrl": "https://doi.org/10.1016/j.ctcp.2016.06.005",
  "relatedThemePath": "/themes/clinical-research/",
- "aiSnippet": "Meta-analysis / Systematic review, Complementary therapies in clinical practice (2016). The methods and results of those studies are briefly summarized along with their limitations and suggestions for future research."
+ "aiSnippet": "Meta-analysis / Systematic review, Complementary therapies in clinical practice (2016). The methods and results of those studies are briefly summarized along with their limitations and suggestions for future research.",
+ "whyItMatters": "",
+ "mechanismOverlap": "none",
+ "mechanismGap": "The practice in this study does not share a specific breath-regulation or directed-attention mechanism with the Miracle of Mind practice, so no practice bridge is drawn here."
 }

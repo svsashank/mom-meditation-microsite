@@ -50,5 +50,8 @@
  "coreTheme": "Focus & Attention",
  "primaryEntityUrl": "https://doi.org/10.1038/s41598-023-35483-z",
  "relatedThemePath": "/themes/focus-attention/",
- "aiSnippet": "RCT, Scientific reports (2023). Pressures and responsibilities of medical school put a strain on medical student's personal wellbeing, leading among all to high rates of anxiety, emotional discomfort and stress. In this work we evaluated the effectiveness of a comprehensive Mindfulness-Based Intervention (MBI) in reducing this load."
+ "aiSnippet": "RCT, Scientific reports (2023). Pressures and responsibilities of medical school put a strain on medical student's personal wellbeing, leading among all to high rates of anxiety, emotional discomfort and stress. In this work we evaluated the effectiveness of a comprehensive Mindfulness-Based Intervention (MBI) in reducing this load.",
+ "whyItMatters": "MoM shares directed attention (the focused-attention component) in a brief, guided format with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "attention",
+ "mechanismGap": ""
 }

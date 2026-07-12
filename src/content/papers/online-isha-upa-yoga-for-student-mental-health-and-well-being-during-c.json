@@ -50,5 +50,8 @@
  "coreTheme": "Stress & Anxiety",
  "primaryEntityUrl": "https://doi.org/10.1111/aphw.12341",
  "relatedThemePath": "/themes/stress-anxiety/",
- "aiSnippet": "RCT, Applied psychology. Health and well-being (2022). College students experienced increased stress and anxiety during the COVID-19 pandemic. This study evaluated the effect of brief online Isha Upa Yoga modules on undergraduates' mental health and well-being."
+ "aiSnippet": "RCT, Applied psychology. Health and well-being (2022). College students experienced increased stress and anxiety during the COVID-19 pandemic. This study evaluated the effect of brief online Isha Upa Yoga modules on undergraduates' mental health and well-being.",
+ "whyItMatters": "MoM shares its breath-and-attention structure and brief, guided daily format with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "isha",
+ "mechanismGap": ""
 }

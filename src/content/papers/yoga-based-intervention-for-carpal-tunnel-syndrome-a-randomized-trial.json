@@ -49,5 +49,8 @@
  "coreTheme": "Sleep",
  "primaryEntityUrl": "https://doi.org/10.1001/jama.280.18.1601",
  "relatedThemePath": "/themes/sleep/",
- "aiSnippet": "RCT, JAMA (1998). The yoga group had significantly more improvement in Phalen sign (12 improved vs 2 in control group; P = .008), but no significant differences were found in sleep disturbance, Tinel sign, and median nerve motor and sensory conduction time."
+ "aiSnippet": "RCT, JAMA (1998). The yoga group had significantly more improvement in Phalen sign (12 improved vs 2 in control group; P = .008), but no significant differences were found in sleep disturbance, Tinel sign, and median nerve motor and sensory conduction time.",
+ "whyItMatters": "",
+ "mechanismOverlap": "none",
+ "mechanismGap": "The practice in this study does not share a specific breath-regulation or directed-attention mechanism with the Miracle of Mind practice, so no practice bridge is drawn here."
 }

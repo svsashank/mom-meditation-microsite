@@ -48,5 +48,8 @@
  "coreTheme": "Brief & App-Based Practice",
  "primaryEntityUrl": "https://doi.org/10.1186/s12889-021-12341-z",
  "relatedThemePath": "/themes/brief-app-based-practice/",
- "aiSnippet": "Meta-analysis / Systematic review, BMC public health (2021). The evidence found in the systematic review exhibits the potential for online mindfulness interventions to be effective in addressing some mental health challenges of medical students. There was insufficient evidence to support the use of online mindfulness interventions for burnout, depression, and anxiety. Longitudinal studies with randomised controlled trials are required to generate stronger and robust evidence."
+ "aiSnippet": "Meta-analysis / Systematic review, BMC public health (2021). The evidence found in the systematic review exhibits the potential for online mindfulness interventions to be effective in addressing some mental health challenges of medical students. There was insufficient evidence to support the use of online mindfulness interventions for burnout, depression, and anxiety. Longitudinal studies with randomised controlled trials are required to generate stronger and robust evidence.",
+ "whyItMatters": "MoM shares directed attention (the focused-attention component) in a brief, guided format with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "attention",
+ "mechanismGap": ""
 }

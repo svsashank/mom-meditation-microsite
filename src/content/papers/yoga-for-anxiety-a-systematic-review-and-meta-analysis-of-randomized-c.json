@@ -53,5 +53,8 @@
  "coreTheme": "Clinical Research",
  "primaryEntityUrl": "https://doi.org/10.1002/da.22762",
  "relatedThemePath": "/themes/clinical-research/",
- "aiSnippet": "Meta-analysis / Systematic review, Depression and anxiety (2018). Only three RCTs reported safety-related data but these indicated that yoga was not associated with increased injuries. In conclusion, yoga might be an effective and safe intervention for individuals with elevated levels of anxiety. There was inconclusive evidence for effects of yoga in anxiety disorders."
+ "aiSnippet": "Meta-analysis / Systematic review, Depression and anxiety (2018). Only three RCTs reported safety-related data but these indicated that yoga was not associated with increased injuries. In conclusion, yoga might be an effective and safe intervention for individuals with elevated levels of anxiety. There was inconclusive evidence for effects of yoga in anxiety disorders.",
+ "whyItMatters": "",
+ "mechanismOverlap": "none",
+ "mechanismGap": "The practice in this study does not share a specific breath-regulation or directed-attention mechanism with the Miracle of Mind practice, so no practice bridge is drawn here."
 }

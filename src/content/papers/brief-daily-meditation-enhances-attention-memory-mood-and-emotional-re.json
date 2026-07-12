@@ -51,5 +51,8 @@
  "coreTheme": "Focus & Attention",
  "primaryEntityUrl": "https://doi.org/10.1016/j.bbr.2018.08.023",
  "relatedThemePath": "/themes/focus-attention/",
- "aiSnippet": "RCT, Behavioural brain research (2019). Compared to our control group, we found that 8 but not 4 weeks of brief, daily meditation decreased negative mood state and enhanced attention, working memory, and recognition memory as well as decreased state anxiety scores on the TSST. This study not only suggests a lower limit for the duration of brief daily meditation needed to see significant benefits in non-experienced meditators, but suggests that even relatively short daily meditation practice can have similar behavioral effects as longer duration and higher-intensity mediation practices."
+ "aiSnippet": "RCT, Behavioural brain research (2019). Compared to our control group, we found that 8 but not 4 weeks of brief, daily meditation decreased negative mood state and enhanced attention, working memory, and recognition memory as well as decreased state anxiety scores on the TSST. This study not only suggests a lower limit for the duration of brief daily meditation needed to see significant benefits in non-experienced meditators, but suggests that even relatively short daily meditation practice can have similar behavioral effects as longer duration and higher-intensity mediation practices.",
+ "whyItMatters": "MoM shares directed attention (the focused-attention component) in a brief, guided format with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "attention",
+ "mechanismGap": ""
 }

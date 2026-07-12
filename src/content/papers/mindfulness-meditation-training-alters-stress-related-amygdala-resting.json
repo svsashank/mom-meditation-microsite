@@ -51,5 +51,8 @@
  "coreTheme": "Brief & App-Based Practice",
  "primaryEntityUrl": "https://doi.org/10.1093/scan/nsv066",
  "relatedThemePath": "/themes/brief-app-based-practice/",
- "aiSnippet": "RCT, Social cognitive and affective neuroscience (2015). Recent studies indicate that mindfulness meditation training interventions reduce stress and improve stress-related health outcomes, but the neural pathways for these effects are unknown. We show in an initial discovery study that higher perceived stress over the past month is associated with greater bilateral amygdala-subgenual anterior cingulate cortex (sgACC) rsFC in a sample of community adults (n = 130). This work provides an initial indication that mindfulness meditation training promotes functional neuroplastic changes, suggesting an amygdala-sgACC pathway for stress reduction effects."
+ "aiSnippet": "RCT, Social cognitive and affective neuroscience (2015). Recent studies indicate that mindfulness meditation training interventions reduce stress and improve stress-related health outcomes, but the neural pathways for these effects are unknown. We show in an initial discovery study that higher perceived stress over the past month is associated with greater bilateral amygdala-subgenual anterior cingulate cortex (sgACC) rsFC in a sample of community adults (n = 130). This work provides an initial indication that mindfulness meditation training promotes functional neuroplastic changes, suggesting an amygdala-sgACC pathway for stress reduction effects.",
+ "whyItMatters": "MoM shares directed attention (the focused-attention component) in a brief, guided format with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "attention",
+ "mechanismGap": ""
 }

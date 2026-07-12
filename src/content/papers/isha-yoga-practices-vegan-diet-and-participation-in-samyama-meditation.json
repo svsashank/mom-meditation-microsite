@@ -52,5 +52,8 @@
  "coreTheme": "Stress & Anxiety",
  "primaryEntityUrl": "https://doi.org/10.1186/s12906-023-03935-8",
  "relatedThemePath": "/themes/stress-anxiety/",
- "aiSnippet": "Cross-sectional / Mechanistic, BMC complementary medicine and therapies (2023). Growing evidence suggests a role for gut bacteria and their metabolites in host-signaling responses along the gut-brain axis which may impact mental health. Alpha diversity showed no significant differences between meditators and controls, while beta diversity showed significant changes (padj = 0.001) after Samyama in meditators' microbiota composition."
+ "aiSnippet": "Cross-sectional / Mechanistic, BMC complementary medicine and therapies (2023). Growing evidence suggests a role for gut bacteria and their metabolites in host-signaling responses along the gut-brain axis which may impact mental health. Alpha diversity showed no significant differences between meditators and controls, while beta diversity showed significant changes (padj = 0.001) after Samyama in meditators' microbiota composition.",
+ "whyItMatters": "MoM shares its breath-and-attention structure and brief, guided daily format with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "isha",
+ "mechanismGap": ""
 }

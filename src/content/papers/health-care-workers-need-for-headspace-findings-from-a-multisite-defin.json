@@ -50,5 +50,8 @@
  "coreTheme": "Brief & App-Based Practice",
  "primaryEntityUrl": "https://doi.org/10.2196/31744",
  "relatedThemePath": "/themes/brief-app-based-practice/",
- "aiSnippet": "RCT, JMIR mHealth and uHealth (2022). Intention-to-treat analyses found that Headspace led to greater reductions in stress over time than Moodzone (b=-0.31, 95% CI -0.47 to -0.14; P<.001), with small effects. Small effects of Headspace versus Moodzone were found for depression (b=-0.24, 95% CI -0.40 to -0.08; P=.003), anxiety (b=-0.19, 95% CI -0.32 to -0.06; P=.004), well-being (b=0.14, 95% CI 0.05-0.23; P=.002), mindfulness (b=0.22, 95% CI 0.09-0.34; P=.001), self-compassion (b=0.48, 95% CI 0.33-0.64; P<.001), compassion for others (b=0.02, 95% CI 0.00-0.04; P=.04), and worry (b=-0.30, 95% CI -0.51 to -0.09; P=.005) but not for burnout (b=-0.19, -0.04, and 0.13, all\u2026"
+ "aiSnippet": "RCT, JMIR mHealth and uHealth (2022). Intention-to-treat analyses found that Headspace led to greater reductions in stress over time than Moodzone (b=-0.31, 95% CI -0.47 to -0.14; P<.001), with small effects. Small effects of Headspace versus Moodzone were found for depression (b=-0.24, 95% CI -0.40 to -0.08; P=.003), anxiety (b=-0.19, 95% CI -0.32 to -0.06; P=.004), well-being (b=0.14, 95% CI 0.05-0.23; P=.002), mindfulness (b=0.22, 95% CI 0.09-0.34; P=.001), self-compassion (b=0.48, 95% CI 0.33-0.64; P<.001), compassion for others (b=0.02, 95% CI 0.00-0.04; P=.04), and worry (b=-0.30, 95% CI -0.51 to -0.09; P=.005) but not for burnout (b=-0.19, -0.04, and 0.13, all\u2026",
+ "whyItMatters": "MoM shares directed attention (the focused-attention component) in a brief, guided format with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "attention",
+ "mechanismGap": ""
 }

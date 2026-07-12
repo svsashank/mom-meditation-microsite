@@ -49,5 +49,8 @@
  "coreTheme": "Clinical Research",
  "primaryEntityUrl": "https://doi.org/10.1016/j.psyneuen.2017.08.008",
  "relatedThemePath": "/themes/clinical-research/",
- "aiSnippet": "Meta-analysis / Systematic review, Psychoneuroendocrinology (2017). Interventions that included yoga asanas were associated with reduced evening cortisol, waking cortisol, ambulatory systolic blood pressure, resting heart rate, high frequency heart rate variability, fasting blood glucose, cholesterol and low density lipoprotein, compared to active control. Practices that include yoga asanas appear to be associated with improved regulation of the sympathetic nervous system and hypothalamic-pituitary-adrenal system in various populations."
+ "aiSnippet": "Meta-analysis / Systematic review, Psychoneuroendocrinology (2017). Interventions that included yoga asanas were associated with reduced evening cortisol, waking cortisol, ambulatory systolic blood pressure, resting heart rate, high frequency heart rate variability, fasting blood glucose, cholesterol and low density lipoprotein, compared to active control. Practices that include yoga asanas appear to be associated with improved regulation of the sympathetic nervous system and hypothalamic-pituitary-adrenal system in various populations.",
+ "whyItMatters": "MoM shares directed attention (the focused-attention component) with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "attention",
+ "mechanismGap": ""
 }

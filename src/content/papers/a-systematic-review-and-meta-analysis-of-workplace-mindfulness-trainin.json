@@ -53,5 +53,8 @@
  "coreTheme": "Sleep",
  "primaryEntityUrl": "https://doi.org/10.1037/ocp0000146",
  "relatedThemePath": "/themes/sleep/",
- "aiSnippet": "Meta-analysis / Systematic review, Journal of occupational health psychology (2019). It synthesizes randomized controlled trial evidence from workplace-delivered training for changes in mindfulness, stress, mental health, well-being, and work performance outcomes. Results indicate beneficial effects following training for mindfulness (g = 0.45, p < .001) and stress (g = 0.56, p < .001), anxiety (g = 0.62, p < .001) and psychological distress (g = 0.69, p < .001), and for well-being (g = 0.46, p = .002) and sleep (g = 0.26, p = .003). No conclusions could be drawn from pooled data for burnout due to ambivalence in\u2026"
+ "aiSnippet": "Meta-analysis / Systematic review, Journal of occupational health psychology (2019). It synthesizes randomized controlled trial evidence from workplace-delivered training for changes in mindfulness, stress, mental health, well-being, and work performance outcomes. Results indicate beneficial effects following training for mindfulness (g = 0.45, p < .001) and stress (g = 0.56, p < .001), anxiety (g = 0.62, p < .001) and psychological distress (g = 0.69, p < .001), and for well-being (g = 0.46, p = .002) and sleep (g = 0.26, p = .003). No conclusions could be drawn from pooled data for burnout due to ambivalence in\u2026",
+ "whyItMatters": "MoM shares directed attention (the focused-attention component) with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "attention",
+ "mechanismGap": ""
 }

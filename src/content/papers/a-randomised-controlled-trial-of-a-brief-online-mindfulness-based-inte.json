@@ -53,5 +53,8 @@
  "coreTheme": "Brief & App-Based Practice",
  "primaryEntityUrl": "https://doi.org/10.1016/j.brat.2013.06.003",
  "relatedThemePath": "/themes/brief-app-based-practice/",
- "aiSnippet": "RCT, Behaviour research and therapy (2013). There is growing evidence that mindfulness has positive consequences for both psychological and physical health in both clinical and non-clinical populations. Participation in the intervention was associated with significant improvements in all measured domains, where no significant changes on these measures were found for the control group. This provides evidence in support of the feasibility and effectiveness of shorter self-guided mindfulness-based interventions."
+ "aiSnippet": "RCT, Behaviour research and therapy (2013). There is growing evidence that mindfulness has positive consequences for both psychological and physical health in both clinical and non-clinical populations. Participation in the intervention was associated with significant improvements in all measured domains, where no significant changes on these measures were found for the control group. This provides evidence in support of the feasibility and effectiveness of shorter self-guided mindfulness-based interventions.",
+ "whyItMatters": "MoM shares directed attention (the focused-attention component) in a brief, guided format with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "attention",
+ "mechanismGap": ""
 }

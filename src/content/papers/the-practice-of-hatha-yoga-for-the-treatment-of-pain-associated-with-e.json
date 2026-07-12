@@ -47,5 +47,8 @@
  "coreTheme": "Emotional Wellbeing",
  "primaryEntityUrl": "https://doi.org/10.1089/acm.2015.0343",
  "relatedThemePath": "/themes/emotional-wellbeing/",
- "aiSnippet": "RCT, Journal of alternative and complementary medicine (New York, N.Y.) (2017). There was no significant difference between the two groups regarding the diary of menstrual patterns (p = 0.96). Yoga practice was associated with a reduction in levels of chronic pelvic pain and an improvement in QoL in women with endometriosis."
+ "aiSnippet": "RCT, Journal of alternative and complementary medicine (New York, N.Y.) (2017). There was no significant difference between the two groups regarding the diary of menstrual patterns (p = 0.96). Yoga practice was associated with a reduction in levels of chronic pelvic pain and an improvement in QoL in women with endometriosis.",
+ "whyItMatters": "",
+ "mechanismOverlap": "none",
+ "mechanismGap": "The practice in this study does not share a specific breath-regulation or directed-attention mechanism with the Miracle of Mind practice, so no practice bridge is drawn here."
 }

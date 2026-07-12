@@ -43,6 +43,10 @@ const papers = defineCollection({
     primaryEntityUrl: z.string().optional().default(''),
     relatedThemePath: z.string().optional().default(''),
     aiSnippet: z.string().optional().default(''),
+    // --- Mechanistic-transfer bridge ("Why this matters for the 7-minute practice") ---
+    whyItMatters: z.string().optional().default(''),
+    mechanismOverlap: z.string().optional().default(''),
+    mechanismGap: z.string().optional().default(''),
   }),
 });
 

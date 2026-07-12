@@ -50,5 +50,8 @@
  "coreTheme": "Stress & Anxiety",
  "primaryEntityUrl": "https://doi.org/10.1016/j.jpainsymman.2016.08.005",
  "relatedThemePath": "/themes/stress-anxiety/",
- "aiSnippet": "RCT, Journal of pain and symptom management (2017). From baseline to six weeks, the model demonstrated evidence of MBSR(BC) effectiveness in both the psychological (anxiety, depression, perceived stress and QOL, emotional well-being) (P = 0.007) and fatigue (fatigue, sleep, and drowsiness) (P < 0.001) clusters. Our results provide clinical effectiveness evidence that MBSR(BC) works to improve symptom clusters, particularly for psychological and fatigue symptom clusters, with the greatest improvement occurring during the six-week program with sustained effects for several weeks after MBSR(BC) training."
+ "aiSnippet": "RCT, Journal of pain and symptom management (2017). From baseline to six weeks, the model demonstrated evidence of MBSR(BC) effectiveness in both the psychological (anxiety, depression, perceived stress and QOL, emotional well-being) (P = 0.007) and fatigue (fatigue, sleep, and drowsiness) (P < 0.001) clusters. Our results provide clinical effectiveness evidence that MBSR(BC) works to improve symptom clusters, particularly for psychological and fatigue symptom clusters, with the greatest improvement occurring during the six-week program with sustained effects for several weeks after MBSR(BC) training.",
+ "whyItMatters": "MoM shares directed attention (the focused-attention component) with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "attention",
+ "mechanismGap": ""
 }

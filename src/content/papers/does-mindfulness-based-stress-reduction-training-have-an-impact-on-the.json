@@ -51,5 +51,8 @@
  "coreTheme": "Emotional Wellbeing",
  "primaryEntityUrl": "https://doi.org/10.1007/s00420-024-02078-8",
  "relatedThemePath": "/themes/emotional-wellbeing/",
- "aiSnippet": "RCT, International archives of occupational and environmental health (2025). In an effort to combat burnout, a study investigates Mindfulness-Based Stress Reduction (MBSR) training for nurses. The goal is to reduce stress and improve job satisfaction, ultimately enhancing patient care."
+ "aiSnippet": "RCT, International archives of occupational and environmental health (2025). In an effort to combat burnout, a study investigates Mindfulness-Based Stress Reduction (MBSR) training for nurses. The goal is to reduce stress and improve job satisfaction, ultimately enhancing patient care.",
+ "whyItMatters": "MoM shares directed attention (the focused-attention component) with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "attention",
+ "mechanismGap": ""
 }

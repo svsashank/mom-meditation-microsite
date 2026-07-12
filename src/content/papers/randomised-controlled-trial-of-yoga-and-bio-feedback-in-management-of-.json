@@ -46,5 +46,8 @@
  "coreTheme": "Clinical Research",
  "primaryEntityUrl": "https://doi.org/10.1016/s0140-6736(75)90002-1",
  "relatedThemePath": "/themes/clinical-research/",
- "aiSnippet": "RCT, Lancet (London, England) (1975). 34 hypertensive patients were assigned at random either to six weeks' treatment by yoga relaxation methods with bio-feedback or to placebo therapy (general relaxation). Both groups showed a reduction in blood-pressure (from 168/100 to 141/84 mm."
+ "aiSnippet": "RCT, Lancet (London, England) (1975). 34 hypertensive patients were assigned at random either to six weeks' treatment by yoga relaxation methods with bio-feedback or to placebo therapy (general relaxation). Both groups showed a reduction in blood-pressure (from 168/100 to 141/84 mm.",
+ "whyItMatters": "",
+ "mechanismOverlap": "none",
+ "mechanismGap": "The practice in this study does not share a specific breath-regulation or directed-attention mechanism with the Miracle of Mind practice, so no practice bridge is drawn here."
 }

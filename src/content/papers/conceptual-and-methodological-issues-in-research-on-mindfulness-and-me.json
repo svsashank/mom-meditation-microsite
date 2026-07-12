@@ -47,5 +47,8 @@
  "coreTheme": "Emotional Wellbeing",
  "primaryEntityUrl": "https://doi.org/10.1037/a0039512",
  "relatedThemePath": "/themes/emotional-wellbeing/",
- "aiSnippet": "Meta-analysis / Systematic review, The American psychologist (2015). Both basic science and clinical research on mindfulness, meditation, and related constructs have dramatically increased in recent years. However, interpretation of these research results has been challenging."
+ "aiSnippet": "Meta-analysis / Systematic review, The American psychologist (2015). Both basic science and clinical research on mindfulness, meditation, and related constructs have dramatically increased in recent years. However, interpretation of these research results has been challenging.",
+ "whyItMatters": "MoM shares directed attention (the focused-attention component) with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "attention",
+ "mechanismGap": ""
 }

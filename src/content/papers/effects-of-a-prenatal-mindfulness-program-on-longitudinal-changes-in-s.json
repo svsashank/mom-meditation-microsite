@@ -50,5 +50,8 @@
  "coreTheme": "Stress & Anxiety",
  "primaryEntityUrl": "https://doi.org/10.1186/s12884-023-05873-2",
  "relatedThemePath": "/themes/stress-anxiety/",
- "aiSnippet": "RCT, BMC pregnancy and childbirth (2023). Despite this, there was no significant difference between the groups in terms of the quality of mother-infant bonding."
+ "aiSnippet": "RCT, BMC pregnancy and childbirth (2023). Despite this, there was no significant difference between the groups in terms of the quality of mother-infant bonding.",
+ "whyItMatters": "MoM shares directed attention (the focused-attention component) with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "attention",
+ "mechanismGap": ""
 }

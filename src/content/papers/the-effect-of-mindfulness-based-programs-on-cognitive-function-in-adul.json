@@ -51,5 +51,8 @@
  "coreTheme": "Focus & Attention",
  "primaryEntityUrl": "https://doi.org/10.1007/s11065-021-09519-y",
  "relatedThemePath": "/themes/focus-attention/",
- "aiSnippet": "Meta-analysis / Systematic review, Neuropsychology review (2022). Mindfulness-based programs (MBPs) are increasingly utilized to improve mental health. Interest in the putative effects of MBPs on cognitive function is also growing."
+ "aiSnippet": "Meta-analysis / Systematic review, Neuropsychology review (2022). Mindfulness-based programs (MBPs) are increasingly utilized to improve mental health. Interest in the putative effects of MBPs on cognitive function is also growing.",
+ "whyItMatters": "MoM shares directed attention (the focused-attention component) with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "attention",
+ "mechanismGap": ""
 }

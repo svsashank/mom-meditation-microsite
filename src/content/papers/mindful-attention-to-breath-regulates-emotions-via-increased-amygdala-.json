@@ -52,5 +52,8 @@
  "coreTheme": "Brain & Mechanisms",
  "primaryEntityUrl": "https://doi.org/10.1016/j.neuroimage.2016.03.041",
  "relatedThemePath": "/themes/brain-mechanisms/",
- "aiSnippet": "RCT, NeuroImage (2016). (2) Left dorso-medial prefrontal cortex was associated with ATB in general. (4) ATB down regulated amygdala activation and increased amygdala-prefrontal integration, with such increased integration being associated with mindfulness ability. Results suggest amygdala-dorsal prefrontal cortex integration as a potential neural pathway of emotion regulation by mindfulness practice."
+ "aiSnippet": "RCT, NeuroImage (2016). (2) Left dorso-medial prefrontal cortex was associated with ATB in general. (4) ATB down regulated amygdala activation and increased amygdala-prefrontal integration, with such increased integration being associated with mindfulness ability. Results suggest amygdala-dorsal prefrontal cortex integration as a potential neural pathway of emotion regulation by mindfulness practice.",
+ "whyItMatters": "MoM shares breath regulation and directed attention with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "breath+attention",
+ "mechanismGap": ""
 }

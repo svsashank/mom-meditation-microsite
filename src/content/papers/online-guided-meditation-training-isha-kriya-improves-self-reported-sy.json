@@ -51,5 +51,8 @@
  "coreTheme": "Stress & Anxiety",
  "primaryEntityUrl": "https://doi.org/10.3389/fpsyt.2022.944973",
  "relatedThemePath": "/themes/stress-anxiety/",
- "aiSnippet": "RCT, Frontiers in psychiatry (2022). These findings suggest that daily Isha Kriya practice could alleviate symptoms of these conditions."
+ "aiSnippet": "RCT, Frontiers in psychiatry (2022). These findings suggest that daily Isha Kriya practice could alleviate symptoms of these conditions.",
+ "whyItMatters": "MoM shares its breath-and-attention structure and brief, guided daily format with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "isha",
+ "mechanismGap": ""
 }

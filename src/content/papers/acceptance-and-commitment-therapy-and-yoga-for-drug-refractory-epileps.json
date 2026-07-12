@@ -48,5 +48,8 @@
  "coreTheme": "Brain & Mechanisms",
  "primaryEntityUrl": "https://doi.org/10.1016/j.yebeh.2008.02.009",
  "relatedThemePath": "/themes/brain-mechanisms/",
- "aiSnippet": "RCT, Epilepsy & behavior : E&B (2008). The results indicate that both ACT and yoga significantly reduce seizure index and increase quality of life over time. The results of this study suggest that complementary treatments, such as ACT and yoga, decrease seizure index and increase quality of life."
+ "aiSnippet": "RCT, Epilepsy & behavior : E&B (2008). The results indicate that both ACT and yoga significantly reduce seizure index and increase quality of life over time. The results of this study suggest that complementary treatments, such as ACT and yoga, decrease seizure index and increase quality of life.",
+ "whyItMatters": "",
+ "mechanismOverlap": "none",
+ "mechanismGap": "The practice in this study does not share a specific breath-regulation or directed-attention mechanism with the Miracle of Mind practice, so no practice bridge is drawn here."
 }

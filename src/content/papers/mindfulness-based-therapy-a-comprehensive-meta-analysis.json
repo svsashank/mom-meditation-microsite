@@ -49,5 +49,8 @@
  "coreTheme": "Emotional Wellbeing",
  "primaryEntityUrl": "https://doi.org/10.1016/j.cpr.2013.05.005",
  "relatedThemePath": "/themes/emotional-wellbeing/",
- "aiSnippet": "Meta-analysis / Systematic review, Clinical psychology review (2013). Effect-size estimates suggested that MBT is moderately effective in pre-post comparisons (n=72; Hedge's g=.55), in comparisons with waitlist controls (n=67; Hedge's g=.53), and when compared with other active treatments (n=68; Hedge's g=.33), including other psychological treatments (n=35; Hedge's g=.22)."
+ "aiSnippet": "Meta-analysis / Systematic review, Clinical psychology review (2013). Effect-size estimates suggested that MBT is moderately effective in pre-post comparisons (n=72; Hedge's g=.55), in comparisons with waitlist controls (n=67; Hedge's g=.53), and when compared with other active treatments (n=68; Hedge's g=.33), including other psychological treatments (n=35; Hedge's g=.22).",
+ "whyItMatters": "MoM shares directed attention (the focused-attention component) with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "attention",
+ "mechanismGap": ""
 }

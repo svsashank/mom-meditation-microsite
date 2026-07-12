@@ -49,5 +49,8 @@
  "coreTheme": "Emotional Wellbeing",
  "primaryEntityUrl": "https://doi.org/10.1016/j.jpsychores.2015.03.009",
  "relatedThemePath": "/themes/emotional-wellbeing/",
- "aiSnippet": "Meta-analysis / Systematic review, Journal of psychosomatic research (2015). Effect-size estimates suggested that MBSR is moderately effective in pre-post analyses (n=26; Hedge's g=.55; 95% CI [.44, .66], p<.00001) and in between group analyses (n=18; Hedge's g=.53; 95% CI [.41, .64], p<.00001). Results suggested large effects on stress, moderate effects on anxiety, depression, distress, and quality of life, and small effects on burnout."
+ "aiSnippet": "Meta-analysis / Systematic review, Journal of psychosomatic research (2015). Effect-size estimates suggested that MBSR is moderately effective in pre-post analyses (n=26; Hedge's g=.55; 95% CI [.44, .66], p<.00001) and in between group analyses (n=18; Hedge's g=.53; 95% CI [.41, .64], p<.00001). Results suggested large effects on stress, moderate effects on anxiety, depression, distress, and quality of life, and small effects on burnout.",
+ "whyItMatters": "MoM shares directed attention (the focused-attention component) with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "attention",
+ "mechanismGap": ""
 }

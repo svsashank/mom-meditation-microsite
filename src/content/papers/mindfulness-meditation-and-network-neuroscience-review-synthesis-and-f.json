@@ -50,5 +50,8 @@
  "coreTheme": "Brain & Mechanisms",
  "primaryEntityUrl": "https://doi.org/10.1016/j.bpsc.2024.11.005",
  "relatedThemePath": "/themes/brain-mechanisms/",
- "aiSnippet": "RCT, Biological psychiatry. Cognitive neuroscience and neuroimaging (2025). Although preliminary, results across studies suggest that mindfulness meditation results in a shift in connector hubs, such as the anterior cingulate cortex, the thalamus, and the mid-insula. Although there is mixed evidence regarding the impact of mindfulness training on global metrics of connectivity, the default mode network exhibits reduced intraconnectivity following mindfulness training."
+ "aiSnippet": "RCT, Biological psychiatry. Cognitive neuroscience and neuroimaging (2025). Although preliminary, results across studies suggest that mindfulness meditation results in a shift in connector hubs, such as the anterior cingulate cortex, the thalamus, and the mid-insula. Although there is mixed evidence regarding the impact of mindfulness training on global metrics of connectivity, the default mode network exhibits reduced intraconnectivity following mindfulness training.",
+ "whyItMatters": "MoM shares directed attention (the focused-attention component) with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "attention",
+ "mechanismGap": ""
 }

@@ -50,5 +50,8 @@
  "coreTheme": "Stress & Anxiety",
  "primaryEntityUrl": "https://doi.org/10.14309/ajg.0000000000002052",
  "relatedThemePath": "/themes/stress-anxiety/",
- "aiSnippet": "RCT, The American journal of gastroenterology (2023). The evidence for efficacy, feasibility, and safety of virtually delivered yoga for patients with IBS is unknown. No significant difference was found between groups in IBS-SSS score postintervention ( P = 0.149), but significant differences in favor of the treatment group for quality of life ( P = 0.030), fatigue ( P = 0.035), and perceived stress ( P = 0.040) were identified."
+ "aiSnippet": "RCT, The American journal of gastroenterology (2023). The evidence for efficacy, feasibility, and safety of virtually delivered yoga for patients with IBS is unknown. No significant difference was found between groups in IBS-SSS score postintervention ( P = 0.149), but significant differences in favor of the treatment group for quality of life ( P = 0.030), fatigue ( P = 0.035), and perceived stress ( P = 0.040) were identified.",
+ "whyItMatters": "",
+ "mechanismOverlap": "none",
+ "mechanismGap": "The practice in this study does not share a specific breath-regulation or directed-attention mechanism with the Miracle of Mind practice, so no practice bridge is drawn here."
 }

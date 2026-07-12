@@ -52,5 +52,8 @@
  "coreTheme": "Focus & Attention",
  "primaryEntityUrl": "https://doi.org/10.1001/jama.2022.21680",
  "relatedThemePath": "/themes/focus-attention/",
- "aiSnippet": "RCT, JAMA (2022). The 2 primary outcomes were composites of episodic memory and executive function (standardized to a mean [SD] of 0 [1]; higher composite scores indicate better cognitive performance) from neuropsychological testing; the primary end point was 6 months and the secondary end point was 18 months. At 6 months, there was no significant effect of mindfulness training or exercise on episodic memory (MBSR vs no MBSR: 0.44 vs 0.48; mean difference, -0.04 points [95% CI, -0.15 to 0.07]; P = .50; exercise vs no exercise: 0.49 vs 0.42; difference, 0.07 [95% CI, -0.04 to 0.17]; P = .23)\u2026"
+ "aiSnippet": "RCT, JAMA (2022). The 2 primary outcomes were composites of episodic memory and executive function (standardized to a mean [SD] of 0 [1]; higher composite scores indicate better cognitive performance) from neuropsychological testing; the primary end point was 6 months and the secondary end point was 18 months. At 6 months, there was no significant effect of mindfulness training or exercise on episodic memory (MBSR vs no MBSR: 0.44 vs 0.48; mean difference, -0.04 points [95% CI, -0.15 to 0.07]; P = .50; exercise vs no exercise: 0.49 vs 0.42; difference, 0.07 [95% CI, -0.04 to 0.17]; P = .23)\u2026",
+ "whyItMatters": "MoM shares directed attention (the focused-attention component) in a brief, guided format with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "attention",
+ "mechanismGap": ""
 }

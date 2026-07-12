@@ -46,5 +46,8 @@
  "coreTheme": "Focus & Attention",
  "primaryEntityUrl": "https://doi.org/10.1097/PSY.0000000000000218",
  "relatedThemePath": "/themes/focus-attention/",
- "aiSnippet": "Meta-analysis / Systematic review, Psychosomatic medicine (2015). Yoga practice seems to be associated with moderate improvements in cognitive function."
+ "aiSnippet": "Meta-analysis / Systematic review, Psychosomatic medicine (2015). Yoga practice seems to be associated with moderate improvements in cognitive function.",
+ "whyItMatters": "",
+ "mechanismOverlap": "none",
+ "mechanismGap": "The practice in this study does not share a specific breath-regulation or directed-attention mechanism with the Miracle of Mind practice, so no practice bridge is drawn here."
 }

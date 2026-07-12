@@ -49,5 +49,8 @@
  "coreTheme": "Stress & Anxiety",
  "primaryEntityUrl": "https://doi.org/10.1186/s40359-021-00520-x",
  "relatedThemePath": "/themes/stress-anxiety/",
- "aiSnippet": "RCT, BMC psychology (2021). We found that High Trait individuals have lower anxiety trait, anxiety state and perceived stress levels. Both groups reduced negative affect and cortisol, and no change was found in positive affect. Together, these results suggest that higher trait mindfulness is associated with low levels of psychological distress and that a brief mindfulness-based intervention seems to be useful to reduce distress measures in university students."
+ "aiSnippet": "RCT, BMC psychology (2021). We found that High Trait individuals have lower anxiety trait, anxiety state and perceived stress levels. Both groups reduced negative affect and cortisol, and no change was found in positive affect. Together, these results suggest that higher trait mindfulness is associated with low levels of psychological distress and that a brief mindfulness-based intervention seems to be useful to reduce distress measures in university students.",
+ "whyItMatters": "MoM shares directed attention (the focused-attention component) in a brief, guided format with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "attention",
+ "mechanismGap": ""
 }

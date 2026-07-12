@@ -51,5 +51,8 @@
  "coreTheme": "Emotional Wellbeing",
  "primaryEntityUrl": "https://doi.org/10.1016/j.cpr.2017.10.011",
  "relatedThemePath": "/themes/emotional-wellbeing/",
- "aiSnippet": "Meta-analysis / Systematic review, Clinical psychology review (2018). Mindfulness conditions did not differ from minimal treatment conditions (d=0.38) and evidence-based treatments (d=0.09). Effects on specific disorder subgroups showed the most consistent evidence in support of mindfulness for depression, pain conditions, smoking, and addictive disorders. Results support the notion that mindfulness-based interventions hold promise as evidence-based treatments."
+ "aiSnippet": "Meta-analysis / Systematic review, Clinical psychology review (2018). Mindfulness conditions did not differ from minimal treatment conditions (d=0.38) and evidence-based treatments (d=0.09). Effects on specific disorder subgroups showed the most consistent evidence in support of mindfulness for depression, pain conditions, smoking, and addictive disorders. Results support the notion that mindfulness-based interventions hold promise as evidence-based treatments.",
+ "whyItMatters": "MoM shares directed attention (the focused-attention component) with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "attention",
+ "mechanismGap": ""
 }

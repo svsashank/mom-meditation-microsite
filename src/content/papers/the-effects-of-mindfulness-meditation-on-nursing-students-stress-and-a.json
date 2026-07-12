@@ -47,5 +47,8 @@
  "coreTheme": "Stress & Anxiety",
  "primaryEntityUrl": "https://doi.org/10.1097/01.NEP.0000000000001159",
  "relatedThemePath": "/themes/stress-anxiety/",
- "aiSnippet": "RCT, Nursing education perspectives (2024). The aim of this study was to evaluate the effects of a virtual mindfulness meditation intervention on stress and anxiety levels of 145 nursing students. Because of the twin demands of classroom and clinical workloads, nursing students experience greater amounts of stress and anxiety than the average college student."
+ "aiSnippet": "RCT, Nursing education perspectives (2024). The aim of this study was to evaluate the effects of a virtual mindfulness meditation intervention on stress and anxiety levels of 145 nursing students. Because of the twin demands of classroom and clinical workloads, nursing students experience greater amounts of stress and anxiety than the average college student.",
+ "whyItMatters": "MoM shares directed attention (the focused-attention component) with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "attention",
+ "mechanismGap": ""
 }

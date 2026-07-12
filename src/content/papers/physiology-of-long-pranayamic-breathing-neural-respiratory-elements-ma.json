@@ -47,5 +47,8 @@
  "coreTheme": "Brain & Mechanisms",
  "primaryEntityUrl": "https://doi.org/10.1016/j.mehy.2006.02.042",
  "relatedThemePath": "/themes/brain-mechanisms/",
- "aiSnippet": "Cross-sectional / Mechanistic, Medical hypotheses (2006). Both inhibitory impulses and hyperpolarization current are known to synchronize neural elements leading to the modulation of the nervous system and decreased metabolic activity indicative of the parasympathetic state."
+ "aiSnippet": "Cross-sectional / Mechanistic, Medical hypotheses (2006). Both inhibitory impulses and hyperpolarization current are known to synchronize neural elements leading to the modulation of the nervous system and decreased metabolic activity indicative of the parasympathetic state.",
+ "whyItMatters": "MoM shares yogic breath regulation with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "breath",
+ "mechanismGap": ""
 }

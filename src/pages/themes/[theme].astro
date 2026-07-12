@@ -11,6 +11,11 @@ export async function getStaticPaths(){
 const { theme } = Astro.props;
 const b = import.meta.env.BASE_URL.replace(/\/$/, '');
 const papers = (await getCollection('papers')).filter(p=>p.data.theme===theme).sort((a,b)=>b.data.citationCount-a.data.citationCount);
+const bridged = papers.filter(p=>p.data.whyItMatters);
+const hasBreath = bridged.some(p=>['breath','breath+attention','isha'].includes(p.data.mechanismOverlap));
+const hasAttn = bridged.some(p=>['attention','breath+attention','isha'].includes(p.data.mechanismOverlap));
+const mechPhrase = (hasBreath && hasAttn) ? 'breath regulation and directed attention'
+  : hasBreath ? 'breath regulation' : hasAttn ? 'directed attention' : '';
 const meta = { meta:papers.filter(p=>p.data.studyType.startsWith('Meta')).length,
   rct:papers.filter(p=>p.data.studyType==='RCT').length };
 let quote=null; try{ quote = await getEntry('quotes', slug(theme)); }catch(e){}
@@ -40,6 +45,13 @@ const overview={
     )}
     {(!quote || !quote.data.verified) && (
       <div class="wisdom"><p class="pending">A verified anchor quote on {theme} will appear here, sourced verbatim from isha.sadhguru.org.</p></div>
+    )}
+
+    {bridged.length > 0 && mechPhrase && (
+      <section id="why-mom" class="why-mom" aria-label="Why this matters for the 7-minute practice">
+        <h3>Why this matters for the 7-minute practice</h3>
+        <p>Many practices summarized in this hub work through {mechPhrase} — the same components as the Miracle of Mind practice. Because the benefit is linked to those mechanisms rather than to any one method, it's reasonable to expect it may extend to MoM as well — though MoM hasn't been studied directly for these outcomes.</p>
+      </section>
     )}
 
     <div class="grid">

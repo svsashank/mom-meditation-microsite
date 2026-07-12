@@ -46,5 +46,8 @@
  "coreTheme": "Emotional Wellbeing",
  "primaryEntityUrl": "https://doi.org/10.1016/j.brat.2005.12.007",
  "relatedThemePath": "/themes/emotional-wellbeing/",
- "aiSnippet": "RCT, Behaviour research and therapy (2006). The current study investigated whether a 15 min recorded focused breathing induction in a normal, primarily undergraduate population would decrease the intensity and negativity of emotional responses to affectively valenced picture slides and increase willingness to remain in contact with aversive picture slides. The effects of the focused breathing induction were compared with the effects of 15 min recorded inductions of unfocused attention and worrying."
+ "aiSnippet": "RCT, Behaviour research and therapy (2006). The current study investigated whether a 15 min recorded focused breathing induction in a normal, primarily undergraduate population would decrease the intensity and negativity of emotional responses to affectively valenced picture slides and increase willingness to remain in contact with aversive picture slides. The effects of the focused breathing induction were compared with the effects of 15 min recorded inductions of unfocused attention and worrying.",
+ "whyItMatters": "MoM shares breath regulation and directed attention in a brief, guided format with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "breath+attention",
+ "mechanismGap": ""
 }

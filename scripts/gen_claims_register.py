@@ -25,6 +25,21 @@ for slug,d in papers:
           "bidmc": "Y" if d.get("bidmc") else "N",
           "reviewer_signoff": "",
         })
+    # Mechanistic-transfer bridge claim ("Why this matters for the 7-minute practice")
+    if d.get("whyItMatters"):
+        rows.append({
+          "page": base_url+slug+"/",
+          "claim_text": d["whyItMatters"],
+          "claim_strength": "Mechanistic-transfer inference (hedged; MoM not studied directly)",
+          "study_type": d["studyType"],
+          "source_doi": d["doi"],
+          "practice_studied": d["practiceStudied"],
+          "is_MoM": d["isMoM"],
+          "theme": d["theme"],
+          "null_or_critical": "mechanistic-transfer bridge ("+d.get("mechanismOverlap","")+")",
+          "bidmc": "Y" if d.get("bidmc") else "N",
+          "reviewer_signoff": "",
+        })
 
 # Write machine-readable CSV companion + human-readable markdown
 with open('data/claims-register.csv','w',newline='') as f:
@@ -42,6 +57,7 @@ lines.append("\n**Status:** DRAFT — generated from auto-drafted page content. 
 lines.append(f"\n**Totals:** {len(rows)} registered claims across {len(papers)} papers. ")
 nmom=sum(1 for r in rows if r['is_MoM']=='N'); adj=sum(1 for r in rows if r['is_MoM']=='adjacent')
 lines.append(f"{adj} claims come from MoM-adjacent (breath-and-attention) practices; {nmom} from practices that are **not** the MoM practice (transfer gap noted on-page). \n")
+lines.append("\n**Includes a distinct claim class:** *mechanistic-transfer inference* rows — the \"Why this matters for the 7-minute practice\" bridges. Each states MoM shares a specific mechanism (breath regulation and/or directed attention) with the studied practice and that a benefit *may* extend to MoM, always ending \"…though MoM hasn't been studied directly for this outcome.\" 72 papers carry one; 28 do not (no specific shared mechanism — see FLAGGED F24). These inferences need reviewer scrutiny of the *inference itself*, not just the source finding.\n")
 lines.append("\nMachine-readable copy: `data/claims-register.csv`.\n")
 lines.append("\n## How to read a row\n")
 lines.append("- **Claim** — the statement as it appears (or is derived) on the page.\n- **Strength** — evidence tier framing (meta-analytic / randomized-trial / longitudinal / mechanistic). Claims must never be phrased more strongly than this.\n- **Practice / MoM?** — the practice actually studied, and whether it is the Miracle of Mind practice (Y), MoM-adjacent breath-and-attention (adjacent), or unrelated (N).\n- **Source** — DOI of the single paper on the same page supporting the claim.\n- **Sign-off** — blank until a qualified reviewer approves the claim and its phrasing.\n")

@@ -52,5 +52,8 @@
  "coreTheme": "Emotional Wellbeing",
  "primaryEntityUrl": "https://doi.org/10.1038/s41598-021-99882-w",
  "relatedThemePath": "/themes/emotional-wellbeing/",
- "aiSnippet": "Meta-analysis / Systematic review, Scientific reports (2021). This meta-analysis systematically reviewed the evidence on standardized acceptance-/mindfulness-based interventions in DSM-5 anxiety disorders. We found 23 studies, mostly of unclear risk of bias, including 1815 adults with different DSM-5 anxiety disorders. The evidence suggests short-term anxiolytic effects of acceptance- and mindfulness-based interventions."
+ "aiSnippet": "Meta-analysis / Systematic review, Scientific reports (2021). This meta-analysis systematically reviewed the evidence on standardized acceptance-/mindfulness-based interventions in DSM-5 anxiety disorders. We found 23 studies, mostly of unclear risk of bias, including 1815 adults with different DSM-5 anxiety disorders. The evidence suggests short-term anxiolytic effects of acceptance- and mindfulness-based interventions.",
+ "whyItMatters": "MoM shares directed attention (the focused-attention component) in a brief, guided format with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "attention",
+ "mechanismGap": ""
 }

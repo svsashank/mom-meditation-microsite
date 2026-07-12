@@ -51,5 +51,8 @@
  "coreTheme": "Sleep",
  "primaryEntityUrl": "https://doi.org/10.1186/s12966-019-0789-2",
  "relatedThemePath": "/themes/sleep/",
- "aiSnippet": "Meta-analysis / Systematic review, The international journal of behavioral nutrition and physical activity (2019). For HRQoL, significant effects favouring yoga were found compared to inactive controls for: depression (ES = 0.64), perceived mental health (ES = 0.6), perceived physical health (ES = 0.61), sleep quality (ES = 0.65), and vitality (ES = 0.31); compared to active controls: depression (ES = 0.54). Results indicate that yoga interventions improve multiple physical function and HRQoL outcomes in this population compared to both control conditions. This study provides robust evidence for promoting yoga in physical activity guidelines for older adults as a multimodal activity\u2026"
+ "aiSnippet": "Meta-analysis / Systematic review, The international journal of behavioral nutrition and physical activity (2019). For HRQoL, significant effects favouring yoga were found compared to inactive controls for: depression (ES = 0.64), perceived mental health (ES = 0.6), perceived physical health (ES = 0.61), sleep quality (ES = 0.65), and vitality (ES = 0.31); compared to active controls: depression (ES = 0.54). Results indicate that yoga interventions improve multiple physical function and HRQoL outcomes in this population compared to both control conditions. This study provides robust evidence for promoting yoga in physical activity guidelines for older adults as a multimodal activity\u2026",
+ "whyItMatters": "",
+ "mechanismOverlap": "none",
+ "mechanismGap": "The practice in this study does not share a specific breath-regulation or directed-attention mechanism with the Miracle of Mind practice, so no practice bridge is drawn here."
 }

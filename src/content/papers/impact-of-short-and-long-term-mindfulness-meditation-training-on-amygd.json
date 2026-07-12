@@ -52,5 +52,8 @@
  "coreTheme": "Stress & Anxiety",
  "primaryEntityUrl": "https://doi.org/10.1016/j.neuroimage.2018.07.013",
  "relatedThemePath": "/themes/stress-anxiety/",
- "aiSnippet": "RCT, NeuroImage (2018). Meditation training was associated with less amygdala reactivity to positive pictures relative to controls, but there were no group differences in response to negative pictures. Reductions in reactivity to negative stimuli may require more practice experience or concentrated practice, as hours of retreat practice in long-term meditators was associated with lower amygdala reactivity to negative pictures - yet we did not see this relationship for practice time with MBSR."
+ "aiSnippet": "RCT, NeuroImage (2018). Meditation training was associated with less amygdala reactivity to positive pictures relative to controls, but there were no group differences in response to negative pictures. Reductions in reactivity to negative stimuli may require more practice experience or concentrated practice, as hours of retreat practice in long-term meditators was associated with lower amygdala reactivity to negative pictures - yet we did not see this relationship for practice time with MBSR.",
+ "whyItMatters": "MoM shares directed attention (the focused-attention component) in a brief, guided format with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "attention",
+ "mechanismGap": ""
 }

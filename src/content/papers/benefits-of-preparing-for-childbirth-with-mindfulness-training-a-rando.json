@@ -53,5 +53,8 @@
  "coreTheme": "Stress & Anxiety",
  "primaryEntityUrl": "https://doi.org/10.1186/s12884-017-1319-3",
  "relatedThemePath": "/themes/stress-anxiety/",
- "aiSnippet": "RCT, BMC pregnancy and childbirth (2017). Mindfulness approaches, now widely disseminated, can alleviate symptoms of both chronic and acute pain and improve psychological adjustment, suggesting potential benefit when applied to childbirth education. This study suggests mindfulness training carefully tailored to address fear and pain of childbirth may lead to important maternal mental health benefits, including improvements in childbirth-related appraisals \ufeffand\ufeff the prevention of postpartum depression symptoms. There is also some indication that MIL participants may use mindfulness coping in lieu of systemic opioid pain medication."
+ "aiSnippet": "RCT, BMC pregnancy and childbirth (2017). Mindfulness approaches, now widely disseminated, can alleviate symptoms of both chronic and acute pain and improve psychological adjustment, suggesting potential benefit when applied to childbirth education. This study suggests mindfulness training carefully tailored to address fear and pain of childbirth may lead to important maternal mental health benefits, including improvements in childbirth-related appraisals \ufeffand\ufeff the prevention of postpartum depression symptoms. There is also some indication that MIL participants may use mindfulness coping in lieu of systemic opioid pain medication.",
+ "whyItMatters": "MoM shares directed attention (the focused-attention component) in a brief, guided format with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "attention",
+ "mechanismGap": ""
 }

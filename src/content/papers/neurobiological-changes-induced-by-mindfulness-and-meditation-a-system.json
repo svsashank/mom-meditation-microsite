@@ -49,5 +49,8 @@
  "coreTheme": "Emotional Wellbeing",
  "primaryEntityUrl": "https://doi.org/10.3390/biomedicines12112613",
  "relatedThemePath": "/themes/emotional-wellbeing/",
- "aiSnippet": "Meta-analysis / Systematic review, Biomedicines (2024). A meta-analysis / systematic review of mindfulness / meditation examined emotional wellbeing."
+ "aiSnippet": "Meta-analysis / Systematic review, Biomedicines (2024). A meta-analysis / systematic review of mindfulness / meditation examined emotional wellbeing.",
+ "whyItMatters": "MoM shares directed attention (the focused-attention component) with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "attention",
+ "mechanismGap": ""
 }

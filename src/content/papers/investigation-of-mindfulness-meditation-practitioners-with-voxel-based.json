@@ -50,5 +50,8 @@
  "coreTheme": "Brain & Mechanisms",
  "primaryEntityUrl": "https://doi.org/10.1093/scan/nsm038",
  "relatedThemePath": "/themes/brain-mechanisms/",
- "aiSnippet": "Cross-sectional / Mechanistic, Social cognitive and affective neuroscience (2008). Both regions have previously been found to be involved in meditation. Results suggest that meditation practice is associated with structural differences in regions that are typically activated during meditation and in regions that are relevant for the task of meditation."
+ "aiSnippet": "Cross-sectional / Mechanistic, Social cognitive and affective neuroscience (2008). Both regions have previously been found to be involved in meditation. Results suggest that meditation practice is associated with structural differences in regions that are typically activated during meditation and in regions that are relevant for the task of meditation.",
+ "whyItMatters": "MoM shares directed attention (the focused-attention component) in a brief, guided format with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "attention",
+ "mechanismGap": ""
 }

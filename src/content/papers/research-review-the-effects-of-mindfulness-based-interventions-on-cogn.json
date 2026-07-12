@@ -50,5 +50,8 @@
  "coreTheme": "Focus & Attention",
  "primaryEntityUrl": "https://doi.org/10.1111/jcpp.12980",
  "relatedThemePath": "/themes/focus-attention/",
- "aiSnippet": "Meta-analysis / Systematic review, Journal of child psychology and psychiatry, and allied disciplines (2019). Mindfulness based interventions (MBIs) are an increasingly popular way of attempting to improve the behavioural, cognitive and mental health outcomes of children and adolescents, though there is a suggestion that enthusiasm has moved ahead of the evidence base. Across all RCTs we found significant positive effects of MBIs, relative to controls, for the outcome categories of Mindfulness, Executive Functioning, Attention, Depression, Anxiety/Stress and Negative Behaviours, with small effect sizes (Cohen's d), ranging from .16 to .30."
+ "aiSnippet": "Meta-analysis / Systematic review, Journal of child psychology and psychiatry, and allied disciplines (2019). Mindfulness based interventions (MBIs) are an increasingly popular way of attempting to improve the behavioural, cognitive and mental health outcomes of children and adolescents, though there is a suggestion that enthusiasm has moved ahead of the evidence base. Across all RCTs we found significant positive effects of MBIs, relative to controls, for the outcome categories of Mindfulness, Executive Functioning, Attention, Depression, Anxiety/Stress and Negative Behaviours, with small effect sizes (Cohen's d), ranging from .16 to .30.",
+ "whyItMatters": "MoM shares directed attention (the focused-attention component) with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "attention",
+ "mechanismGap": ""
 }

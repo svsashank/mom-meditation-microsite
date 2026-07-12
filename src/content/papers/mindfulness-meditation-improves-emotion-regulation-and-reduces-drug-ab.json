@@ -47,5 +47,8 @@
  "coreTheme": "Brain & Mechanisms",
  "primaryEntityUrl": "https://doi.org/10.1016/j.drugalcdep.2015.11.041",
  "relatedThemePath": "/themes/brain-mechanisms/",
- "aiSnippet": "RCT, Drug and alcohol dependence (2016). In both smokers and nonsmokers, improved self-control abilities in emotion regulation and stress reduction were found after training and these changes were related to increased ACC/mPFC activity following training. These results indicate that promoting emotion regulation and improving ACC/mPFC brain activity can help for addiction prevention and treatment."
+ "aiSnippet": "RCT, Drug and alcohol dependence (2016). In both smokers and nonsmokers, improved self-control abilities in emotion regulation and stress reduction were found after training and these changes were related to increased ACC/mPFC activity following training. These results indicate that promoting emotion regulation and improving ACC/mPFC brain activity can help for addiction prevention and treatment.",
+ "whyItMatters": "MoM shares directed attention (the focused-attention component) in a brief, guided format with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "attention",
+ "mechanismGap": ""
 }

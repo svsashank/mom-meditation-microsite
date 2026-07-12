@@ -50,5 +50,8 @@
  "coreTheme": "Stress & Anxiety",
  "primaryEntityUrl": "https://doi.org/10.1002/jclp.20491",
  "relatedThemePath": "/themes/stress-anxiety/",
- "aiSnippet": "RCT, Journal of clinical psychology (2008). The current study offers preliminary evidence that at least one aspect of mindfulness, measured by the Mindful Attention and Awareness Scale (MAAS; K. These results suggest that distinct meditation-based practices can increase mindfulness as measured by the MAAS, which may partly mediate benefits."
+ "aiSnippet": "RCT, Journal of clinical psychology (2008). The current study offers preliminary evidence that at least one aspect of mindfulness, measured by the Mindful Attention and Awareness Scale (MAAS; K. These results suggest that distinct meditation-based practices can increase mindfulness as measured by the MAAS, which may partly mediate benefits.",
+ "whyItMatters": "MoM shares directed attention (the focused-attention component) with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "attention",
+ "mechanismGap": ""
 }

@@ -49,5 +49,8 @@
  "coreTheme": "Emotional Wellbeing",
  "primaryEntityUrl": "https://doi.org/10.3389/fpubh.2024.1406937",
  "relatedThemePath": "/themes/emotional-wellbeing/",
- "aiSnippet": "RCT, Frontiers in public health (2024). The purpose of this study has been to analyze the efficacy of a yoga-based intervention on stress, emotional wellbeing, state anxiety and trait anxiety in university students. This study was a randomized controlled trial."
+ "aiSnippet": "RCT, Frontiers in public health (2024). The purpose of this study has been to analyze the efficacy of a yoga-based intervention on stress, emotional wellbeing, state anxiety and trait anxiety in university students. This study was a randomized controlled trial.",
+ "whyItMatters": "",
+ "mechanismOverlap": "none",
+ "mechanismGap": "The practice in this study does not share a specific breath-regulation or directed-attention mechanism with the Miracle of Mind practice, so no practice bridge is drawn here."
 }

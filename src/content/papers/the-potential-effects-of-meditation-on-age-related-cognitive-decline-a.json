@@ -48,5 +48,8 @@
  "coreTheme": "Focus & Attention",
  "primaryEntityUrl": "https://doi.org/10.1111/nyas.12348",
  "relatedThemePath": "/themes/focus-attention/",
- "aiSnippet": "Meta-analysis / Systematic review, Annals of the New York Academy of Sciences (2014). Growing evidence suggests that cognitive training programs may have the potential to counteract this decline. We conclude that meditation interventions for older adults are feasible, and preliminary evidence suggests that meditation can offset age-related cognitive decline."
+ "aiSnippet": "Meta-analysis / Systematic review, Annals of the New York Academy of Sciences (2014). Growing evidence suggests that cognitive training programs may have the potential to counteract this decline. We conclude that meditation interventions for older adults are feasible, and preliminary evidence suggests that meditation can offset age-related cognitive decline.",
+ "whyItMatters": "MoM shares directed attention (the focused-attention component) with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "attention",
+ "mechanismGap": ""
 }

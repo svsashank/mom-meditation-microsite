@@ -49,5 +49,8 @@
  "coreTheme": "Clinical Research",
  "primaryEntityUrl": "https://doi.org/10.4088/JCP.13m08561",
  "relatedThemePath": "/themes/clinical-research/",
- "aiSnippet": "RCT, The Journal of clinical psychiatry (2014). Yoga may improve the functioning of traumatized individuals by helping them to tolerate physical and sensory experiences associated with fear and helplessness and to increase emotional awareness and affect tolerance."
+ "aiSnippet": "RCT, The Journal of clinical psychiatry (2014). Yoga may improve the functioning of traumatized individuals by helping them to tolerate physical and sensory experiences associated with fear and helplessness and to increase emotional awareness and affect tolerance.",
+ "whyItMatters": "",
+ "mechanismOverlap": "none",
+ "mechanismGap": "The practice in this study does not share a specific breath-regulation or directed-attention mechanism with the Miracle of Mind practice, so no practice bridge is drawn here."
 }

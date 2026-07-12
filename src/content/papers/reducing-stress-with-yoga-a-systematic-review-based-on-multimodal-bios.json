@@ -47,5 +47,8 @@
  "coreTheme": "Focus & Attention",
  "primaryEntityUrl": "https://doi.org/10.4103/ijoy.ijoy_218_23",
  "relatedThemePath": "/themes/focus-attention/",
- "aiSnippet": "Meta-analysis / Systematic review, International journal of yoga (2023). The multifaceted character of stress and the extensive research undertaken in this field indicate that the proposed approach would rely on multiple modalities."
+ "aiSnippet": "Meta-analysis / Systematic review, International journal of yoga (2023). The multifaceted character of stress and the extensive research undertaken in this field indicate that the proposed approach would rely on multiple modalities.",
+ "whyItMatters": "MoM shares directed attention (the focused-attention component) with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "attention",
+ "mechanismGap": ""
 }

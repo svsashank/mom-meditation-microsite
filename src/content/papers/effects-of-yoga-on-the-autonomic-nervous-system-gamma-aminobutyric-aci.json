@@ -49,5 +49,8 @@
  "coreTheme": "Brain & Mechanisms",
  "primaryEntityUrl": "https://doi.org/10.1016/j.mehy.2012.01.021",
  "relatedThemePath": "/themes/brain-mechanisms/",
- "aiSnippet": "Cross-sectional / Mechanistic, Medical hypotheses (2012). A theory is proposed to explain the benefits of yoga practices in diverse, frequently comorbid medical conditions based on the concept that yoga practices reduce allostatic load in stress response systems such that optimal homeostasis is restored. It is hypothesized that stress induces (1) imbalance of the autonomic nervous system (ANS) with decreased parasympathetic nervous system (PNS) and increased sympathetic nervous system (SNS) activity, (2) underactivity of the gamma amino-butyric acid (GABA) system, the primary inhibitory neurotransmitter system, and (3) increased allostatic load."
+ "aiSnippet": "Cross-sectional / Mechanistic, Medical hypotheses (2012). A theory is proposed to explain the benefits of yoga practices in diverse, frequently comorbid medical conditions based on the concept that yoga practices reduce allostatic load in stress response systems such that optimal homeostasis is restored. It is hypothesized that stress induces (1) imbalance of the autonomic nervous system (ANS) with decreased parasympathetic nervous system (PNS) and increased sympathetic nervous system (SNS) activity, (2) underactivity of the gamma amino-butyric acid (GABA) system, the primary inhibitory neurotransmitter system, and (3) increased allostatic load.",
+ "whyItMatters": "",
+ "mechanismOverlap": "none",
+ "mechanismGap": "The practice in this study does not share a specific breath-regulation or directed-attention mechanism with the Miracle of Mind practice, so no practice bridge is drawn here."
 }

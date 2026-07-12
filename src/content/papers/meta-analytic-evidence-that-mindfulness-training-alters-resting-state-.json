@@ -50,5 +50,8 @@
  "coreTheme": "Brain & Mechanisms",
  "primaryEntityUrl": "https://doi.org/10.1038/s41598-022-15195-6",
  "relatedThemePath": "/themes/brain-mechanisms/",
- "aiSnippet": "Meta-analysis / Systematic review, Scientific reports (2022). This meta-analysis sought to expand upon neurobiological models of mindfulness through investigation of inherent brain network connectivity outcomes, indexed via resting state functional connectivity (rsFC). We conducted a systematic review and meta-analysis of rsFC as an outcome of mindfulness training (MT) relative to control, with the hypothesis that MT would increase cross-network connectivity between nodes of the Default Mode Network (DMN), Salience Network (SN), and Frontoparietal Control Network (FPCN) as a mechanism of internally-oriented attentional control."
+ "aiSnippet": "Meta-analysis / Systematic review, Scientific reports (2022). This meta-analysis sought to expand upon neurobiological models of mindfulness through investigation of inherent brain network connectivity outcomes, indexed via resting state functional connectivity (rsFC). We conducted a systematic review and meta-analysis of rsFC as an outcome of mindfulness training (MT) relative to control, with the hypothesis that MT would increase cross-network connectivity between nodes of the Default Mode Network (DMN), Salience Network (SN), and Frontoparietal Control Network (FPCN) as a mechanism of internally-oriented attentional control.",
+ "whyItMatters": "MoM shares directed attention (the focused-attention component) with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "attention",
+ "mechanismGap": ""
 }

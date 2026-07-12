@@ -51,5 +51,8 @@
  "coreTheme": "Sleep",
  "primaryEntityUrl": "https://doi.org/10.1186/s12888-020-02566-4",
  "relatedThemePath": "/themes/sleep/",
- "aiSnippet": "Meta-analysis / Systematic review, BMC psychiatry (2020). Four RCTs revealed no evidence for the effects of yoga compared with the control group in improving the sleep quality for peri/postmenopausal women using PSQI (SMD = - 0.31; 95% CI = - 0.95 to 0.33; P = 0.34). Yoga was not associated with any serious adverse events. The moderator analyses suggest that participants in the non-breast cancer subgroup and participants in the non-peri/postmenopausal subgroup were associated with greater benefits, with a direct correlation of total class time with quality of sleep among other related benefits."
+ "aiSnippet": "Meta-analysis / Systematic review, BMC psychiatry (2020). Four RCTs revealed no evidence for the effects of yoga compared with the control group in improving the sleep quality for peri/postmenopausal women using PSQI (SMD = - 0.31; 95% CI = - 0.95 to 0.33; P = 0.34). Yoga was not associated with any serious adverse events. The moderator analyses suggest that participants in the non-breast cancer subgroup and participants in the non-peri/postmenopausal subgroup were associated with greater benefits, with a direct correlation of total class time with quality of sleep among other related benefits.",
+ "whyItMatters": "",
+ "mechanismOverlap": "none",
+ "mechanismGap": "The practice in this study does not share a specific breath-regulation or directed-attention mechanism with the Miracle of Mind practice, so no practice bridge is drawn here."
 }

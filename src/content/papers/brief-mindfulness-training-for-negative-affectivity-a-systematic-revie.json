@@ -50,5 +50,8 @@
  "coreTheme": "Brief & App-Based Practice",
  "primaryEntityUrl": "https://doi.org/10.1037/ccp0000324",
  "relatedThemePath": "/themes/brief-app-based-practice/",
- "aiSnippet": "Meta-analysis / Systematic review, Journal of consulting and clinical psychology (2018). No significant effect size differences were found between clinical and nonclinical samples. This meta-analysis indicates that brief mindfulness training modestly reduces negative affectivity. Quantitative analyses indicated the presence of publication bias (i.e., unpublished null effect studies), highlighting the need to continue rigorous evaluation of brief mindfulness interventions."
+ "aiSnippet": "Meta-analysis / Systematic review, Journal of consulting and clinical psychology (2018). No significant effect size differences were found between clinical and nonclinical samples. This meta-analysis indicates that brief mindfulness training modestly reduces negative affectivity. Quantitative analyses indicated the presence of publication bias (i.e., unpublished null effect studies), highlighting the need to continue rigorous evaluation of brief mindfulness interventions.",
+ "whyItMatters": "MoM shares directed attention (the focused-attention component) in a brief, guided format with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "attention",
+ "mechanismGap": ""
 }

@@ -48,5 +48,8 @@
  "coreTheme": "Brief & App-Based Practice",
  "primaryEntityUrl": "https://doi.org/10.1016/j.ctcp.2021.101329",
  "relatedThemePath": "/themes/brief-app-based-practice/",
- "aiSnippet": "Meta-analysis / Systematic review, Complementary therapies in clinical practice (2021). Our literature search and review indicate a broad spectrum of neural mechanics under a variety of meditation styles have been investigated."
+ "aiSnippet": "Meta-analysis / Systematic review, Complementary therapies in clinical practice (2021). Our literature search and review indicate a broad spectrum of neural mechanics under a variety of meditation styles have been investigated.",
+ "whyItMatters": "",
+ "mechanismOverlap": "none",
+ "mechanismGap": "The practice in this study does not share a specific breath-regulation or directed-attention mechanism with the Miracle of Mind practice, so no practice bridge is drawn here."
 }

@@ -48,5 +48,8 @@
  "coreTheme": "Focus & Attention",
  "primaryEntityUrl": "https://doi.org/10.1177/0956797612459659",
  "relatedThemePath": "/themes/focus-attention/",
- "aiSnippet": "RCT, Psychological science (2013). Our results suggest that cultivating mindfulness is an effective and efficient technique for improving cognitive function, with wide-reaching consequences."
+ "aiSnippet": "RCT, Psychological science (2013). Our results suggest that cultivating mindfulness is an effective and efficient technique for improving cognitive function, with wide-reaching consequences.",
+ "whyItMatters": "MoM shares directed attention (the focused-attention component) with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "attention",
+ "mechanismGap": ""
 }

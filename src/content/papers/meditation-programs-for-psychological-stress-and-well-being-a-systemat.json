@@ -53,5 +53,8 @@
  "coreTheme": "Stress & Anxiety",
  "primaryEntityUrl": "https://doi.org/10.1001/jamainternmed.2013.13018",
  "relatedThemePath": "/themes/stress-anxiety/",
- "aiSnippet": "Meta-analysis / Systematic review, JAMA internal medicine (2014). Mindfulness meditation programs had moderate evidence of improved anxiety (effect size, 0.38 [95% CI, 0.12-0.64] at 8 weeks and 0.22 [0.02-0.43] at 3-6 months), depression (0.30 [0.00-0.59] at 8 weeks and 0.23 [0.05-0.42] at 3-6 months), and pain (0.33 [0.03- 0.62]) and low evidence of improved stress/distress and mental health-related quality of life. We found low evidence of no effect or insufficient evidence of any effect of meditation programs on positive mood, attention, substance use, eating habits, sleep, and weight. We found no evidence that meditation programs were better than any active\u2026"
+ "aiSnippet": "Meta-analysis / Systematic review, JAMA internal medicine (2014). Mindfulness meditation programs had moderate evidence of improved anxiety (effect size, 0.38 [95% CI, 0.12-0.64] at 8 weeks and 0.22 [0.02-0.43] at 3-6 months), depression (0.30 [0.00-0.59] at 8 weeks and 0.23 [0.05-0.42] at 3-6 months), and pain (0.33 [0.03- 0.62]) and low evidence of improved stress/distress and mental health-related quality of life. We found low evidence of no effect or insufficient evidence of any effect of meditation programs on positive mood, attention, substance use, eating habits, sleep, and weight. We found no evidence that meditation programs were better than any active\u2026",
+ "whyItMatters": "MoM shares directed attention (the focused-attention component) with the practice studied here. Because the benefit is linked to that mechanism rather than to any one method, it's reasonable to expect it may extend to MoM as well \u2014 though MoM hasn't been studied directly for this outcome.",
+ "mechanismOverlap": "attention",
+ "mechanismGap": ""
 }
