@@ -59,3 +59,20 @@ ul.findings li{margin:.4em 0}
   font-family:var(--sans);font-size:12.5px;line-height:1.4;letter-spacing:.01em;
   text-align:center;padding:7px 16px;border-bottom:1px solid #6f4720}
 .draft-banner strong{font-weight:700}
+
+/* --- Practice page: Is-A definition, responsive CTA, badges, FAQ --- */
+.isa{background:var(--accent-soft);border-left:3px solid var(--accent);border-radius:0 8px 8px 0;
+  padding:14px 20px;margin:16px 0 22px}
+.isa p{margin:0;font-size:16.5px}
+.cta-flex{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:20px;text-align:left}
+.cta-flex .cta-copy{flex:1 1 260px}
+.cta-micro{color:#eef1ea;font-family:var(--sans);font-size:14px;margin:6px 0 0;font-weight:600;letter-spacing:.01em}
+.cta-badges{display:flex;flex-wrap:wrap;gap:12px;align-items:center}
+.cta-badges a{background:none;padding:0;margin:0}
+.cta-badges img{height:48px;width:auto;display:block}
+@media (max-width:560px){.cta-flex{flex-direction:column;align-items:stretch;text-align:center}
+  .cta-badges{justify-content:center}}
+.faq{border-top:1px solid var(--line);margin-top:30px;padding-top:10px}
+.faq-item{margin:18px 0}
+.faq-item h3{font-size:1.08rem;margin:.2em 0 .3em}
+.faq-item p{font-size:16px;color:var(--ink-soft);margin:0}

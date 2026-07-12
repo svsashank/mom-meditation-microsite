@@ -1,21 +1,114 @@
 ---
 import Base from '../layouts/Base.astro';
 const b = import.meta.env.BASE_URL.replace(/\/$/, '');
+const iosUrl = 'https://apps.apple.com/us/app/miracle-of-mind-sadhguru/id6737795677';
+const androidUrl = 'https://play.google.com/store/apps/details?id=org.sadhguru.miracleofmind';
+
+// FAQ answers — every count sourced from PAPERS-100.csv; wording from approved site copy.
+const faqs = [
+  {
+    q: 'Is this suitable for beginners?',
+    a: 'Yes. Miracle of Mind is a single guided practice that asks for no prior experience, belief, or special skill. You follow along with the guided audio; a common starting point is one session a day.'
+  },
+  {
+    q: 'Do I need special equipment or posture?',
+    a: 'No. The practice needs no equipment, app purchases, or particular posture — just somewhere to sit comfortably and the guided audio. It is designed to be done daily without instruction beyond the app.'
+  },
+  {
+    q: "What's the scientific basis?",
+    a: 'This site summarizes 100 peer-reviewed studies on meditation: 46 systematic reviews or meta-analyses and 47 randomized controlled trials. 55 of the 100 concern yogic or breath-and-attention practices — the family Miracle of Mind belongs to. The set deliberately includes studies with null or mixed results and two major critiques of research quality, so the picture is not one-sided. Most studies examined related practices rather than Miracle of Mind itself, so findings do not transfer to it directly; the closest is a randomized trial of the guided online Isha Kriya practice (Frontiers in Psychiatry, 2022, doi:10.3389/fpsyt.2022.944973). See the research library and methodology page for the full basis and how claims are worded.'
+  }
+];
+
+const howToJson = {
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to do the Miracle of Mind 7-minute practice",
+  "description": "Miracle of Mind is a free guided meditation of a breath-based process followed by directed attention, done in about seven minutes a day.",
+  "totalTime": "PT7M",
+  "supply": [], "tool": [],
+  "step": [
+    { "@type": "HowToStep", "position": 1, "name": "Prepare",
+      "text": "Sit comfortably. No special posture or equipment is needed. Open the guided session in the free Miracle of Mind app." },
+    { "@type": "HowToStep", "position": 2, "name": "Breath-based process",
+      "text": "Follow the guided breath-based process for the first part of the practice." },
+    { "@type": "HowToStep", "position": 3, "name": "Directed attention",
+      "text": "Move into a short period of directed attention, as guided, to complete the roughly seven-minute practice." }
+  ]
+};
+const faqJson = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqs.map(f => ({
+    "@type": "Question", "name": f.q,
+    "acceptedAnswer": { "@type": "Answer", "text": f.a }
+  }))
+};
 ---
-<Base title="The Practice" description="What Miracle of Mind is: a free 7-minute guided meditation of breath and attention.">
+<Base title="The Practice — Miracle of Mind" description="Miracle of Mind is a free guided meditation app by Sadhguru: about seven minutes a day of breath and directed attention. No ads, no subscription.">
+  <Fragment slot="head">
+    <!-- Apple Smart App Banner (ASO) -->
+    <meta name="apple-itunes-app" content="app-id=6737795677" />
+    <!-- Open Graph (AEO/social) -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Miracle of Mind — Meditation Research" />
+    <meta property="og:title" content="The Practice — Miracle of Mind" />
+    <meta property="og:description" content="A free guided meditation app by Sadhguru: about seven minutes a day of breath and directed attention. No ads, no subscription." />
+    <meta property="og:url" content="https://svsashank.github.io/mom-meditation-microsite/practice/" />
+    <!-- OG IMAGE PLACEHOLDER — replace with supplied asset URL before launch -->
+    <meta property="og:image" content="REPLACE_WITH_OG_IMAGE_URL" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <!-- Structured data: HowTo + FAQPage -->
+    <script type="application/ld+json" set:html={JSON.stringify(howToJson)} />
+    <script type="application/ld+json" set:html={JSON.stringify(faqJson)} />
+  </Fragment>
+
   <section>
     <p class="eyebrow">The action layer</p>
     <h1>The Practice: Miracle of Mind</h1>
-    <p class="lede">Miracle of Mind is a free, guided meditation you can do in about seven minutes a day. It works with breath and attention — the family of practices much of the research on this site examines.</p>
-    <h3>The 7-minute structure</h3>
-    <p>The practice combines a short breath-based process with a period of directed attention, designed to be simple enough to do daily without instruction beyond the guided audio. It asks for no belief, posture equipment, or prior experience.</p>
-    <h3>How to start</h3>
-    <p>The practice is offered through the free Miracle of Mind app. Begin with one session a day, ideally at the same time, for a couple of weeks — most of the research here studies effects over four to eight weeks of regular practice.</p>
-    <div class="cta">
-      <h3>Start the 7-minute practice</h3>
-      <p style="color:#eef1ea">Free, guided, no experience needed.</p>
-      <a href="https://miracleofmind.org/">Get Miracle of Mind →</a>
+
+    <div class="isa">
+      <p><strong>Miracle of Mind is a free guided meditation app created by Sadhguru.</strong> It offers one short daily practice — about seven minutes of a breath-based process followed by a period of directed attention — designed to be an easy daily meditation habit that needs no prior experience, belief, or equipment. It is the breath-and-attention family of practice that much of the research on this site examines, across outcome areas including stress, sleep, focus and attention, and emotional wellbeing.</p>
     </div>
-    <p class="disclaimer">Meditation is not a treatment for any medical or psychological condition and does not replace professional care. If you live with a health condition, talk with a qualified professional about whether and how to add a practice.</p>
+
+    <p class="lede">Seven minutes a day. Free, guided, and simple enough to keep up without any background in meditation.</p>
+
+    <h3>What the practice is</h3>
+    <p>Miracle of Mind combines a short breath-based process with a period of directed attention. The whole practice takes roughly seven minutes and is delivered as a single guided session, so there is nothing to learn beyond pressing play. It asks for no belief system, no particular posture or equipment, and no prior experience — which is what makes it workable as a genuine daily meditation habit rather than an occasional exercise.</p>
+
+    <p>As a category, it sits among guided meditation apps aimed at mental wellbeing: the kind of brief, self-guided practice people reach for when they want everyday stress relief, or a bit more focus and clarity in a busy day. On this site we are careful about that language: we describe what researchers <em>study</em> these practices for, rather than promising a specific result for you. The outcome areas the library covers — stress and anxiety, sleep, focus and attention, emotional wellbeing, and the brain mechanisms behind them — are exactly the domains where brief, breath-based meditation has been examined.</p>
+
+    <h3>How to start</h3>
+    <p>Download the free Miracle of Mind app and do one guided session a day, ideally at a consistent time. Because it is short and needs no setup, the practical goal is simply consistency — returning to it daily rather than doing a long session occasionally. If you live with a health condition, talk with a qualified professional about whether and how to add a practice.</p>
+
+    <h3>Why a research-led guide points to a practice</h3>
+    <p>This site is built to be evidence-respecting first. The practice is offered here not as a cure or treatment for anything, but as the accessible, breath-and-attention practice that the surrounding research is about. Our summaries of {`100`} studies keep the science and the practice clearly separate — the methodology page explains exactly how those studies were chosen and how we word what they found.</p>
+
+    <div class="cta cta-flex">
+      <div class="cta-copy">
+        <h3>Start the 7-minute practice</h3>
+        <p class="cta-micro">No ads. No subscription. Just 7 minutes a day.</p>
+      </div>
+      <div class="cta-badges">
+        <a href={iosUrl} aria-label="Download Miracle of Mind on the App Store">
+          <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="48" />
+        </a>
+        <a href={androidUrl} aria-label="Get Miracle of Mind on Google Play">
+          <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="48" />
+        </a>
+      </div>
+    </div>
+
+    <section class="faq">
+      <h2>Frequently asked questions</h2>
+      {faqs.map(f => (
+        <div class="faq-item">
+          <h3>{f.q}</h3>
+          <p set:html={f.a.replace(/doi:(10\.\S+?)(\)| )/, '<a href="https://doi.org/$1">doi:$1</a>$2')} />
+        </div>
+      ))}
+    </section>
+
+    <p class="disclaimer">Meditation is not a treatment for any medical or psychological condition and does not replace professional care. Study counts on this page refer to the 100 papers summarized on this site; most examined practices related to, but not identical to, Miracle of Mind.</p>
   </section>
 </Base>

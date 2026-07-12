@@ -145,3 +145,25 @@ scientific reviewer must co-sign the CLAIMS-REGISTER before any production launc
 comparator are regex-extracted from abstracts; some read "see paper" where the
 abstract was not explicit. These should be confirmed against full text during
 content production.
+
+---
+
+## Phase 3c — /practice/ SEO/AEO/ASO pass
+
+**F17 (new) — og:image is a placeholder.** The practice page ships with
+`og:image` = `REPLACE_WITH_OG_IMAGE_URL` pending the supplied asset. Social/link
+previews will not render an image until this is replaced. Not a claims issue; a
+launch checklist item.
+
+**F18 (new) — removed an unsourced timeline claim.** Earlier draft copy on the
+practice page stated the research studies effects "over four to eight weeks of
+regular practice." I could not source a specific efficacy-timeline finding to
+PAPERS-100.csv without approximating across heterogeneous study durations, so I
+removed the specific week-count and reframed the guidance around consistency
+(one session a day) rather than a promised timeframe. If a defensible timeline is
+wanted, it should be derived from named studies during content review.
+
+**F19 (new) — store-badge images are hotlinked from Apple/Google.** The App Store
+and Google Play badges load from Apple's and Google's official asset URLs. These
+are the real badges but depend on those URLs staying live; consider self-hosting
+the official badge assets before production.
