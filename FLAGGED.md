@@ -281,3 +281,113 @@ as this repo shows, nothing was suppressing indexing until now.
   since these strings change.
 - Reminder: robots.txt is advisory and only honored by compliant bots; the
   `noindex` meta tag is what actually keeps pages out of indexes.
+
+---
+
+## Phase 3g — bridge/limitations coherence audit (all 72 bridge pages)
+
+**F30 — audited all 72 bridge pages for the Limitations-vs-"Why this matters" contradiction.** 65 pages had a flat "findings do not transfer directly to MoM" limitation sitting immediately before a bridge that argues the benefit may extend — a genuine incoherence. On those, the limitation was rewritten to acknowledge the shared mechanism and point to the bridge ("…so its findings don't transfer directly — though the shared [mechanism] component may make some transfer plausible (see 'Why this matters…' below)"). Both sections retained. 7 bridge pages had no transfer-gap limitation (it was truncated earlier by the 4-item limitations cap), so no contradiction existed; the bridge's own "…hasn't been studied directly" hedge stands. Full per-page audit: `data/bridge-transfer-audit.csv`.
+
+Per-page audit (slug · overlap · reconciled):
+- a-randomised-active-controlled-trial-to-examine-the-effects-of-an-onli · attention · reconciled
+- a-randomised-controlled-trial-of-a-brief-online-mindfulness-based-inte · attention · reconciled
+- a-randomized-controlled-trial-of-mindfulness-meditation-for-chronic-in · attention · reconciled
+- a-structured-literature-review-on-the-role-of-mindfulness-mindful-eati · attention · reconciled
+- a-systematic-review-and-meta-analysis-of-acceptance-and-mindfulness-ba · attention · no-transfer-lim (no conflict)
+- a-systematic-review-and-meta-analysis-of-workplace-mindfulness-trainin · attention · reconciled
+- a-systematic-review-of-the-neurophysiology-of-mindfulness-on-eeg-oscil · attention · reconciled
+- benefits-of-preparing-for-childbirth-with-mindfulness-training-a-rando · attention · reconciled
+- brief-daily-meditation-enhances-attention-memory-mood-and-emotional-re · attention · reconciled
+- brief-mindfulness-based-training-and-mindfulness-trait-attenuate-psych · attention · reconciled
+- brief-mindfulness-training-for-negative-affectivity-a-systematic-revie · attention · reconciled
+- conceptual-and-methodological-issues-in-research-on-mindfulness-and-me · attention · reconciled
+- cultivating-mindfulness-effects-on-well-being · attention · reconciled
+- does-mindfulness-based-stress-reduction-training-have-an-impact-on-the · attention · reconciled
+- effect-of-mindfulness-yoga-on-anxiety-and-depression-in-early-breast-c · attention · reconciled
+- effectiveness-of-online-mindfulness-interventions-on-medical-students- · attention · reconciled
+- effects-of-a-prenatal-mindfulness-program-on-longitudinal-changes-in-s · attention · reconciled
+- effects-of-mind-body-exercise-on-perimenopausal-and-postmenopausal-wom · attention · reconciled
+- effects-of-mindfulness-training-and-exercise-on-cognitive-function-in- · attention · reconciled
+- effects-of-mindfulness-yoga-vs-stretching-and-resistance-training-exer · attention · reconciled
+- effects-of-mobile-mindfulness-meditation-on-the-mental-health-of-unive · attention · no-transfer-lim (no conflict)
+- efficacy-of-the-mindfulness-meditation-mobile-app-calm-to-reduce-stres · attention · reconciled
+- guided-self-help-works-randomized-waitlist-controlled-trial-of-pacific · attention · reconciled
+- health-care-workers-need-for-headspace-findings-from-a-multisite-defin · attention · reconciled
+- holistic-nursing-in-practice-mindfulness-based-yoga-as-an-intervention · attention · reconciled
+- impact-of-mindfulness-based-stress-reduction-training-on-intrinsic-bra · attention · reconciled
+- impact-of-short-and-long-term-mindfulness-meditation-training-on-amygd · attention · no-transfer-lim (no conflict)
+- improving-stress-management-anxiety-and-mental-well-being-in-medical-s · attention · reconciled
+- investigation-of-mindfulness-meditation-practitioners-with-voxel-based · attention · reconciled
+- meditation-programs-for-psychological-stress-and-well-being-a-systemat · attention · reconciled
+- meta-analytic-evidence-that-mindfulness-training-alters-resting-state- · attention · reconciled
+- mind-the-hype-a-critical-evaluation-and-prescriptive-agenda-for-resear · attention · reconciled
+- mindfulness-based-interventions-for-psychiatric-disorders-a-systematic · attention · reconciled
+- mindfulness-based-stress-reduction-for-healthy-individuals-a-meta-anal · attention · reconciled
+- mindfulness-based-stress-reduction-for-stress-management-in-healthy-pe · attention · reconciled
+- mindfulness-based-stress-reduction-in-post-treatment-breast-cancer-pat · attention · reconciled
+- mindfulness-based-therapy-a-comprehensive-meta-analysis · attention · reconciled
+- mindfulness-for-smoking-cessation · attention · reconciled
+- mindfulness-interventions · attention · reconciled
+- mindfulness-meditation-and-network-neuroscience-review-synthesis-and-f · attention · reconciled
+- mindfulness-meditation-and-the-immune-system-a-systematic-review-of-ra · attention · no-transfer-lim (no conflict)
+- mindfulness-meditation-improves-emotion-regulation-and-reduces-drug-ab · attention · reconciled
+- mindfulness-meditation-training-alters-stress-related-amygdala-resting · attention · reconciled
+- mindfulness-training-improves-working-memory-capacity-and-gre-performa · attention · reconciled
+- neurobiological-changes-induced-by-mindfulness-and-meditation-a-system · attention · reconciled
+- psychological-and-mind-body-interventions-for-endometriosis-a-systemat · attention · reconciled
+- reducing-stress-with-yoga-a-systematic-review-based-on-multimodal-bios · attention · reconciled
+- research-review-the-effects-of-mindfulness-based-interventions-on-cogn · attention · reconciled
+- review-of-the-neural-oscillations-underlying-meditation · attention · reconciled
+- the-clinical-efficacy-of-mindfulness-based-treatments-for-alcohol-and- · attention · reconciled
+- the-effect-of-mindfulness-based-programs-on-cognitive-function-in-adul · attention · reconciled
+- the-effectiveness-of-mindfulness-based-programs-in-reducing-stress-exp · attention · reconciled
+- the-effects-of-mindfulness-meditation-on-nursing-students-stress-and-a · attention · reconciled
+- the-impact-of-mindfulness-meditation-on-the-wandering-mind-a-systemati · attention · no-transfer-lim (no conflict)
+- the-influence-of-mindfulness-meditation-combined-with-progressive-musc · attention · reconciled
+- the-potential-effects-of-meditation-on-age-related-cognitive-decline-a · attention · reconciled
+- yoga-mindfulness-based-stress-reduction-and-stress-related-physiologic · attention · reconciled
+- breathing-practices-for-stress-and-anxiety-reduction-conceptual-framew · breath · reconciled
+- effect-of-a-single-session-of-yoga-and-meditation-on-stress-reactivity · breath · reconciled
+- effectiveness-of-yoga-in-modulating-markers-of-immunity-and-inflammati · breath · reconciled
+- effects-of-breathing-exercises-in-patients-with-chronic-obstructive-pu · breath · reconciled
+- efficacy-of-mhealth-aided-12-week-meditation-and-breath-intervention-o · breath · reconciled
+- how-breath-control-can-change-your-life-a-systematic-review-on-psycho- · breath · reconciled
+- physiology-of-long-pranayamic-breathing-neural-respiratory-elements-ma · breath · reconciled
+- slow-breathing-for-reducing-stress-the-effect-of-extending-exhale · breath · reconciled
+- yoga-for-improving-health-related-quality-of-life-mental-health-and-ca · breath · no-transfer-lim (no conflict)
+- mechanisms-of-mindfulness-emotion-regulation-following-a-focused-breat · breath+attention · reconciled
+- mindful-attention-to-breath-regulates-emotions-via-increased-amygdala- · breath+attention · reconciled
+- isha-yoga-practices-vegan-diet-and-participation-in-samyama-meditation · isha · no-transfer-lim (no conflict)
+- large-scale-genomic-study-reveals-robust-activation-of-the-immune-syst · isha · reconciled
+- online-guided-meditation-training-isha-kriya-improves-self-reported-sy · isha · reconciled
+- online-isha-upa-yoga-for-student-mental-health-and-well-being-during-c · isha · reconciled
+
+**F31 — 28 bridges rest on a broad mindfulness/meditation review via attention-only overlap (the F25 case for reviewers).** These are the weakest-anchored bridges: the shared mechanism is only "directed attention," and the source is a broad systematic review/meta-analysis (often pooling many mindfulness or yoga programs) rather than a study of a specific breath-and-attention practice. The mechanistic-transfer inference is most debatable here and should be the priority for reviewer sign-off — reviewers may choose to soften or drop the bridge on these:
+- [A systematic review and meta-analysis of acceptanc] · Mindfulness-Based Stress Reduction (MBSR) · Meta-analysis / Systematic review
+- [A systematic review and meta-analysis of workplace] · mindfulness / meditation · Meta-analysis / Systematic review
+- [A systematic review of the neurophysiology of mind] · mindfulness / meditation · Meta-analysis / Systematic review
+- [Brief mindfulness training for negative affectivit] · mindfulness / meditation · Meta-analysis / Systematic review
+- [Conceptual and methodological issues in research o] · mindfulness / meditation · Meta-analysis / Systematic review
+- [Effectiveness of online mindfulness interventions ] · mindfulness / meditation · Meta-analysis / Systematic review
+- [Effects of Mobile Mindfulness Meditation on the Me] · mindfulness / meditation · Meta-analysis / Systematic review
+- [Effects of mind-body exercise on perimenopausal an] · Tai Chi · Meta-analysis / Systematic review
+- [Meditation programs for psychological stress and w] · mindfulness / meditation · Meta-analysis / Systematic review
+- [Meta-analytic evidence that mindfulness training a] · mindfulness / meditation · Meta-analysis / Systematic review
+- [Mind the Hype: A Critical Evaluation and Prescript] · mindfulness / meditation · Meta-analysis / Systematic review
+- [Mindfulness for smoking cessation] · yoga · Meta-analysis / Systematic review
+- [Mindfulness meditation and the immune system: a sy] · mindfulness / meditation · Meta-analysis / Systematic review
+- [Mindfulness-based interventions for psychiatric di] · mindfulness / meditation · Meta-analysis / Systematic review
+- [Mindfulness-based stress reduction for healthy ind] · Mindfulness-Based Stress Reduction (MBSR) · Meta-analysis / Systematic review
+- [Mindfulness-based stress reduction for stress mana] · Mindfulness-Based Stress Reduction (MBSR) · Meta-analysis / Systematic review
+- [Mindfulness-based therapy: a comprehensive meta-an] · mindfulness / meditation · Meta-analysis / Systematic review
+- [Neurobiological Changes Induced by Mindfulness and] · mindfulness / meditation · Meta-analysis / Systematic review
+- [Psychological and mind-body interventions for endo] · yoga · Meta-analysis / Systematic review
+- [Reducing Stress with Yoga: A Systematic Review Bas] · yoga · Meta-analysis / Systematic review
+- [Research Review: The effects of mindfulness-based ] · mindfulness / meditation · Meta-analysis / Systematic review
+- [Review of the Neural Oscillations Underlying Medit] · mindfulness / meditation · Meta-analysis / Systematic review
+- [The Clinical Efficacy of Mindfulness-Based Treatme] · mindfulness / meditation · Meta-analysis / Systematic review
+- [The Effect of Mindfulness-based Programs on Cognit] · mindfulness / meditation · Meta-analysis / Systematic review
+- [The Impact of Mindfulness Meditation on the Wander] · mindfulness / meditation · Meta-analysis / Systematic review
+- [The effectiveness of mindfulness based programs in] · Mindfulness-Based Stress Reduction (MBSR) · Meta-analysis / Systematic review
+- [The potential effects of meditation on age-related] · mindfulness / meditation · Meta-analysis / Systematic review
+- [Yoga, mindfulness-based stress reduction and stres] · yoga · Meta-analysis / Systematic review
